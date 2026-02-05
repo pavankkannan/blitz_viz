@@ -1,0 +1,19 @@
+.app {
+  display: flex;
+  gap: 32px;
+  padding: 24px;
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+.table-container {
+  flex-shrink: 0;
+  max-height: 100%;
+}
+
+.charts-container {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  flex: 1;
+}

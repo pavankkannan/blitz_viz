@@ -1,0 +1,35 @@
+Draft ID: 634072250162
+Patch: v7.9
+Date: 1/30/2026, 10:02:13 PM
+Total Pokemon Sold: 24
+
+Player,Starting Money,Remaining Money
+E,20000,500
+J,20000,0
+P,20000,4400
+
+Order,Pokemon,Drafted By,Cost
+1,Wishiwashi,P,2500
+2,Bombirdier,E,2600
+3,Skrelp,E,2000
+4,Minccino,J,1700
+5,Skiddo,E,2600
+6,Sneasel,J,2800
+7,Bagon,E,1600
+8,Turtwig,P,3500
+9,Electrike,E,2200
+10,Horsea,J,2100
+11,Charmander,E,3200
+12,Fuecoco,J,3300
+13,Falinks,P,1200
+14,Magnemite,E,4000
+15,Snorunt,E,1300
+16,Egg,P,2800
+17,Starly,P,2500
+18,Wingull,J,2000
+19,Turtonator,J,3000
+20,Sizzlipede,P,1900
+21,Frillish,J,2500
+22,Drifloon,P,1100
+23,Stufful,J,2600
+24,Poochyena,P,100

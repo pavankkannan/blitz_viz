@@ -1,0 +1,35 @@
+Draft ID: 115300181716
+Patch: v8.0
+Date: 2/2/2026, 12:59:11 AM
+Total Pokemon Sold: 24
+
+Player,Starting Money,Remaining Money
+Eli,2100,-15800
+Ely,0,-20000
+Jackson,0,-20000
+
+Order,Pokemon,Drafted By,Cost
+1,Aron,Ely,2900
+2,Chinchou,Ely,2100
+3,Corsola,Jackson,3000
+4,Cubone,Ely,2900
+5,Cufant,Eli,2100
+6,Dewpider,Jackson,3400
+7,Drilbur,Ely,2500
+8,Falinks,Jackson,2200
+9,Feebas,Eli,2300
+10,Fletchling,Eli,2000
+11,Froakie,Ely,3400
+12,Gossifleur,Eli,2600
+13,Klawf,Jackson,2400
+14,Miltank,Ely,2300
+15,Ralts,Eli,3800
+16,Remoraid,Eli,1600
+17,Sandshrew,Jackson,2200
+18,Sewaddle,Eli,1200
+19,Shuppet,Ely,1800
+20,Smoliv,Ely,2100
+21,Sneasel,Jackson,2200
+22,Stonjourner,Jackson,2000
+23,Stufful,Eli,2300
+24,Egg,Jackson,2600

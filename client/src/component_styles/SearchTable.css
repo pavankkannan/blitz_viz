@@ -1,0 +1,61 @@
+.search-table-wrapper {
+  max-height: 80vh;
+  overflow-y: auto;
+  border: 2px solid black;
+}
+
+
+.search-table {
+  border-collapse: collapse;
+  width: auto;
+  table-layout: auto;
+  /* border: 2px solid black; */
+  white-space: nowrap;
+}
+
+.search-table th, .search-table td {
+  padding: 8px 12px;
+  text-align: left;
+}
+
+.search-table th {
+  position: sticky;
+  top: 0;
+  background-color: rgb(189, 255, 181);
+  z-index: 2;
+  /* border-top: 2px solid black; */
+}
+
+
+.row-even td {
+  background-color: #ffffff;
+}
+
+.row-odd td {
+  background-color: #f5f5f5;
+}
+
+.search-table tr:hover td {
+  background-color: #eaeaea;
+}
+
+.table-header {
+  white-space: nowrap;
+  user-select: none;
+  cursor: pointer;
+}
+
+/* Keep label and arrow aligned */
+.header-label {
+  margin-right: 6px;
+}
+
+/* Always reserve space for arrow */
+.sort-indicator {
+  display: inline-block;
+  width: 12px;          /* reserved arrow width */
+  text-align: center;
+}
+
+
+

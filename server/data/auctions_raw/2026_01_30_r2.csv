@@ -1,0 +1,62 @@
+Draft ID: 716302420040
+Patch: v7.9
+Date: 1/31/2026, 1:53:15 AM
+Total Pokemon Sold: 48
+
+Player,Starting Money,Remaining Money
+Austin,20000,0
+Eli,20000,800
+Ely,20000,1800
+Jackson,20000,0
+Paddy,20000,2400
+Pavan,20000,0
+
+Order,Pokemon,Drafted By,Cost
+1,Lillipup,Eli,2400
+2,Growlithe,Eli,2600
+3,Cubone,Ely,2400
+4,Wooper,Paddy,2300
+5,Litwick,Ely,3500
+6,Aron,Ely,3000
+7,Swirlix,Ely,2100
+8,Castform,Pavan,3200
+9,Turtonator,Jackson,2900
+10,Inkay,Paddy,1700
+11,Gossifleur,Jackson,3000
+12,Skorupi,Eli,2500
+13,Flabebe,Pavan,2200
+14,Absol,Ely,2100
+15,Shinx,Paddy,2800
+16,Drilbur,Austin,3100
+17,Geodude,Austin,2700
+18,Remoraid,Paddy,2400
+19,Charmander,Pavan,2200
+20,Feebas,Eli,1800
+21,Rowlet,Eli,3000
+22,Clamperl,Paddy,2500
+23,Tynamo,Austin,2300
+24,Bulbasaur,Austin,3700
+25,Morelull,Pavan,2600
+26,Poochyena,Austin,2400
+27,Tirtouga,Ely,2100
+28,Solosis,Eli,1700
+29,Goomy,Eli,2900
+30,Pancham,Pavan,2200
+31,Espurr,Jackson,2000
+32,Smeargle,Paddy,1100
+33,Porygon,Pavan,2600
+34,Ponyta,Paddy,2100
+35,Croagunk,Jackson,2600
+36,Bounsweet,Eli,2300
+37,Varoom,Pavan,2100
+38,Drifloon,Austin,1700
+39,Gothita,Jackson,2000
+40,Torchic,Austin,2400
+41,Onix,Jackson,2200
+42,Joltik,Paddy,1800
+43,Weedle,Austin,1700
+44,Zorua,Jackson,1500
+45,Shuppet,Paddy,900
+46,Surskit,Pavan,2900
+47,Yamper,Jackson,3800
+48,Gastly,Ely,3000

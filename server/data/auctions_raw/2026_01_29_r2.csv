@@ -1,0 +1,44 @@
+Draft ID: 070995420577
+Patch: v7.9
+Date: 1/29/2026, 11:09:03 PM
+Total Pokemon Sold: 32
+
+Player,Starting Money,Remaining Money
+Austin,20000,0
+Paddy,20000,2600
+Pavan,20000,2500
+Primo,20000,0
+
+Order,Pokemon,Drafted By,Cost
+1,Frillish,Paddy,3200
+2,Blipbug,Primo,1600
+3,Sandygast,Pavan,2400
+4,Tentacool,Pavan,2300
+5,Chewtle,Pavan,2700
+6,Corsola,Austin,1700
+7,Honedge,Austin,2100
+8,Mudkip,Primo,3300
+9,Yanma,Austin,1700
+10,Goomy,Pavan,2500
+11,Yamper,Paddy,2000
+12,Pikipek,Pavan,1700
+13,Fennekin,Paddy,2800
+14,Treecko,Pavan,3300
+15,Clauncher,Paddy,2300
+16,Minior,Austin,1700
+17,Turtonator,Primo,2500
+18,Fuecoco,Primo,2500
+19,Buneary,Primo,1500
+20,Minccino,Paddy,1300
+21,Poliwag,Austin,2000
+22,Mawile,Primo,2300
+23,Litleo,Austin,1900
+24,Egg,Austin,3000
+25,Egg,Paddy,3200
+26,Lillipup,Primo,1300
+27,Emolga,Primo,2500
+28,Sandshrew,Pavan,2600
+29,Tirtouga,Austin,2600
+30,Ekans,Primo,2500
+31,Stantler,Austin,3300
+32,Gothita,Paddy,2600
