@@ -1,0 +1,58 @@
+{
+  "cost_over_runs": [
+    {
+      "run_number": 7,
+      "cost": 2200,
+      "drafted_by": "Pavan",
+      "pick_num": 8,
+      "num_picks": 48,
+      "run_id": "2026_01_24_r1"
+    },
+    {
+      "run_number": 9,
+      "cost": 1800,
+      "drafted_by": "Austin",
+      "pick_num": 16,
+      "num_picks": 32,
+      "run_id": "2026_01_27_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 7,
+      "result_order": 13,
+      "drafted_by": "Pavan",
+      "placement": 1,
+      "result": "Steven",
+      "num_racers": 6
+    },
+    {
+      "run_number": 9,
+      "result_order": 7,
+      "drafted_by": "Austin",
+      "placement": 3,
+      "result": "Flannery",
+      "num_racers": 4
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 0.0,
+      "cost": 2200
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 1800
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 0.0,
+      "cost": 2200
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 1800
+    }
+  ]
+}

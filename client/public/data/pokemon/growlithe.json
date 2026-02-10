@@ -1,0 +1,106 @@
+{
+  "cost_over_runs": [
+    {
+      "run_number": 2,
+      "cost": 3700,
+      "drafted_by": "Pavan",
+      "pick_num": 28,
+      "num_picks": 72,
+      "run_id": "2026_01_08_r1"
+    },
+    {
+      "run_number": 3,
+      "cost": 2700,
+      "drafted_by": "Christian",
+      "pick_num": 22,
+      "num_picks": 48,
+      "run_id": "2026_01_11_r1"
+    },
+    {
+      "run_number": 6,
+      "cost": 2000,
+      "drafted_by": "Christian",
+      "pick_num": 28,
+      "num_picks": 40,
+      "run_id": "2026_01_23_r2"
+    },
+    {
+      "run_number": 10,
+      "cost": 3400,
+      "drafted_by": "Pavan",
+      "pick_num": 15,
+      "num_picks": 24,
+      "run_id": "2026_01_28_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 2,
+      "result_order": 9,
+      "drafted_by": "Pavan",
+      "placement": 3,
+      "result": "Spenser",
+      "num_racers": 9
+    },
+    {
+      "run_number": 3,
+      "result_order": 5,
+      "drafted_by": "Christian",
+      "placement": 3,
+      "result": "Roxanne",
+      "num_racers": 6
+    },
+    {
+      "run_number": 6,
+      "result_order": 3,
+      "drafted_by": "Christian",
+      "placement": 5,
+      "result": "Winona",
+      "num_racers": 5
+    },
+    {
+      "run_number": 10,
+      "result_order": 4,
+      "drafted_by": "Pavan",
+      "placement": 2,
+      "result": "Norman",
+      "num_racers": 3
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 0.0,
+      "cost": 3700
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2700
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2000
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 3400
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 1.0,
+      "cost": 3700
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 2700
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 2000
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 3400
+    }
+  ]
+}

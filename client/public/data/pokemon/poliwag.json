@@ -1,0 +1,82 @@
+{
+  "cost_over_runs": [
+    {
+      "run_number": 1,
+      "cost": 1800,
+      "drafted_by": "Pavan",
+      "pick_num": 59,
+      "num_picks": 64,
+      "run_id": "2026_01_05_r1"
+    },
+    {
+      "run_number": 8,
+      "cost": 2400,
+      "drafted_by": "Joey",
+      "pick_num": 63,
+      "num_picks": 64,
+      "run_id": "2026_01_25_r1"
+    },
+    {
+      "run_number": 10,
+      "cost": 2300,
+      "drafted_by": "Pavan",
+      "pick_num": 10,
+      "num_picks": 24,
+      "run_id": "2026_01_28_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 1,
+      "result_order": 5,
+      "drafted_by": "Pavan",
+      "placement": 7,
+      "result": "Roxanne",
+      "num_racers": 8
+    },
+    {
+      "run_number": 8,
+      "result_order": 2,
+      "drafted_by": "Joey",
+      "placement": 8,
+      "result": "Norman",
+      "num_racers": 8
+    },
+    {
+      "run_number": 10,
+      "result_order": 4,
+      "drafted_by": "Pavan",
+      "placement": 2,
+      "result": "Norman",
+      "num_racers": 3
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 1.0,
+      "cost": 1800
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2400
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2300
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 3.0,
+      "cost": 1800
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 2400
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 2300
+    }
+  ]
+}

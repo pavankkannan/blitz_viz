@@ -1,0 +1,106 @@
+{
+  "cost_over_runs": [
+    {
+      "run_number": 3,
+      "cost": 3100,
+      "drafted_by": "Christian",
+      "pick_num": 29,
+      "num_picks": 48,
+      "run_id": "2026_01_11_r1"
+    },
+    {
+      "run_number": 4,
+      "cost": 3500,
+      "drafted_by": "Austin",
+      "pick_num": 3,
+      "num_picks": 32,
+      "run_id": "2026_01_19_r1"
+    },
+    {
+      "run_number": 7,
+      "cost": 3200,
+      "drafted_by": "Austin",
+      "pick_num": 22,
+      "num_picks": 48,
+      "run_id": "2026_01_24_r1"
+    },
+    {
+      "run_number": 10,
+      "cost": 3100,
+      "drafted_by": "Pavan",
+      "pick_num": 20,
+      "num_picks": 24,
+      "run_id": "2026_01_28_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 3,
+      "result_order": 5,
+      "drafted_by": "Christian",
+      "placement": 3,
+      "result": "Roxanne",
+      "num_racers": 6
+    },
+    {
+      "run_number": 4,
+      "result_order": 6,
+      "drafted_by": "Austin",
+      "placement": 2,
+      "result": "Tate & Liza",
+      "num_racers": 4
+    },
+    {
+      "run_number": 7,
+      "result_order": 5,
+      "drafted_by": "Austin",
+      "placement": 5,
+      "result": "Viola",
+      "num_racers": 6
+    },
+    {
+      "run_number": 10,
+      "result_order": 4,
+      "drafted_by": "Pavan",
+      "placement": 2,
+      "result": "Norman",
+      "num_racers": 3
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 1.0,
+      "cost": 3100
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 3500
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 3200
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 3100
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 2.0,
+      "cost": 3100
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 3500
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 3200
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 3100
+    }
+  ]
+}

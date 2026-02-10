@@ -1,0 +1,82 @@
+{
+  "cost_over_runs": [
+    {
+      "run_number": 1,
+      "cost": 1100,
+      "drafted_by": "Eli",
+      "pick_num": 61,
+      "num_picks": 64,
+      "run_id": "2026_01_05_r1"
+    },
+    {
+      "run_number": 6,
+      "cost": 2600,
+      "drafted_by": "Primo",
+      "pick_num": 27,
+      "num_picks": 40,
+      "run_id": "2026_01_23_r2"
+    },
+    {
+      "run_number": 8,
+      "cost": 2600,
+      "drafted_by": "Eli",
+      "pick_num": 12,
+      "num_picks": 64,
+      "run_id": "2026_01_25_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 1,
+      "result_order": 8,
+      "drafted_by": "Eli",
+      "placement": 2,
+      "result": "Norman",
+      "num_racers": 8
+    },
+    {
+      "run_number": 6,
+      "result_order": 5,
+      "drafted_by": "Primo",
+      "placement": 3,
+      "result": "Viola",
+      "num_racers": 5
+    },
+    {
+      "run_number": 8,
+      "result_order": 4,
+      "drafted_by": "Eli",
+      "placement": 5,
+      "result": "Norman",
+      "num_racers": 8
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 1.0,
+      "cost": 1100
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2600
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2600
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 3.0,
+      "cost": 1100
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 2600
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 2600
+    }
+  ]
+}

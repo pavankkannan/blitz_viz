@@ -17,7 +17,7 @@ function App() {
 
 
   useEffect(() => {
-    fetchPokemonData(selectedPokemon, 4)
+    fetchPokemonData(selectedPokemon)
       .then(res => setData(res))
       .catch(console.error);
   }, [selectedPokemon]);

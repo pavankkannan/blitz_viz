@@ -1,0 +1,58 @@
+{
+  "cost_over_runs": [
+    {
+      "run_number": 2,
+      "cost": 2800,
+      "drafted_by": "Joey",
+      "pick_num": 40,
+      "num_picks": 72,
+      "run_id": "2026_01_08_r1"
+    },
+    {
+      "run_number": 3,
+      "cost": 3100,
+      "drafted_by": "Christian",
+      "pick_num": 36,
+      "num_picks": 48,
+      "run_id": "2026_01_11_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 2,
+      "result_order": 9,
+      "drafted_by": "Joey",
+      "placement": 2,
+      "result": "Sidney",
+      "num_racers": 9
+    },
+    {
+      "run_number": 3,
+      "result_order": 5,
+      "drafted_by": "Christian",
+      "placement": 3,
+      "result": "Roxanne",
+      "num_racers": 6
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 1.0,
+      "cost": 2800
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 3100
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 2.0,
+      "cost": 2800
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 3100
+    }
+  ]
+}

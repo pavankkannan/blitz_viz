@@ -1,0 +1,58 @@
+{
+  "cost_over_runs": [
+    {
+      "run_number": 3,
+      "cost": 6000,
+      "drafted_by": "Pavan",
+      "pick_num": 47,
+      "num_picks": 48,
+      "run_id": "2026_01_11_r1"
+    },
+    {
+      "run_number": 9,
+      "cost": 2000,
+      "drafted_by": "Ely",
+      "pick_num": 29,
+      "num_picks": 32,
+      "run_id": "2026_01_27_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 3,
+      "result_order": 5,
+      "drafted_by": "Pavan",
+      "placement": 2,
+      "result": "Tate & Liza",
+      "num_racers": 6
+    },
+    {
+      "run_number": 9,
+      "result_order": 10,
+      "drafted_by": "Ely",
+      "placement": 1,
+      "result": "Lucy",
+      "num_racers": 4
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 1.0,
+      "cost": 6000
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2000
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 3.0,
+      "cost": 6000
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 2000
+    }
+  ]
+}

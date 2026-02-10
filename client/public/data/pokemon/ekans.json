@@ -1,0 +1,34 @@
+{
+  "cost_over_runs": [
+    {
+      "run_number": 3,
+      "cost": 2500,
+      "drafted_by": "Primo",
+      "pick_num": 44,
+      "num_picks": 48,
+      "run_id": "2026_01_11_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 3,
+      "result_order": 6,
+      "drafted_by": "Primo",
+      "placement": 1,
+      "result": "Winona",
+      "num_racers": 6
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 1.0,
+      "cost": 2500
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 3.0,
+      "cost": 2500
+    }
+  ]
+}

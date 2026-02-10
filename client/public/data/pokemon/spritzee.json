@@ -1,0 +1,58 @@
+{
+  "cost_over_runs": [
+    {
+      "run_number": 8,
+      "cost": 1900,
+      "drafted_by": "Paddy",
+      "pick_num": 33,
+      "num_picks": 64,
+      "run_id": "2026_01_25_r1"
+    },
+    {
+      "run_number": 9,
+      "cost": 2100,
+      "drafted_by": "Ely",
+      "pick_num": 17,
+      "num_picks": 32,
+      "run_id": "2026_01_27_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 8,
+      "result_order": 4,
+      "drafted_by": "Paddy",
+      "placement": 3,
+      "result": "Juan & Wallace",
+      "num_racers": 8
+    },
+    {
+      "run_number": 9,
+      "result_order": 10,
+      "drafted_by": "Ely",
+      "placement": 1,
+      "result": "Lucy",
+      "num_racers": 4
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 1.0,
+      "cost": 1900
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2100
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 2.0,
+      "cost": 1900
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 2100
+    }
+  ]
+}

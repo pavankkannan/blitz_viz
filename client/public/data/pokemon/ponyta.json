@@ -1,0 +1,82 @@
+{
+  "cost_over_runs": [
+    {
+      "run_number": 1,
+      "cost": 1700,
+      "drafted_by": "Austin",
+      "pick_num": 25,
+      "num_picks": 64,
+      "run_id": "2026_01_05_r1"
+    },
+    {
+      "run_number": 6,
+      "cost": 2100,
+      "drafted_by": "Paddy",
+      "pick_num": 21,
+      "num_picks": 40,
+      "run_id": "2026_01_23_r2"
+    },
+    {
+      "run_number": 7,
+      "cost": 2100,
+      "drafted_by": "Pavan",
+      "pick_num": 20,
+      "num_picks": 48,
+      "run_id": "2026_01_24_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 1,
+      "result_order": 7,
+      "drafted_by": "Austin",
+      "placement": 4,
+      "result": "Juan & Wallace",
+      "num_racers": 8
+    },
+    {
+      "run_number": 6,
+      "result_order": 6,
+      "drafted_by": "Paddy",
+      "placement": 1,
+      "result": "Tate & Liza",
+      "num_racers": 5
+    },
+    {
+      "run_number": 7,
+      "result_order": 13,
+      "drafted_by": "Pavan",
+      "placement": 1,
+      "result": "Steven",
+      "num_racers": 6
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 0.0,
+      "cost": 1700
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2100
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2100
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 1.0,
+      "cost": 1700
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 2100
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 2100
+    }
+  ]
+}

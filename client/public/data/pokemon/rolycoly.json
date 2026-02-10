@@ -1,0 +1,106 @@
+{
+  "cost_over_runs": [
+    {
+      "run_number": 2,
+      "cost": 2900,
+      "drafted_by": "Joey",
+      "pick_num": 20,
+      "num_picks": 72,
+      "run_id": "2026_01_08_r1"
+    },
+    {
+      "run_number": 3,
+      "cost": 6000,
+      "drafted_by": "Eli",
+      "pick_num": 48,
+      "num_picks": 48,
+      "run_id": "2026_01_11_r1"
+    },
+    {
+      "run_number": 6,
+      "cost": 1400,
+      "drafted_by": "Jackson",
+      "pick_num": 13,
+      "num_picks": 40,
+      "run_id": "2026_01_23_r2"
+    },
+    {
+      "run_number": 7,
+      "cost": 2400,
+      "drafted_by": "Christian",
+      "pick_num": 47,
+      "num_picks": 48,
+      "run_id": "2026_01_24_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 2,
+      "result_order": 9,
+      "drafted_by": "Joey",
+      "placement": 2,
+      "result": "Sidney",
+      "num_racers": 9
+    },
+    {
+      "run_number": 3,
+      "result_order": 4,
+      "drafted_by": "Eli",
+      "placement": 4,
+      "result": "Norman",
+      "num_racers": 6
+    },
+    {
+      "run_number": 6,
+      "result_order": 6,
+      "drafted_by": "Jackson",
+      "placement": 2,
+      "result": "Tate & Liza",
+      "num_racers": 5
+    },
+    {
+      "run_number": 7,
+      "result_order": 6,
+      "drafted_by": "Christian",
+      "placement": 4,
+      "result": "Wattson",
+      "num_racers": 6
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 0.0,
+      "cost": 2900
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 6000
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 1400
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2400
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 1.0,
+      "cost": 2900
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 6000
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 1400
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 2400
+    }
+  ]
+}

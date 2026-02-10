@@ -1,0 +1,34 @@
+{
+  "cost_over_runs": [
+    {
+      "run_number": 4,
+      "cost": 2000,
+      "drafted_by": "Pavan",
+      "pick_num": 4,
+      "num_picks": 32,
+      "run_id": "2026_01_19_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 4,
+      "result_order": 2,
+      "drafted_by": "Pavan",
+      "placement": 4,
+      "result": "Tate & Liza",
+      "num_racers": 4
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 0.0,
+      "cost": 2000
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 0.0,
+      "cost": 2000
+    }
+  ]
+}

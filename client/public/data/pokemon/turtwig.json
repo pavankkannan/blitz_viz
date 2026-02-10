@@ -1,0 +1,58 @@
+{
+  "cost_over_runs": [
+    {
+      "run_number": 2,
+      "cost": 3400,
+      "drafted_by": "Jackson",
+      "pick_num": 57,
+      "num_picks": 72,
+      "run_id": "2026_01_08_r1"
+    },
+    {
+      "run_number": 3,
+      "cost": 3400,
+      "drafted_by": "Jackson",
+      "pick_num": 42,
+      "num_picks": 48,
+      "run_id": "2026_01_11_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 2,
+      "result_order": 11,
+      "drafted_by": "Jackson",
+      "placement": 1,
+      "result": "Glacia",
+      "num_racers": 9
+    },
+    {
+      "run_number": 3,
+      "result_order": 4,
+      "drafted_by": "Jackson",
+      "placement": 5,
+      "result": "Wattson",
+      "num_racers": 6
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 1.0,
+      "cost": 3400
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 3400
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 3.0,
+      "cost": 3400
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 3400
+    }
+  ]
+}

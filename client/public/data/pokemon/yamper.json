@@ -1,0 +1,106 @@
+{
+  "cost_over_runs": [
+    {
+      "run_number": 1,
+      "cost": 2200,
+      "drafted_by": "Pavan",
+      "pick_num": 54,
+      "num_picks": 64,
+      "run_id": "2026_01_05_r1"
+    },
+    {
+      "run_number": 2,
+      "cost": 1800,
+      "drafted_by": "Ely",
+      "pick_num": 32,
+      "num_picks": 72,
+      "run_id": "2026_01_08_r1"
+    },
+    {
+      "run_number": 4,
+      "cost": 1200,
+      "drafted_by": "Paddy",
+      "pick_num": 12,
+      "num_picks": 32,
+      "run_id": "2026_01_19_r1"
+    },
+    {
+      "run_number": 9,
+      "cost": 1400,
+      "drafted_by": "Eli",
+      "pick_num": 22,
+      "num_picks": 32,
+      "run_id": "2026_01_27_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 1,
+      "result_order": 5,
+      "drafted_by": "Pavan",
+      "placement": 7,
+      "result": "Roxanne",
+      "num_racers": 8
+    },
+    {
+      "run_number": 2,
+      "result_order": 7,
+      "drafted_by": "Ely",
+      "placement": 6,
+      "result": "Brawly",
+      "num_racers": 9
+    },
+    {
+      "run_number": 4,
+      "result_order": 5,
+      "drafted_by": "Paddy",
+      "placement": 3,
+      "result": "Flannery",
+      "num_racers": 4
+    },
+    {
+      "run_number": 9,
+      "result_order": 2,
+      "drafted_by": "Eli",
+      "placement": 4,
+      "result": "Wattson",
+      "num_racers": 4
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 1.0,
+      "cost": 2200
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 1800
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 1200
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 1400
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 3.0,
+      "cost": 2200
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 1800
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 1200
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 1400
+    }
+  ]
+}

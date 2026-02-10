@@ -1,0 +1,82 @@
+{
+  "cost_over_runs": [
+    {
+      "run_number": 1,
+      "cost": 5000,
+      "drafted_by": "Joey",
+      "pick_num": 3,
+      "num_picks": 64,
+      "run_id": "2026_01_05_r1"
+    },
+    {
+      "run_number": 4,
+      "cost": 3500,
+      "drafted_by": "Pavan",
+      "pick_num": 17,
+      "num_picks": 32,
+      "run_id": "2026_01_19_r1"
+    },
+    {
+      "run_number": 6,
+      "cost": 2500,
+      "drafted_by": "Austin",
+      "pick_num": 23,
+      "num_picks": 40,
+      "run_id": "2026_01_23_r2"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 1,
+      "result_order": 5,
+      "drafted_by": "Joey",
+      "placement": 6,
+      "result": "Tate & Liza",
+      "num_racers": 8
+    },
+    {
+      "run_number": 4,
+      "result_order": 2,
+      "drafted_by": "Pavan",
+      "placement": 4,
+      "result": "Tate & Liza",
+      "num_racers": 4
+    },
+    {
+      "run_number": 6,
+      "result_order": 3,
+      "drafted_by": "Austin",
+      "placement": 4,
+      "result": "Winona",
+      "num_racers": 5
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 0.0,
+      "cost": 5000
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 3500
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2500
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 0.0,
+      "cost": 5000
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 3500
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 2500
+    }
+  ]
+}

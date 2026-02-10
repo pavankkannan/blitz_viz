@@ -2,17 +2,17 @@
   "cost_over_runs": [
     {
       "run_number": 4,
-      "cost": 1900,
-      "drafted_by": "Pavan",
-      "pick_num": 23,
+      "cost": 2400,
+      "drafted_by": "Paddy",
+      "pick_num": 9,
       "num_picks": 32,
       "run_id": "2026_01_19_r1"
     },
     {
       "run_number": 7,
-      "cost": 2500,
-      "drafted_by": "Jackson",
-      "pick_num": 1,
+      "cost": 1800,
+      "drafted_by": "Pavan",
+      "pick_num": 4,
       "num_picks": 48,
       "run_id": "2026_01_24_r1"
     }
@@ -20,39 +20,39 @@
   "result_over_runs": [
     {
       "run_number": 4,
-      "result_order": 2,
-      "drafted_by": "Pavan",
-      "placement": 4,
-      "result": "Tate & Liza",
+      "result_order": 5,
+      "drafted_by": "Paddy",
+      "placement": 3,
+      "result": "Flannery",
       "num_racers": 4
     },
     {
       "run_number": 7,
-      "result_order": 11,
-      "drafted_by": "Jackson",
-      "placement": 2,
-      "result": "Glacia",
+      "result_order": 13,
+      "drafted_by": "Pavan",
+      "placement": 1,
+      "result": "Steven",
       "num_racers": 6
     }
   ],
   "draft_buckets_2": [
     {
-      "buckets_2": 1.0,
-      "cost": 1900
+      "buckets_2": 0.0,
+      "cost": 2400
     },
     {
       "buckets_2": 0.0,
-      "cost": 2500
+      "cost": 1800
     }
   ],
   "draft_buckets_4": [
     {
-      "buckets_4": 2.0,
-      "cost": 1900
+      "buckets_4": 1.0,
+      "cost": 2400
     },
     {
       "buckets_4": 0.0,
-      "cost": 2500
+      "cost": 1800
     }
   ]
 }

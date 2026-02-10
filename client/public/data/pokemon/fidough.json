@@ -1,0 +1,130 @@
+{
+  "cost_over_runs": [
+    {
+      "run_number": 1,
+      "cost": 2100,
+      "drafted_by": "Christian",
+      "pick_num": 56,
+      "num_picks": 64,
+      "run_id": "2026_01_05_r1"
+    },
+    {
+      "run_number": 4,
+      "cost": 2600,
+      "drafted_by": "Jackson",
+      "pick_num": 15,
+      "num_picks": 32,
+      "run_id": "2026_01_19_r1"
+    },
+    {
+      "run_number": 6,
+      "cost": 2800,
+      "drafted_by": "Paddy",
+      "pick_num": 4,
+      "num_picks": 40,
+      "run_id": "2026_01_23_r2"
+    },
+    {
+      "run_number": 7,
+      "cost": 2600,
+      "drafted_by": "Ely",
+      "pick_num": 32,
+      "num_picks": 48,
+      "run_id": "2026_01_24_r1"
+    },
+    {
+      "run_number": 9,
+      "cost": 5900,
+      "drafted_by": "Jackson",
+      "pick_num": 32,
+      "num_picks": 32,
+      "run_id": "2026_01_27_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 1,
+      "result_order": 3,
+      "drafted_by": "Christian",
+      "placement": 8,
+      "result": "Winona",
+      "num_racers": 8
+    },
+    {
+      "run_number": 4,
+      "result_order": 11,
+      "drafted_by": "Jackson",
+      "placement": 1,
+      "result": "Tucker",
+      "num_racers": 4
+    },
+    {
+      "run_number": 6,
+      "result_order": 6,
+      "drafted_by": "Paddy",
+      "placement": 1,
+      "result": "Tate & Liza",
+      "num_racers": 5
+    },
+    {
+      "run_number": 7,
+      "result_order": 3,
+      "drafted_by": "Ely",
+      "placement": 6,
+      "result": "Viola",
+      "num_racers": 6
+    },
+    {
+      "run_number": 9,
+      "result_order": 7,
+      "drafted_by": "Jackson",
+      "placement": 2,
+      "result": "Wattson",
+      "num_racers": 4
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 1.0,
+      "cost": 2100
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2600
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2800
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2600
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 5900
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 3.0,
+      "cost": 2100
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 2600
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 2800
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 2600
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 5900
+    }
+  ]
+}

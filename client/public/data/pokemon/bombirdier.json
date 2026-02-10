@@ -1,0 +1,58 @@
+{
+  "cost_over_runs": [
+    {
+      "run_number": 1,
+      "cost": 3800,
+      "drafted_by": "Primo",
+      "pick_num": 8,
+      "num_picks": 64,
+      "run_id": "2026_01_05_r1"
+    },
+    {
+      "run_number": 7,
+      "cost": 2300,
+      "drafted_by": "Eli",
+      "pick_num": 40,
+      "num_picks": 48,
+      "run_id": "2026_01_24_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 1,
+      "result_order": 11,
+      "drafted_by": "Primo",
+      "placement": 1,
+      "result": "Glacia",
+      "num_racers": 8
+    },
+    {
+      "run_number": 7,
+      "result_order": 7,
+      "drafted_by": "Eli",
+      "placement": 3,
+      "result": "Brawly",
+      "num_racers": 6
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 0.0,
+      "cost": 3800
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2300
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 0.0,
+      "cost": 3800
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 2300
+    }
+  ]
+}

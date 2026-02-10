@@ -1,0 +1,82 @@
+{
+  "cost_over_runs": [
+    {
+      "run_number": 2,
+      "cost": 2100,
+      "drafted_by": "Primo",
+      "pick_num": 9,
+      "num_picks": 72,
+      "run_id": "2026_01_08_r1"
+    },
+    {
+      "run_number": 4,
+      "cost": 1400,
+      "drafted_by": "Jackson",
+      "pick_num": 2,
+      "num_picks": 32,
+      "run_id": "2026_01_19_r1"
+    },
+    {
+      "run_number": 5,
+      "cost": 1900,
+      "drafted_by": "Austin",
+      "pick_num": 19,
+      "num_picks": 24,
+      "run_id": "2026_01_23_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 2,
+      "result_order": 8,
+      "drafted_by": "Primo",
+      "placement": 5,
+      "result": "Maxie",
+      "num_racers": 9
+    },
+    {
+      "run_number": 4,
+      "result_order": 11,
+      "drafted_by": "Jackson",
+      "placement": 1,
+      "result": "Tucker",
+      "num_racers": 4
+    },
+    {
+      "run_number": 5,
+      "result_order": 8,
+      "drafted_by": "Austin",
+      "placement": 1,
+      "result": "Archie",
+      "num_racers": 3
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 0.0,
+      "cost": 2100
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 1400
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 1900
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 0.0,
+      "cost": 2100
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 1400
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 1900
+    }
+  ]
+}
