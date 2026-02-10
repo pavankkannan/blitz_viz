@@ -7,6 +7,14 @@
       "pick_num": 44,
       "num_picks": 48,
       "run_id": "2026_01_11_r1"
+    },
+    {
+      "run_number": 12,
+      "cost": 2500,
+      "drafted_by": "Primo",
+      "pick_num": 30,
+      "num_picks": 32,
+      "run_id": "2026_01_29_r2"
     }
   ],
   "result_over_runs": [
@@ -17,15 +25,31 @@
       "placement": 1,
       "result": "Winona",
       "num_racers": 6
+    },
+    {
+      "run_number": 12,
+      "result_order": 4,
+      "drafted_by": "Primo",
+      "placement": 2,
+      "result": "Roxanne",
+      "num_racers": 4
     }
   ],
   "draft_buckets_2": [
     {
       "buckets_2": 1.0,
       "cost": 2500
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2500
     }
   ],
   "draft_buckets_4": [
+    {
+      "buckets_4": 3.0,
+      "cost": 2500
+    },
     {
       "buckets_4": 3.0,
       "cost": 2500

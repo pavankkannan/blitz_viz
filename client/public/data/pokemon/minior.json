@@ -15,6 +15,14 @@
       "pick_num": 31,
       "num_picks": 64,
       "run_id": "2026_01_25_r1"
+    },
+    {
+      "run_number": 12,
+      "cost": 1700,
+      "drafted_by": "Austin",
+      "pick_num": 16,
+      "num_picks": 32,
+      "run_id": "2026_01_29_r2"
     }
   ],
   "result_over_runs": [
@@ -33,6 +41,14 @@
       "placement": 1,
       "result": "Wattson",
       "num_racers": 8
+    },
+    {
+      "run_number": 12,
+      "result_order": 3,
+      "drafted_by": "Austin",
+      "placement": 4,
+      "result": "Juan & Wallace",
+      "num_racers": 4
     }
   ],
   "draft_buckets_2": [
@@ -43,6 +59,10 @@
     {
       "buckets_2": 0.0,
       "cost": 2600
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 1700
     }
   ],
   "draft_buckets_4": [
@@ -53,6 +73,10 @@
     {
       "buckets_4": 1.0,
       "cost": 2600
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 1700
     }
   ]
 }

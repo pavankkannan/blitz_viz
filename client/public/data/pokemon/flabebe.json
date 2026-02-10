@@ -7,6 +7,14 @@
       "pick_num": 43,
       "num_picks": 72,
       "run_id": "2026_01_08_r1"
+    },
+    {
+      "run_number": 14,
+      "cost": 2200,
+      "drafted_by": "Pavan",
+      "pick_num": 13,
+      "num_picks": 48,
+      "run_id": "2026_01_30_r2"
     }
   ],
   "result_over_runs": [
@@ -17,18 +25,34 @@
       "placement": 2,
       "result": "Sidney",
       "num_racers": 9
+    },
+    {
+      "run_number": 14,
+      "result_order": 4,
+      "drafted_by": "Pavan",
+      "placement": 4,
+      "result": "Roxanne",
+      "num_racers": 6
     }
   ],
   "draft_buckets_2": [
     {
       "buckets_2": 1.0,
       "cost": 1900
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2200
     }
   ],
   "draft_buckets_4": [
     {
       "buckets_4": 2.0,
       "cost": 1900
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 2200
     }
   ]
 }

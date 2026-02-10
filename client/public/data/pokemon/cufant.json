@@ -1,6 +1,34 @@
 {
-  "cost_over_runs": [],
-  "result_over_runs": [],
-  "draft_buckets_2": [],
-  "draft_buckets_4": []
+  "cost_over_runs": [
+    {
+      "run_number": 11,
+      "cost": 2100,
+      "drafted_by": "Eli",
+      "pick_num": 14,
+      "num_picks": 24,
+      "run_id": "2026_01_29_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 11,
+      "result_order": 8,
+      "drafted_by": "Eli",
+      "placement": 2,
+      "result": "Wattson",
+      "num_racers": 3
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 1.0,
+      "cost": 2100
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 2.0,
+      "cost": 2100
+    }
+  ]
 }

@@ -39,6 +39,14 @@
       "pick_num": 48,
       "num_picks": 64,
       "run_id": "2026_01_25_r1"
+    },
+    {
+      "run_number": 14,
+      "cost": 2000,
+      "drafted_by": "Jackson",
+      "pick_num": 31,
+      "num_picks": 48,
+      "run_id": "2026_01_30_r2"
     }
   ],
   "result_over_runs": [
@@ -81,6 +89,14 @@
       "placement": 2,
       "result": "Roxanne",
       "num_racers": 8
+    },
+    {
+      "run_number": 14,
+      "result_order": 7,
+      "drafted_by": "Jackson",
+      "placement": 2,
+      "result": "Juan & Wallace",
+      "num_racers": 6
     }
   ],
   "draft_buckets_2": [
@@ -103,6 +119,10 @@
     {
       "buckets_2": 1.0,
       "cost": 2000
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2000
     }
   ],
   "draft_buckets_4": [
@@ -120,6 +140,10 @@
     },
     {
       "buckets_4": 0.0,
+      "cost": 2000
+    },
+    {
+      "buckets_4": 2.0,
       "cost": 2000
     },
     {

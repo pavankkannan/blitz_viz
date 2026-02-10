@@ -7,6 +7,14 @@
       "pick_num": 45,
       "num_picks": 72,
       "run_id": "2026_01_08_r1"
+    },
+    {
+      "run_number": 11,
+      "cost": 2000,
+      "drafted_by": "Eli",
+      "pick_num": 10,
+      "num_picks": 24,
+      "run_id": "2026_01_29_r1"
     }
   ],
   "result_over_runs": [
@@ -17,17 +25,33 @@
       "placement": 7,
       "result": "Norman",
       "num_racers": 9
+    },
+    {
+      "run_number": 11,
+      "result_order": 8,
+      "drafted_by": "Eli",
+      "placement": 2,
+      "result": "Wattson",
+      "num_racers": 3
     }
   ],
   "draft_buckets_2": [
     {
       "buckets_2": 1.0,
       "cost": 2000
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2000
     }
   ],
   "draft_buckets_4": [
     {
       "buckets_4": 2.0,
+      "cost": 2000
+    },
+    {
+      "buckets_4": 1.0,
       "cost": 2000
     }
   ]

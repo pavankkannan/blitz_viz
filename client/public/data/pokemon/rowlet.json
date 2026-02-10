@@ -15,6 +15,14 @@
       "pick_num": 16,
       "num_picks": 24,
       "run_id": "2026_01_28_r1"
+    },
+    {
+      "run_number": 14,
+      "cost": 3000,
+      "drafted_by": "Eli",
+      "pick_num": 21,
+      "num_picks": 48,
+      "run_id": "2026_01_30_r2"
     }
   ],
   "result_over_runs": [
@@ -33,6 +41,14 @@
       "placement": 1,
       "result": "Flannery",
       "num_racers": 3
+    },
+    {
+      "run_number": 14,
+      "result_order": 7,
+      "drafted_by": "Eli",
+      "placement": 1,
+      "result": "Juan & Wallace",
+      "num_racers": 6
     }
   ],
   "draft_buckets_2": [
@@ -43,6 +59,10 @@
     {
       "buckets_2": 1.0,
       "cost": 2700
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 3000
     }
   ],
   "draft_buckets_4": [
@@ -53,6 +73,10 @@
     {
       "buckets_4": 2.0,
       "cost": 2700
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 3000
     }
   ]
 }

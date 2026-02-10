@@ -1,6 +1,34 @@
 {
-  "cost_over_runs": [],
-  "result_over_runs": [],
-  "draft_buckets_2": [],
-  "draft_buckets_4": []
+  "cost_over_runs": [
+    {
+      "run_number": 14,
+      "cost": 2600,
+      "drafted_by": "Jackson",
+      "pick_num": 35,
+      "num_picks": 48,
+      "run_id": "2026_01_30_r2"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 14,
+      "result_order": 7,
+      "drafted_by": "Jackson",
+      "placement": 2,
+      "result": "Juan & Wallace",
+      "num_racers": 6
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 1.0,
+      "cost": 2600
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 2.0,
+      "cost": 2600
+    }
+  ]
 }

@@ -15,6 +15,14 @@
       "pick_num": 7,
       "num_picks": 48,
       "run_id": "2026_01_11_r1"
+    },
+    {
+      "run_number": 11,
+      "cost": 1200,
+      "drafted_by": "Eli",
+      "pick_num": 7,
+      "num_picks": 24,
+      "run_id": "2026_01_29_r1"
     }
   ],
   "result_over_runs": [
@@ -33,6 +41,14 @@
       "placement": 2,
       "result": "Tate & Liza",
       "num_racers": 6
+    },
+    {
+      "run_number": 11,
+      "result_order": 8,
+      "drafted_by": "Eli",
+      "placement": 2,
+      "result": "Wattson",
+      "num_racers": 3
     }
   ],
   "draft_buckets_2": [
@@ -43,6 +59,10 @@
     {
       "buckets_2": 0.0,
       "cost": 1400
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 1200
     }
   ],
   "draft_buckets_4": [
@@ -53,6 +73,10 @@
     {
       "buckets_4": 0.0,
       "cost": 1400
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 1200
     }
   ]
 }

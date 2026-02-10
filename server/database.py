@@ -1,6 +1,6 @@
 import duckdb
 
-DATABASE = "data/database.db"
+DATABASE = "server/data/database.db"
 
 def get_con():
     return duckdb.connect(DATABASE, read_only=True)

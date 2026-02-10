@@ -7,6 +7,22 @@
       "pick_num": 14,
       "num_picks": 24,
       "run_id": "2026_01_28_r1"
+    },
+    {
+      "run_number": 11,
+      "cost": 2400,
+      "drafted_by": "Jackson",
+      "pick_num": 24,
+      "num_picks": 24,
+      "run_id": "2026_01_29_r1"
+    },
+    {
+      "run_number": 15,
+      "cost": 2300,
+      "drafted_by": "Paddy",
+      "pick_num": 36,
+      "num_picks": 40,
+      "run_id": "2026_01_31_r1"
     }
   ],
   "result_over_runs": [
@@ -17,18 +33,50 @@
       "placement": 2,
       "result": "Norman",
       "num_racers": 3
+    },
+    {
+      "run_number": 11,
+      "result_order": 6,
+      "drafted_by": "Jackson",
+      "placement": 3,
+      "result": "Flannery",
+      "num_racers": 3
+    },
+    {
+      "run_number": 15,
+      "result_order": 8,
+      "drafted_by": "Paddy",
+      "placement": 3,
+      "result": "Archie",
+      "num_racers": 5
     }
   ],
   "draft_buckets_2": [
     {
       "buckets_2": 1.0,
       "cost": 1600
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2400
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2300
     }
   ],
   "draft_buckets_4": [
     {
       "buckets_4": 2.0,
       "cost": 1600
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 2400
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 2300
     }
   ]
 }

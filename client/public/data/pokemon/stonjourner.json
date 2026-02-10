@@ -1,6 +1,34 @@
 {
-  "cost_over_runs": [],
-  "result_over_runs": [],
-  "draft_buckets_2": [],
-  "draft_buckets_4": []
+  "cost_over_runs": [
+    {
+      "run_number": 11,
+      "cost": 2000,
+      "drafted_by": "Jackson",
+      "pick_num": 5,
+      "num_picks": 24,
+      "run_id": "2026_01_29_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 11,
+      "result_order": 6,
+      "drafted_by": "Jackson",
+      "placement": 3,
+      "result": "Flannery",
+      "num_racers": 3
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 0.0,
+      "cost": 2000
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 0.0,
+      "cost": 2000
+    }
+  ]
 }

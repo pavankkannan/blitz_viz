@@ -7,6 +7,14 @@
       "pick_num": 25,
       "num_picks": 32,
       "run_id": "2026_01_27_r1"
+    },
+    {
+      "run_number": 12,
+      "cost": 2100,
+      "drafted_by": "Austin",
+      "pick_num": 7,
+      "num_picks": 32,
+      "run_id": "2026_01_29_r2"
     }
   ],
   "result_over_runs": [
@@ -17,18 +25,34 @@
       "placement": 3,
       "result": "Flannery",
       "num_racers": 4
+    },
+    {
+      "run_number": 12,
+      "result_order": 3,
+      "drafted_by": "Austin",
+      "placement": 4,
+      "result": "Juan & Wallace",
+      "num_racers": 4
     }
   ],
   "draft_buckets_2": [
     {
       "buckets_2": 1.0,
       "cost": 3100
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2100
     }
   ],
   "draft_buckets_4": [
     {
       "buckets_4": 3.0,
       "cost": 3100
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 2100
     }
   ]
 }

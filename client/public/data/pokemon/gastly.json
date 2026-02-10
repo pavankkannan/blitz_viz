@@ -15,6 +15,14 @@
       "pick_num": 2,
       "num_picks": 64,
       "run_id": "2026_01_25_r1"
+    },
+    {
+      "run_number": 14,
+      "cost": 3000,
+      "drafted_by": "Ely",
+      "pick_num": 48,
+      "num_picks": 48,
+      "run_id": "2026_01_30_r2"
     }
   ],
   "result_over_runs": [
@@ -33,6 +41,14 @@
       "placement": 4,
       "result": "Viola",
       "num_racers": 8
+    },
+    {
+      "run_number": 14,
+      "result_order": 3,
+      "drafted_by": "Ely",
+      "placement": 5,
+      "result": "Brawly",
+      "num_racers": 6
     }
   ],
   "draft_buckets_2": [
@@ -43,6 +59,10 @@
     {
       "buckets_2": 0.0,
       "cost": 2300
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 3000
     }
   ],
   "draft_buckets_4": [
@@ -53,6 +73,10 @@
     {
       "buckets_4": 0.0,
       "cost": 2300
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 3000
     }
   ]
 }

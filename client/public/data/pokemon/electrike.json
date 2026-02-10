@@ -7,6 +7,22 @@
       "pick_num": 24,
       "num_picks": 24,
       "run_id": "2026_01_23_r1"
+    },
+    {
+      "run_number": 13,
+      "cost": 2200,
+      "drafted_by": "Ely",
+      "pick_num": 9,
+      "num_picks": 24,
+      "run_id": "2026_01_30_r1"
+    },
+    {
+      "run_number": 15,
+      "cost": 2000,
+      "drafted_by": "Pavan",
+      "pick_num": 7,
+      "num_picks": 40,
+      "run_id": "2026_01_31_r1"
     }
   ],
   "result_over_runs": [
@@ -17,18 +33,50 @@
       "placement": 2,
       "result": "Brawly",
       "num_racers": 3
+    },
+    {
+      "run_number": 13,
+      "result_order": 7,
+      "drafted_by": "Ely",
+      "placement": 3,
+      "result": "Juan & Wallace",
+      "num_racers": 3
+    },
+    {
+      "run_number": 15,
+      "result_order": 2,
+      "drafted_by": "Pavan",
+      "placement": 5,
+      "result": "Brawly",
+      "num_racers": 5
     }
   ],
   "draft_buckets_2": [
     {
       "buckets_2": 1.0,
       "cost": 2600
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2200
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2000
     }
   ],
   "draft_buckets_4": [
     {
       "buckets_4": 3.0,
       "cost": 2600
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 2200
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 2000
     }
   ]
 }

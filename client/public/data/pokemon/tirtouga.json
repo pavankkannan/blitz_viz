@@ -15,6 +15,22 @@
       "pick_num": 5,
       "num_picks": 24,
       "run_id": "2026_01_28_r1"
+    },
+    {
+      "run_number": 12,
+      "cost": 2600,
+      "drafted_by": "Austin",
+      "pick_num": 29,
+      "num_picks": 32,
+      "run_id": "2026_01_29_r2"
+    },
+    {
+      "run_number": 14,
+      "cost": 2100,
+      "drafted_by": "Ely",
+      "pick_num": 27,
+      "num_picks": 48,
+      "run_id": "2026_01_30_r2"
     }
   ],
   "result_over_runs": [
@@ -33,6 +49,22 @@
       "placement": 3,
       "result": "Flannery",
       "num_racers": 3
+    },
+    {
+      "run_number": 12,
+      "result_order": 3,
+      "drafted_by": "Austin",
+      "placement": 4,
+      "result": "Juan & Wallace",
+      "num_racers": 4
+    },
+    {
+      "run_number": 14,
+      "result_order": 3,
+      "drafted_by": "Ely",
+      "placement": 5,
+      "result": "Brawly",
+      "num_racers": 6
     }
   ],
   "draft_buckets_2": [
@@ -43,6 +75,14 @@
     {
       "buckets_2": 0.0,
       "cost": 2600
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2600
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2100
     }
   ],
   "draft_buckets_4": [
@@ -53,6 +93,14 @@
     {
       "buckets_4": 0.0,
       "cost": 2600
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 2600
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 2100
     }
   ]
 }

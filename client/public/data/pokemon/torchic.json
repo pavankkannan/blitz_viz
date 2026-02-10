@@ -23,6 +23,14 @@
       "pick_num": 23,
       "num_picks": 40,
       "run_id": "2026_01_23_r2"
+    },
+    {
+      "run_number": 14,
+      "cost": 2400,
+      "drafted_by": "Austin",
+      "pick_num": 40,
+      "num_picks": 48,
+      "run_id": "2026_01_30_r2"
     }
   ],
   "result_over_runs": [
@@ -49,6 +57,14 @@
       "placement": 4,
       "result": "Winona",
       "num_racers": 5
+    },
+    {
+      "run_number": 14,
+      "result_order": 3,
+      "drafted_by": "Austin",
+      "placement": 6,
+      "result": "Norman",
+      "num_racers": 6
     }
   ],
   "draft_buckets_2": [
@@ -63,6 +79,10 @@
     {
       "buckets_2": 1.0,
       "cost": 2500
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2400
     }
   ],
   "draft_buckets_4": [
@@ -77,6 +97,10 @@
     {
       "buckets_4": 2.0,
       "cost": 2500
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 2400
     }
   ]
 }
