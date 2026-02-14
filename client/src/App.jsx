@@ -58,9 +58,9 @@ function App() {
           <Lines
             data={data.cost_over_runs}
             totalRuns={totalRuns}
-            maxY={8000}
+            maxY={7000}
             dataTypeY={"cost"}
-            ticks={[2000,4000,6000,8000]}
+            ticks={[2000,4000,6000]}
 
           />
         )}

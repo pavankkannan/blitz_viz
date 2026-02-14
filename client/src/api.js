@@ -1,4 +1,4 @@
-export async function fetchPokemonData(pokemon, bucket) {
+export async function fetchPokemonData(pokemon) {
   const res = await fetch(`./data/pokemon/${pokemon.toLowerCase()}.json`);
   if (!res.ok) throw new Error("API error");
   return res.json();
