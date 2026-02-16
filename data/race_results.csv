@@ -21,7 +21,7 @@ run_id,run_number,racer_name,placement,result,result_order,time,start_money,end_
 2026_01_23_r1,5,Austin,1,Archie,8,,20000,0,Vaporeon,2,1.09913E+11,7.8,24,3,,
 2026_01_23_r1,5,Jackson,2,Brawly,5,,20000,2200,Sylveon,1,1.09913E+11,7.8,24,3,,
 2026_01_23_r1,5,Paddy,3,Winona,4,,20000,2500,,,1.09913E+11,7.8,24,3,,
-2026_01_19_r1,4,Jackson,1,Tucker,11,,20000,2300,Umbeon,2,7.20013E+11,7.7,32,4,,"Spenser,Phoebe,Tucker"
+2026_01_19_r1,4,Jackson,1,Tucker,11,,20000,2300,Umbreon,2,7.20013E+11,7.7,32,4,,"Spenser,Phoebe,Tucker"
 2026_01_19_r1,4,Austin,2,Tate & Liza,6,,20000,3500,,,7.20013E+11,7.7,32,4,,
 2026_01_19_r1,4,Paddy,3,Flannery,5,,20000,3000,,,7.20013E+11,7.7,32,4,,
 2026_01_19_r1,4,Pavan,4,Tate & Liza,2,,20000,3600,,,7.20013E+11,7.7,32,4,,
@@ -32,7 +32,7 @@ run_id,run_number,racer_name,placement,result,result_order,time,start_money,end_
 2026_01_11_r1,3,Jackson,5,Wattson,4,,20000,600,,,,7.6,48,6,,
 2026_01_11_r1,3,Austin,6,Juan & Wallace,2,,20000,2100,,,,7.6,48,6,,
 2026_01_08_r1,2,Jackson,1,Glacia,11,,20000,400,Vaporeon,5,2.47907E+11,7.5,72,9,,"Sidney,Lucy,Glacia"
-2026_01_08_r1,2,Joey,2,Sidney,9,,20000,300,Umberon,3,2.47907E+11,7.5,72,9,,Sidney
+2026_01_08_r1,2,Joey,2,Sidney,9,,20000,300,Umbreon,3,2.47907E+11,7.5,72,9,,Sidney
 2026_01_08_r1,2,Pavan,3,Spenser,9,,20000,1900,Glaceon,7,2.47907E+11,7.5,72,9,,Spenser
 2026_01_08_r1,2,Eli,4,Tate & Liza,8,,20000,0,Sylveon,1,2.47907E+11,7.5,72,9,,
 2026_01_08_r1,2,Primo,5,Maxie,8,,20000,500,Flareon,6,2.47907E+11,7.5,72,9,,
@@ -76,3 +76,16 @@ run_id,run_number,racer_name,placement,result,result_order,time,start_money,end_
 2026_01_31_r1,15,Paddy,3,Archie,8,,20000,2100,Flareon,3,3.73448E+11,7.91,40,5,,
 2026_01_31_r1,15,Christian,4,Flannery,5,,20000,900,,,3.73448E+11,7.91,40,5,,
 2026_01_31_r1,15,Pavan,5,Brawly,2,,20000,1200,,,3.73448E+11,7.91,40,5,,
+2026_02_09_r1,16,Jackson,1,HOF,14,2:56,20000,1000,Sylveon,3,,8.1,48,6,,unknown
+2026_02_09_r1,16,Pavan,2,Tucker,11,,20000,0,Jolteon,2,,8.1,48,6,,"Spenser,Lucy,Tucker"
+2026_02_09_r1,16,Primo,3,Brawly,6,,20000,0,Umbreon,4,,8.1,48,6,,
+2026_02_09_r1,16,Paddy,4,Norman,4,,20000,100,,,,8.1,48,6,,
+2026_02_09_r1,16,Austin,5,Norman,2,,20000,0,,,,8.1,48,6,,
+2026_02_09_r1,16,Eli,6,Norman,6,,20000,0,,,,8.1,48,6,,
+2026_02_15_r1,17,Pavan,1,Steven,13,,20000,0,Sylveon,1,2.25053E+11,8.2,56,7,,"Sidney,Phoebe,Glacia,Brandon"
+2026_02_15_r1,17,Joey,2,Tucker,11,,20000,0,Vaporeon,4,2.25053E+11,8.2,56,7,,"Spenser,Lucy,Tucker"
+2026_02_15_r1,17,Jackson,3,Sidney,9,,20000,0,Umbreon,3,2.25053E+11,8.2,56,7,,Sidney
+2026_02_15_r1,17,Ely,4,Flannery,6,,20000,0,,,2.25053E+11,8.2,56,7,,
+2026_02_15_r1,17,Christian,5,Flannery,5,,20000,0,Jolteon,2,2.25053E+11,8.2,56,7,,
+2026_02_15_r1,17,Paddy,6,Norman,3,,20000,300,,,2.25053E+11,8.2,56,7,,
+2026_02_15_r1,17,Eli,7,Norman,2,,20000,2500,,,2.25053E+11,8.2,56,7,,

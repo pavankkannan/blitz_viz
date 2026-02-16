@@ -31,6 +31,14 @@
       "pick_num": 27,
       "num_picks": 48,
       "run_id": "2026_01_30_r2"
+    },
+    {
+      "run_number": 17,
+      "cost": 2100,
+      "drafted_by": "Joey",
+      "pick_num": 21,
+      "num_picks": 56,
+      "run_id": "2026_02_15_r1"
     }
   ],
   "result_over_runs": [
@@ -65,6 +73,14 @@
       "placement": 5,
       "result": "Brawly",
       "num_racers": 6
+    },
+    {
+      "run_number": 17,
+      "result_order": 11,
+      "drafted_by": "Joey",
+      "placement": 2,
+      "result": "Tucker",
+      "num_racers": 7
     }
   ],
   "draft_buckets_2": [
@@ -83,6 +99,10 @@
     {
       "buckets_2": 1.0,
       "cost": 2100
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2100
     }
   ],
   "draft_buckets_4": [
@@ -100,6 +120,10 @@
     },
     {
       "buckets_4": 2.0,
+      "cost": 2100
+    },
+    {
+      "buckets_4": 1.0,
       "cost": 2100
     }
   ]

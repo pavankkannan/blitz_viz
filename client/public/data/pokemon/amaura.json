@@ -7,6 +7,14 @@
       "pick_num": 25,
       "num_picks": 32,
       "run_id": "2026_01_19_r1"
+    },
+    {
+      "run_number": 17,
+      "cost": 1900,
+      "drafted_by": "Paddy",
+      "pick_num": 50,
+      "num_picks": 56,
+      "run_id": "2026_02_15_r1"
     }
   ],
   "result_over_runs": [
@@ -17,18 +25,34 @@
       "placement": 2,
       "result": "Tate & Liza",
       "num_racers": 4
+    },
+    {
+      "run_number": 17,
+      "result_order": 3,
+      "drafted_by": "Paddy",
+      "placement": 6,
+      "result": "Norman",
+      "num_racers": 7
     }
   ],
   "draft_buckets_2": [
     {
       "buckets_2": 1.0,
       "cost": 1400
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 1900
     }
   ],
   "draft_buckets_4": [
     {
       "buckets_4": 3.0,
       "cost": 1400
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 1900
     }
   ]
 }

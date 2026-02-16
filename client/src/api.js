@@ -1,5 +1,6 @@
 export async function fetchPokemonData(pokemon) {
-  const res = await fetch(`./data/pokemon/${pokemon.toLowerCase()}.json`);
+  // console.log(pokemon.toLowerCase().replace(".",""))
+  const res = await fetch(`./data/pokemon/${pokemon.toLowerCase().replace(".","").replace(" ", "-")}.json`);
   if (!res.ok) throw new Error("API error");
   return res.json();
 }

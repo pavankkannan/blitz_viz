@@ -23,6 +23,22 @@
       "pick_num": 9,
       "num_picks": 24,
       "run_id": "2026_01_23_r1"
+    },
+    {
+      "run_number": 16,
+      "cost": 3500,
+      "drafted_by": "Jackson",
+      "pick_num": 27,
+      "num_picks": 48,
+      "run_id": "2026_02_09_r1"
+    },
+    {
+      "run_number": 17,
+      "cost": 5300,
+      "drafted_by": "Joey",
+      "pick_num": 28,
+      "num_picks": 56,
+      "run_id": "2026_02_15_r1"
     }
   ],
   "result_over_runs": [
@@ -49,6 +65,22 @@
       "placement": 3,
       "result": "Winona",
       "num_racers": 3
+    },
+    {
+      "run_number": 16,
+      "result_order": 14,
+      "drafted_by": "Jackson",
+      "placement": 1,
+      "result": "HOF",
+      "num_racers": 6
+    },
+    {
+      "run_number": 17,
+      "result_order": 11,
+      "drafted_by": "Joey",
+      "placement": 2,
+      "result": "Tucker",
+      "num_racers": 7
     }
   ],
   "draft_buckets_2": [
@@ -63,6 +95,14 @@
     {
       "buckets_2": 0.0,
       "cost": 2100
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 3500
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 5300
     }
   ],
   "draft_buckets_4": [
@@ -77,6 +117,14 @@
     {
       "buckets_4": 1.0,
       "cost": 2100
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 3500
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 5300
     }
   ]
 }

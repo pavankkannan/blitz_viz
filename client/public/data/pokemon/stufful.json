@@ -47,6 +47,14 @@
       "pick_num": 10,
       "num_picks": 40,
       "run_id": "2026_01_31_r1"
+    },
+    {
+      "run_number": 16,
+      "cost": 1600,
+      "drafted_by": "Primo",
+      "pick_num": 39,
+      "num_picks": 48,
+      "run_id": "2026_02_09_r1"
     }
   ],
   "result_over_runs": [
@@ -97,6 +105,14 @@
       "placement": 3,
       "result": "Archie",
       "num_racers": 5
+    },
+    {
+      "run_number": 16,
+      "result_order": 6,
+      "drafted_by": "Primo",
+      "placement": 3,
+      "result": "Brawly",
+      "num_racers": 6
     }
   ],
   "draft_buckets_2": [
@@ -123,6 +139,10 @@
     {
       "buckets_2": 0.0,
       "cost": 2000
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 1600
     }
   ],
   "draft_buckets_4": [
@@ -149,6 +169,10 @@
     {
       "buckets_4": 0.0,
       "cost": 2000
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 1600
     }
   ]
 }

@@ -23,6 +23,22 @@
       "pick_num": 38,
       "num_picks": 40,
       "run_id": "2026_01_31_r1"
+    },
+    {
+      "run_number": 16,
+      "cost": 4200,
+      "drafted_by": "Eli",
+      "pick_num": 44,
+      "num_picks": 48,
+      "run_id": "2026_02_09_r1"
+    },
+    {
+      "run_number": 17,
+      "cost": 3400,
+      "drafted_by": "Christian",
+      "pick_num": 20,
+      "num_picks": 56,
+      "run_id": "2026_02_15_r1"
     }
   ],
   "result_over_runs": [
@@ -49,6 +65,22 @@
       "placement": 3,
       "result": "Archie",
       "num_racers": 5
+    },
+    {
+      "run_number": 16,
+      "result_order": 6,
+      "drafted_by": "Eli",
+      "placement": 6,
+      "result": "Norman",
+      "num_racers": 6
+    },
+    {
+      "run_number": 17,
+      "result_order": 5,
+      "drafted_by": "Christian",
+      "placement": 5,
+      "result": "Flannery",
+      "num_racers": 7
     }
   ],
   "draft_buckets_2": [
@@ -63,6 +95,14 @@
     {
       "buckets_2": 1.0,
       "cost": 2700
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 4200
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 3400
     }
   ],
   "draft_buckets_4": [
@@ -77,6 +117,14 @@
     {
       "buckets_4": 3.0,
       "cost": 2700
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 4200
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 3400
     }
   ]
 }
