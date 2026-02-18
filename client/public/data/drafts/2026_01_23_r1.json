@@ -1,0 +1,152 @@
+[
+  {
+    "pick": 0,
+    "Austin": 20000,
+    "Jackson": 20000,
+    "Paddy": 20000
+  },
+  {
+    "pick": 1,
+    "Austin": 20000,
+    "Jackson": 20000,
+    "Paddy": 17400
+  },
+  {
+    "pick": 2,
+    "Austin": 20000,
+    "Jackson": 20000,
+    "Paddy": 15900
+  },
+  {
+    "pick": 3,
+    "Austin": 17700,
+    "Jackson": 20000,
+    "Paddy": 15900
+  },
+  {
+    "pick": 4,
+    "Austin": 15700,
+    "Jackson": 20000,
+    "Paddy": 15900
+  },
+  {
+    "pick": 5,
+    "Austin": 15700,
+    "Jackson": 20000,
+    "Paddy": 13300
+  },
+  {
+    "pick": 6,
+    "Austin": 13500,
+    "Jackson": 20000,
+    "Paddy": 13300
+  },
+  {
+    "pick": 7,
+    "Austin": 11800,
+    "Jackson": 20000,
+    "Paddy": 13300
+  },
+  {
+    "pick": 8,
+    "Austin": 11800,
+    "Jackson": 16400,
+    "Paddy": 13300
+  },
+  {
+    "pick": 9,
+    "Austin": 11800,
+    "Jackson": 16400,
+    "Paddy": 11200
+  },
+  {
+    "pick": 10,
+    "Austin": 10200,
+    "Jackson": 16400,
+    "Paddy": 11200
+  },
+  {
+    "pick": 11,
+    "Austin": 8800,
+    "Jackson": 16400,
+    "Paddy": 11200
+  },
+  {
+    "pick": 12,
+    "Austin": 8800,
+    "Jackson": 16400,
+    "Paddy": 9700
+  },
+  {
+    "pick": 13,
+    "Austin": 8800,
+    "Jackson": 16400,
+    "Paddy": 7800
+  },
+  {
+    "pick": 14,
+    "Austin": 8800,
+    "Jackson": 16400,
+    "Paddy": 5600
+  },
+  {
+    "pick": 15,
+    "Austin": 8800,
+    "Jackson": 10400,
+    "Paddy": 5600
+  },
+  {
+    "pick": 16,
+    "Austin": 7300,
+    "Jackson": 10400,
+    "Paddy": 5600
+  },
+  {
+    "pick": 17,
+    "Austin": 7300,
+    "Jackson": 7800,
+    "Paddy": 5600
+  },
+  {
+    "pick": 18,
+    "Austin": 7300,
+    "Jackson": 7800,
+    "Paddy": 3500
+  },
+  {
+    "pick": 19,
+    "Austin": 5400,
+    "Jackson": 7800,
+    "Paddy": 3500
+  },
+  {
+    "pick": 20,
+    "Austin": 2900,
+    "Jackson": 7800,
+    "Paddy": 3500
+  },
+  {
+    "pick": 21,
+    "Austin": 2900,
+    "Jackson": 4800,
+    "Paddy": 3500
+  },
+  {
+    "pick": 22,
+    "Austin": 2900,
+    "Jackson": 4800,
+    "Paddy": 2500
+  },
+  {
+    "pick": 23,
+    "Austin": 0,
+    "Jackson": 4800,
+    "Paddy": 2500
+  },
+  {
+    "pick": 24,
+    "Austin": 0,
+    "Jackson": 2200,
+    "Paddy": 2500
+  }
+]

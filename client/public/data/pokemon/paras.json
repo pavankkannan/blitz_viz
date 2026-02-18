@@ -1,6 +1,34 @@
 {
-  "cost_over_runs": [],
-  "result_over_runs": [],
-  "draft_buckets_2": [],
-  "draft_buckets_4": []
+  "cost_over_runs": [
+    {
+      "run_number": 18,
+      "cost": 2300,
+      "drafted_by": "Pavan",
+      "pick_num": 24,
+      "num_picks": 56,
+      "run_id": "2026_02_16_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 18,
+      "result_order": 8,
+      "drafted_by": "Pavan",
+      "placement": 3,
+      "result": "Brawly",
+      "num_racers": 7
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 0.0,
+      "cost": 2300
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 1.0,
+      "cost": 2300
+    }
+  ]
 }

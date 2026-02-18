@@ -7,6 +7,14 @@
       "pick_num": 15,
       "num_picks": 32,
       "run_id": "2026_01_29_r2"
+    },
+    {
+      "run_number": 18,
+      "cost": 2400,
+      "drafted_by": "Austin",
+      "pick_num": 38,
+      "num_picks": 56,
+      "run_id": "2026_02_16_r1"
     }
   ],
   "result_over_runs": [
@@ -17,18 +25,34 @@
       "placement": 3,
       "result": "Juan & Wallace",
       "num_racers": 4
+    },
+    {
+      "run_number": 18,
+      "result_order": 7,
+      "drafted_by": "Austin",
+      "placement": 4,
+      "result": "Winona",
+      "num_racers": 7
     }
   ],
   "draft_buckets_2": [
     {
       "buckets_2": 0.0,
       "cost": 2300
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2400
     }
   ],
   "draft_buckets_4": [
     {
       "buckets_4": 1.0,
       "cost": 2300
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 2400
     }
   ]
 }

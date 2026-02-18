@@ -3,7 +3,7 @@ import duckdb
 from pathlib import Path
 from flask import jsonify
 
-DATABASE = "data/database.db"
+DATABASE = "raw_data/database.db"
 
 # Output directories (write to both)
 OUTPUT_DIRS = [
@@ -16,10 +16,6 @@ def get_con():
 
 
 def write_json_to_all_dirs(filename: str, data: dict, subfolder: str | None = None):
-    """
-    Write JSON to all configured output directories.
-    If subfolder is provided, write inside that subfolder.
-    """
     for base in OUTPUT_DIRS:
         target_dir = base / subfolder if subfolder else base
         target_dir.mkdir(parents=True, exist_ok=True)
@@ -33,7 +29,7 @@ def updateDB():
         con.sql("""
             CREATE OR REPLACE TABLE auctions AS
             SELECT *
-            FROM read_csv_auto('data/auctions_cleaned/*');
+            FROM read_csv_auto('raw_data/auctions_cleaned/*');
         """)
 
         con.sql("""
@@ -44,13 +40,13 @@ def updateDB():
         con.sql("""
             CREATE OR REPLACE TABLE races AS
             SELECT *
-            FROM read_csv_auto('data/race_results.csv');
+            FROM read_csv_auto('raw_data/race_results.csv');
         """)
 
         con.sql("""
             CREATE OR REPLACE TABLE draft_pool AS
             SELECT *
-            FROM read_csv_auto('data/Pok.csv')
+            FROM read_csv_auto('raw_data/Pok.csv')
             WHERE stage='base' AND NOT name='Egg';
         """)
 
@@ -138,28 +134,90 @@ def updateRunCount():
 
     with get_con() as con:
         df = con.execute(TOTAL_RUNS_QUERY).df()
+        
 
     total_runs = int(df.iloc[0, 0])
     data = {"total_run_count": total_runs}
 
     write_json_to_all_dirs("total-run-count.json", data)
 
+
+def buildDraftHistory():
+
+    with get_con() as con:
+        rows = con.execute(
+            "SELECT DISTINCT(run_id) FROM races ORDER BY run_id ASC;"
+        ).fetchall()
+        drafts = [row[0] for row in rows]
+
+    for draft in drafts:
+
+        DRAFT_TIMELINE_QUERY = """
+        SELECT pick_num, drafted_by, cost
+        FROM auctions
+        WHERE run_id = ?
+        ORDER BY pick_num;
+        """
+
+        START_MONEY = 20000
+
+        with get_con() as con:
+            rows = con.execute(DRAFT_TIMELINE_QUERY, [draft]).fetchall()
+
+        racers = sorted({row[1] for row in rows})
+        money_left = {r: START_MONEY for r in racers}
+
+        timeline = []
+
+        row0 = {"pick": 0}
+        for r in racers:
+            row0[r] = START_MONEY
+        timeline.append(row0)
+
+        for pick_num, drafted_by, cost in rows:
+            money_left[drafted_by] -= cost
+
+            row = {"pick": pick_num}
+            for r in racers:
+                row[r] = money_left[r]
+
+            timeline.append(row)
+
+        write_json_to_all_dirs(
+            f"{draft}.json",
+            timeline,
+            subfolder="drafts"
+        )
+        print(f"Saved draft/{draft}.json")
+
+
+
+
+
+
 def build_all():
     print("Updating database...")
     updateDB()
 
-    print("Building all_pokemon.json...")
+    print("Building all-pokemon.json...")
     updateAllPokemonJSON()
 
     print("Building individual Pokémon JSONs...")
     updatePokemonJSONs()
 
-    print("Building run_count.json...")
+    print("Building total-run-count.json...")
     updateRunCount()
+
+    print("Building individual draft histories")
+    buildDraftHistory()
 
     print("Build complete.")
 
 
 if __name__ == "__main__":
     build_all()
+
+
+    # print(buildDraftHistory())
+
 

@@ -1,0 +1,152 @@
+[
+  {
+    "pick": 0,
+    "Eli": 20000,
+    "Ely": 20000,
+    "Jackson": 20000
+  },
+  {
+    "pick": 1,
+    "Eli": 20000,
+    "Ely": 17100,
+    "Jackson": 20000
+  },
+  {
+    "pick": 2,
+    "Eli": 17700,
+    "Ely": 17100,
+    "Jackson": 20000
+  },
+  {
+    "pick": 3,
+    "Eli": 17700,
+    "Ely": 17100,
+    "Jackson": 16600
+  },
+  {
+    "pick": 4,
+    "Eli": 17700,
+    "Ely": 17100,
+    "Jackson": 14000
+  },
+  {
+    "pick": 5,
+    "Eli": 17700,
+    "Ely": 17100,
+    "Jackson": 12000
+  },
+  {
+    "pick": 6,
+    "Eli": 16100,
+    "Ely": 17100,
+    "Jackson": 12000
+  },
+  {
+    "pick": 7,
+    "Eli": 14900,
+    "Ely": 17100,
+    "Jackson": 12000
+  },
+  {
+    "pick": 8,
+    "Eli": 12600,
+    "Ely": 17100,
+    "Jackson": 12000
+  },
+  {
+    "pick": 9,
+    "Eli": 12600,
+    "Ely": 15000,
+    "Jackson": 12000
+  },
+  {
+    "pick": 10,
+    "Eli": 10600,
+    "Ely": 15000,
+    "Jackson": 12000
+  },
+  {
+    "pick": 11,
+    "Eli": 10600,
+    "Ely": 12500,
+    "Jackson": 12000
+  },
+  {
+    "pick": 12,
+    "Eli": 10600,
+    "Ely": 10400,
+    "Jackson": 12000
+  },
+  {
+    "pick": 13,
+    "Eli": 8000,
+    "Ely": 10400,
+    "Jackson": 12000
+  },
+  {
+    "pick": 14,
+    "Eli": 5900,
+    "Ely": 10400,
+    "Jackson": 12000
+  },
+  {
+    "pick": 15,
+    "Eli": 5900,
+    "Ely": 8100,
+    "Jackson": 12000
+  },
+  {
+    "pick": 16,
+    "Eli": 2100,
+    "Ely": 8100,
+    "Jackson": 12000
+  },
+  {
+    "pick": 17,
+    "Eli": 2100,
+    "Ely": 6300,
+    "Jackson": 12000
+  },
+  {
+    "pick": 18,
+    "Eli": 2100,
+    "Ely": 2900,
+    "Jackson": 12000
+  },
+  {
+    "pick": 19,
+    "Eli": 2100,
+    "Ely": 2900,
+    "Jackson": 9000
+  },
+  {
+    "pick": 20,
+    "Eli": 2100,
+    "Ely": 0,
+    "Jackson": 9000
+  },
+  {
+    "pick": 21,
+    "Eli": 2100,
+    "Ely": 0,
+    "Jackson": 6800
+  },
+  {
+    "pick": 22,
+    "Eli": 2100,
+    "Ely": 0,
+    "Jackson": 4600
+  },
+  {
+    "pick": 23,
+    "Eli": 2100,
+    "Ely": 0,
+    "Jackson": 2400
+  },
+  {
+    "pick": 24,
+    "Eli": 2100,
+    "Ely": 0,
+    "Jackson": 0
+  }
+]

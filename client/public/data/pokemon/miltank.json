@@ -31,6 +31,14 @@
       "pick_num": 5,
       "num_picks": 56,
       "run_id": "2026_02_15_r1"
+    },
+    {
+      "run_number": 18,
+      "cost": 2300,
+      "drafted_by": "Austin",
+      "pick_num": 21,
+      "num_picks": 56,
+      "run_id": "2026_02_16_r1"
     }
   ],
   "result_over_runs": [
@@ -65,6 +73,14 @@
       "placement": 4,
       "result": "Flannery",
       "num_racers": 7
+    },
+    {
+      "run_number": 18,
+      "result_order": 7,
+      "drafted_by": "Austin",
+      "placement": 4,
+      "result": "Winona",
+      "num_racers": 7
     }
   ],
   "draft_buckets_2": [
@@ -83,6 +99,10 @@
     {
       "buckets_2": 0.0,
       "cost": 2400
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2300
     }
   ],
   "draft_buckets_4": [
@@ -101,6 +121,10 @@
     {
       "buckets_4": 0.0,
       "cost": 2400
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 2300
     }
   ]
 }

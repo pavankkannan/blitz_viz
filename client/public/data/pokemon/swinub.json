@@ -7,6 +7,14 @@
       "pick_num": 34,
       "num_picks": 48,
       "run_id": "2026_02_09_r1"
+    },
+    {
+      "run_number": 18,
+      "cost": 1600,
+      "drafted_by": "Pavan",
+      "pick_num": 47,
+      "num_picks": 56,
+      "run_id": "2026_02_16_r1"
     }
   ],
   "result_over_runs": [
@@ -17,18 +25,34 @@
       "placement": 6,
       "result": "Norman",
       "num_racers": 6
+    },
+    {
+      "run_number": 18,
+      "result_order": 8,
+      "drafted_by": "Pavan",
+      "placement": 3,
+      "result": "Brawly",
+      "num_racers": 7
     }
   ],
   "draft_buckets_2": [
     {
       "buckets_2": 1.0,
       "cost": 3000
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 1600
     }
   ],
   "draft_buckets_4": [
     {
       "buckets_4": 2.0,
       "cost": 3000
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 1600
     }
   ]
 }

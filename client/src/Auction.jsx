@@ -2,17 +2,16 @@ import { useEffect, useState } from "react";
 import { fetchPokemonData, fetchPokemonSummary, fetchRunCount } from "./api";
 import Lines from "./components/Lines";
 import SearchTable from "./components/SearchTable";
-import "./App.css"
+import "./Auction.css"
 
 
 
 
-function App() {
+function Auction() {
   const [data, setData] = useState(null);
   const [summary, setSummary] = useState(null);
   const [selectedPokemon, setSelectedPokemon] = useState("Oddish");
   const [totalRuns, setTotalRuns] = useState(null);
-
 
 
 
@@ -35,6 +34,8 @@ function App() {
       })
       .catch(console.error);
   }, []);
+
+
 
 
 
@@ -76,9 +77,10 @@ function App() {
           />
         )}
       </div>
+
     </div>
   );
 
 }
 
-export default App;
+export default Auction;

@@ -7,6 +7,14 @@
       "pick_num": 37,
       "num_picks": 48,
       "run_id": "2026_01_30_r2"
+    },
+    {
+      "run_number": 19,
+      "cost": 2400,
+      "drafted_by": "Eli",
+      "pick_num": 4,
+      "num_picks": 24,
+      "run_id": "2026_02_17_r1"
     }
   ],
   "result_over_runs": [
@@ -17,18 +25,34 @@
       "placement": 4,
       "result": "Roxanne",
       "num_racers": 6
+    },
+    {
+      "run_number": 19,
+      "result_order": 13,
+      "drafted_by": "Eli",
+      "placement": 1,
+      "result": "Steven",
+      "num_racers": 3
     }
   ],
   "draft_buckets_2": [
     {
       "buckets_2": 1.0,
       "cost": 2100
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2400
     }
   ],
   "draft_buckets_4": [
     {
       "buckets_4": 3.0,
       "cost": 2100
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 2400
     }
   ]
 }
