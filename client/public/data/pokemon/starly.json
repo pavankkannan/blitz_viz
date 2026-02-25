@@ -39,6 +39,14 @@
       "pick_num": 19,
       "num_picks": 48,
       "run_id": "2026_02_09_r1"
+    },
+    {
+      "run_number": 21,
+      "cost": 1600,
+      "drafted_by": "Ian",
+      "pick_num": 57,
+      "num_picks": 64,
+      "run_id": "2026_02_22_r1"
     }
   ],
   "result_over_runs": [
@@ -79,8 +87,16 @@
       "result_order": 14,
       "drafted_by": "Jackson",
       "placement": 1,
-      "result": "HOF",
+      "result": "Steven",
       "num_racers": 6
+    },
+    {
+      "run_number": 21,
+      "result_order": 5,
+      "drafted_by": "Ian",
+      "placement": 7,
+      "result": "Brawly",
+      "num_racers": 8
     }
   ],
   "draft_buckets_2": [
@@ -103,6 +119,10 @@
     {
       "buckets_2": 0.0,
       "cost": 2100
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 1600
     }
   ],
   "draft_buckets_4": [
@@ -125,6 +145,10 @@
     {
       "buckets_4": 1.0,
       "cost": 2100
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 1600
     }
   ]
 }

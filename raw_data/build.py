@@ -47,7 +47,7 @@ def updateDB():
             CREATE OR REPLACE TABLE draft_pool AS
             SELECT *
             FROM read_csv_auto('raw_data/Pok.csv')
-            WHERE stage='base' AND NOT name='Egg';
+            WHERE stage='base' AND NOT name='Egg' AND is_baby IS NULL;;
         """)
 
 
@@ -190,8 +190,69 @@ def buildDraftHistory():
         )
         print(f"Saved draft/{draft}.json")
 
+def buildBossHistory():
+    BOSS_QUERY = """
+        SELECT
+            result,
+            COUNT(*) FILTER (WHERE result_order = 1) as "1",
+            COUNT(*) FILTER (WHERE result_order = 2) as "2",
+            COUNT(*) FILTER (WHERE result_order = 3) as "3",
+            COUNT(*) FILTER (WHERE result_order = 4) as "4",
+            COUNT(*) FILTER (WHERE result_order = 5) as "5",
+            COUNT(*) FILTER (WHERE result_order = 6) as "6",
+            COUNT(*) FILTER (WHERE result_order = 7) as "7",
+            COUNT(*) FILTER (WHERE result_order = 8) as "8",
+            COUNT(*) FILTER (WHERE result_order = 9) as "9",
+            COUNT(*) FILTER (WHERE result_order = 10) as "10",
+            COUNT(*) FILTER (WHERE result_order = 11) as "11",
+            COUNT(*) FILTER (WHERE result_order = 12) as "12",
+            COUNT(*) FILTER (WHERE result_order = 13) as "13",
+        FROM races
+        GROUP BY result
+        ORDER BY result;
+        """
+    
+    ORDER_QUERY = """
+        SELECT
+            result_order,
+            COUNT(*) FILTER (WHERE result = 'Roxanne') as "Roxanne",
+            COUNT(*) FILTER (WHERE result = 'Viola') as "Viola",
+            COUNT(*) FILTER (WHERE result = 'Brawly') as "Brawly",
+            COUNT(*) FILTER (WHERE result = 'Wattson') as "Wattson",
+            COUNT(*) FILTER (WHERE result = 'Flannery') as "Flannery",
+            COUNT(*) FILTER (WHERE result = 'Norman') as "Norman",
+            COUNT(*) FILTER (WHERE result = 'Winona') as "Winona",
+            COUNT(*) FILTER (WHERE result = 'Tate & Liza') as "Tate & Liza",
+            COUNT(*) FILTER (WHERE result = 'Juan & Wallace') as "Juan & Wallace",
+            COUNT(*) FILTER (WHERE result = 'Archie') as "Archie",
+            COUNT(*) FILTER (WHERE result = 'Maxie') as "Maxie",
+            COUNT(*) FILTER (WHERE result = 'Sidney') as "Sidney",
+            COUNT(*) FILTER (WHERE result = 'Spenser') as "Spenser",
+            COUNT(*) FILTER (WHERE result = 'Lucy') as "Lucy",
+            COUNT(*) FILTER (WHERE result = 'Phoebe') as "Phoebe",
+            COUNT(*) FILTER (WHERE result = 'Glacia') as "Glacia",
+            COUNT(*) FILTER (WHERE result = 'Tucker') as "Tucker",
+            COUNT(*) FILTER (WHERE result = 'Drake') as "Drake",
+            COUNT(*) FILTER (WHERE result = 'Brandon') as "Brandon",
+            COUNT(*) FILTER (WHERE result = 'Steven' AND result_order !=14) as "Steven",
+            COUNT(*) FILTER (WHERE result = 'Wally' AND result_order !=14) as "Wally",
+        FROM races
+        GROUP BY result_order
+        ORDER BY result_order;
+    """
 
+    with get_con() as con:
+        df1 = con.execute(BOSS_QUERY).df()
+        df2 = con.execute(ORDER_QUERY).df()
 
+    bundled = {
+        "boss_data": df1.to_dict("records"),
+        "order_data": df2.to_dict("records")
+    }
+
+    write_json_to_all_dirs("boss-data.json", bundled)
+
+    
 
 
 
@@ -215,7 +276,8 @@ def build_all():
 
 
 if __name__ == "__main__":
-    build_all()
+    # build_all()
+    buildBossHistory()
 
 
     # print(buildDraftHistory())

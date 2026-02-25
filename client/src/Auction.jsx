@@ -44,7 +44,7 @@ function Auction() {
     <div className="app">
       {summary && (
         <div className="table-container">
-          <h2>Emerald Blitz Pokemon</h2>
+          <h2>Draftable Pokemon</h2>
           <SearchTable
             data={summary}
             onSelect={pokemon => setSelectedPokemon(pokemon)}

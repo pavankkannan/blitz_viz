@@ -23,6 +23,14 @@
       "pick_num": 22,
       "num_picks": 48,
       "run_id": "2026_02_09_r1"
+    },
+    {
+      "run_number": 20,
+      "cost": 2000,
+      "drafted_by": "Christian",
+      "pick_num": 8,
+      "num_picks": 32,
+      "run_id": "2026_02_21_r1"
     }
   ],
   "result_over_runs": [
@@ -49,11 +57,23 @@
       "placement": 2,
       "result": "Tucker",
       "num_racers": 6
+    },
+    {
+      "run_number": 20,
+      "result_order": 5,
+      "drafted_by": "Christian",
+      "placement": 3,
+      "result": "Norman",
+      "num_racers": 4
     }
   ],
   "draft_buckets_2": [
     {
       "buckets_2": 1.0,
+      "cost": 2000
+    },
+    {
+      "buckets_2": 0.0,
       "cost": 2000
     },
     {
@@ -76,6 +96,10 @@
     },
     {
       "buckets_4": 1.0,
+      "cost": 2000
+    },
+    {
+      "buckets_4": 0.0,
       "cost": 2000
     }
   ]

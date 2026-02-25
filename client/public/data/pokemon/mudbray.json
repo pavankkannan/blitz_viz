@@ -15,6 +15,22 @@
       "pick_num": 43,
       "num_picks": 56,
       "run_id": "2026_02_15_r1"
+    },
+    {
+      "run_number": 20,
+      "cost": 2900,
+      "drafted_by": "Eli",
+      "pick_num": 24,
+      "num_picks": 32,
+      "run_id": "2026_02_21_r1"
+    },
+    {
+      "run_number": 21,
+      "cost": 4000,
+      "drafted_by": "Joey",
+      "pick_num": 3,
+      "num_picks": 64,
+      "run_id": "2026_02_22_r1"
     }
   ],
   "result_over_runs": [
@@ -33,6 +49,22 @@
       "placement": 1,
       "result": "Steven",
       "num_racers": 7
+    },
+    {
+      "run_number": 20,
+      "result_order": 12,
+      "drafted_by": "Eli",
+      "placement": 2,
+      "result": "Drake",
+      "num_racers": 4
+    },
+    {
+      "run_number": 21,
+      "result_order": 6,
+      "drafted_by": "Joey",
+      "placement": 6,
+      "result": "Winona",
+      "num_racers": 8
     }
   ],
   "draft_buckets_2": [
@@ -43,6 +75,14 @@
     {
       "buckets_2": 1.0,
       "cost": 2600
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2900
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 4000
     }
   ],
   "draft_buckets_4": [
@@ -53,6 +93,14 @@
     {
       "buckets_4": 3.0,
       "cost": 2600
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 2900
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 4000
     }
   ]
 }

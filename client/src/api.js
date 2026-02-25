@@ -23,3 +23,9 @@ export async function fetchDraft(run_id) {
   if (!res.ok) throw new Error("API error");
   return res.json();
 }
+
+export async function fetchBossData() {
+  const res = await fetch(`./data/boss-data.json`);
+  if (!res.ok) throw new Error("API error");
+  return res.json();
+}
