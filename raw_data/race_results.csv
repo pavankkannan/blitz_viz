@@ -111,3 +111,7 @@ run_id,run_number,racer_name,placement,result,result_order,time,start_money,end_
 2026_02_22_r1,21,Joey,6,Winona,6,,20000,0,Umbreon,5,1.70484E+11,8.2,64,8,,
 2026_02_22_r1,21,Ian,7,Brawly,5,,20000,0,Espeon,4,1.70484E+11,8.2,64,8,,
 2026_02_22_r1,21,Primo,8,Wattson,4,,20000,800,,,1.70484E+11,8.2,64,8,,
+2026_02_26_r1,22,Ely,1,Wally,13,,20000,1200,Vaporeon,2,5.70169E+11,8.2,32,4,,"Spenser,Lucy,Tucker,Brandon,Wally,Loss"
+2026_02_26_r1,22,Jackson,2,Tucker,11,,20000,500,Sylveon,1,5.70169E+11,8.2,32,4,,"Spenser,Phoebe,Tucker,Loss"
+2026_02_26_r1,22,Pavan,3,Phoebe,10,,20000,0,Umbreon,3,5.70169E+11,8.2,32,4,,"Sidney,Phoebe,Loss"
+2026_02_26_r1,22,Ely,4,Roxanne,3,,20000,900,,,5.70169E+11,8.2,32,4,,

@@ -47,6 +47,22 @@
       "pick_num": 33,
       "num_picks": 40,
       "run_id": "2026_01_31_r1"
+    },
+    {
+      "run_number": 22,
+      "cost": 2400,
+      "drafted_by": "Ely",
+      "pick_num": 15,
+      "num_picks": 32,
+      "run_id": "2026_02_26_r1"
+    },
+    {
+      "run_number": 22,
+      "cost": 2400,
+      "drafted_by": "Ely",
+      "pick_num": 15,
+      "num_picks": 32,
+      "run_id": "2026_02_26_r1"
     }
   ],
   "result_over_runs": [
@@ -97,6 +113,22 @@
       "placement": 3,
       "result": "Archie",
       "num_racers": 5
+    },
+    {
+      "run_number": 22,
+      "result_order": 13,
+      "drafted_by": "Ely",
+      "placement": 1,
+      "result": "Wally",
+      "num_racers": 4
+    },
+    {
+      "run_number": 22,
+      "result_order": 3,
+      "drafted_by": "Ely",
+      "placement": 4,
+      "result": "Roxanne",
+      "num_racers": 4
     }
   ],
   "draft_buckets_2": [
@@ -123,6 +155,14 @@
     {
       "buckets_2": 1.0,
       "cost": 2100
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2400
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2400
     }
   ],
   "draft_buckets_4": [
@@ -149,6 +189,14 @@
     {
       "buckets_4": 3.0,
       "cost": 2100
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 2400
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 2400
     }
   ]
 }
