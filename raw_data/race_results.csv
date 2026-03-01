@@ -115,3 +115,12 @@ run_id,run_number,racer_name,placement,result,result_order,time,start_money,end_
 2026_02_26_r1,22,Jackson,2,Tucker,11,,20000,500,Sylveon,1,5.70169E+11,8.2,32,4,,"Spenser,Phoebe,Tucker,Loss"
 2026_02_26_r1,22,Pavan,3,Phoebe,10,,20000,0,Umbreon,3,5.70169E+11,8.2,32,4,,"Sidney,Phoebe,Loss"
 2026_02_26_r1,22,Eli,4,Roxanne,3,,20000,900,,,5.70169E+11,8.2,32,4,,
+2026_02_27_r1,23,Jackson,1,Wally,13,,20000,0,Vaporeon,1,007128749611,8.2,32,4,,"Spenser,Lucy,Tucker,Brandon,Wally,Loss"
+2026_02_27_r1,23,Austin,2,Wattson,4,,20000,2400,,,007128749611,8.2,32,4,,
+2026_02_27_r1,23,Paddy,3,Tate & Liza,3,,20000,0,,,007128749611,8.2,32,4,,
+2026_02_27_r1,23,Pavan,4,Brawly,2,,20000,1300,,,007128749611,8.2,32,4,,
+2026_02_28_r1,24,Jackson,1,Steven,13,,20000,0,Jolteon,2,6.85136E+11,8.2,40,5,,"Sidney,Lucy,Tucker,Brandon,Steven,Loss"
+2026_02_28_r1,24,Pavan,2,Wally,13,,20000,2800,Sylveon,1,6.85136E+11,8.2,40,5,,"Sidney,Lucy,Glacia,Brandon,Wally,Loss"
+2026_02_28_r1,24,Primo,3,Spenser,9,,20000,0,Umbreon,3,6.85136E+11,8.2,40,5,,
+2026_02_28_r1,24,Christian,4,Wattson,5,,20000,300,,,6.85136E+11,8.2,40,5,,
+2026_02_28_r1,24,Paddy,5,Brawly,2,,20000,0,,,6.85136E+11,8.2,40,5,,

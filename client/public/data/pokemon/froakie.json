@@ -39,6 +39,22 @@
       "pick_num": 9,
       "num_picks": 24,
       "run_id": "2026_02_17_r1"
+    },
+    {
+      "run_number": 23,
+      "cost": 3000,
+      "drafted_by": "Austin",
+      "pick_num": 5,
+      "num_picks": 32,
+      "run_id": "2026_02_27_r1"
+    },
+    {
+      "run_number": 24,
+      "cost": 3300,
+      "drafted_by": "Paddy",
+      "pick_num": 35,
+      "num_picks": 40,
+      "run_id": "2026_02_28_r1"
     }
   ],
   "result_over_runs": [
@@ -81,6 +97,22 @@
       "placement": 2,
       "result": "Glacia",
       "num_racers": 3
+    },
+    {
+      "run_number": 23,
+      "result_order": 4,
+      "drafted_by": "Austin",
+      "placement": 2,
+      "result": "Wattson",
+      "num_racers": 4
+    },
+    {
+      "run_number": 24,
+      "result_order": 2,
+      "drafted_by": "Paddy",
+      "placement": 5,
+      "result": "Brawly",
+      "num_racers": 5
     }
   ],
   "draft_buckets_2": [
@@ -103,6 +135,14 @@
     {
       "buckets_2": 0.0,
       "cost": 3500
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 3000
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 3300
     }
   ],
   "draft_buckets_4": [
@@ -125,6 +165,14 @@
     {
       "buckets_4": 1.0,
       "cost": 3500
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 3000
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 3300
     }
   ]
 }
