@@ -55,6 +55,22 @@
       "pick_num": 32,
       "num_picks": 32,
       "run_id": "2026_02_21_r1"
+    },
+    {
+      "run_number": 25,
+      "cost": 1700,
+      "drafted_by": "Primo",
+      "pick_num": 38,
+      "num_picks": 48,
+      "run_id": "2026_03_01_r1"
+    },
+    {
+      "run_number": 29,
+      "cost": 2200,
+      "drafted_by": "Paddy",
+      "pick_num": 11,
+      "num_picks": 24,
+      "run_id": "2026_03_10_r1"
     }
   ],
   "result_over_runs": [
@@ -113,6 +129,22 @@
       "placement": 3,
       "result": "Norman",
       "num_racers": 4
+    },
+    {
+      "run_number": 25,
+      "result_order": 3,
+      "drafted_by": "Primo",
+      "placement": 6,
+      "result": "Norman",
+      "num_racers": 6
+    },
+    {
+      "run_number": 29,
+      "result_order": 14,
+      "drafted_by": "Paddy",
+      "placement": 1,
+      "result": "Steven",
+      "num_racers": 3
     }
   ],
   "draft_buckets_2": [
@@ -143,6 +175,14 @@
     {
       "buckets_2": 1.0,
       "cost": 3400
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 1700
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2200
     }
   ],
   "draft_buckets_4": [
@@ -173,6 +213,14 @@
     {
       "buckets_4": 3.0,
       "cost": 3400
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 1700
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 2200
     }
   ]
 }

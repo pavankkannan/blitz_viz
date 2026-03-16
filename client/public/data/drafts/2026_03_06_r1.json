@@ -1,0 +1,572 @@
+[
+  {
+    "pick": 0,
+    "Austin": 20000,
+    "Christian": 20000,
+    "Eli": 20000,
+    "Ely": 20000,
+    "Paddy": 20000,
+    "Pavan": 20000,
+    "Primo": 20000
+  },
+  {
+    "pick": 1,
+    "Austin": 20000,
+    "Christian": 20000,
+    "Eli": 20000,
+    "Ely": 17900,
+    "Paddy": 20000,
+    "Pavan": 20000,
+    "Primo": 20000
+  },
+  {
+    "pick": 2,
+    "Austin": 20000,
+    "Christian": 20000,
+    "Eli": 20000,
+    "Ely": 15100,
+    "Paddy": 20000,
+    "Pavan": 20000,
+    "Primo": 20000
+  },
+  {
+    "pick": 3,
+    "Austin": 20000,
+    "Christian": 20000,
+    "Eli": 20000,
+    "Ely": 15100,
+    "Paddy": 20000,
+    "Pavan": 16900,
+    "Primo": 20000
+  },
+  {
+    "pick": 4,
+    "Austin": 20000,
+    "Christian": 20000,
+    "Eli": 17700,
+    "Ely": 15100,
+    "Paddy": 20000,
+    "Pavan": 16900,
+    "Primo": 20000
+  },
+  {
+    "pick": 5,
+    "Austin": 20000,
+    "Christian": 20000,
+    "Eli": 17700,
+    "Ely": 13100,
+    "Paddy": 20000,
+    "Pavan": 16900,
+    "Primo": 20000
+  },
+  {
+    "pick": 6,
+    "Austin": 20000,
+    "Christian": 20000,
+    "Eli": 17700,
+    "Ely": 13100,
+    "Paddy": 20000,
+    "Pavan": 14800,
+    "Primo": 20000
+  },
+  {
+    "pick": 7,
+    "Austin": 20000,
+    "Christian": 20000,
+    "Eli": 17700,
+    "Ely": 13100,
+    "Paddy": 20000,
+    "Pavan": 12600,
+    "Primo": 20000
+  },
+  {
+    "pick": 8,
+    "Austin": 20000,
+    "Christian": 20000,
+    "Eli": 15100,
+    "Ely": 13100,
+    "Paddy": 20000,
+    "Pavan": 12600,
+    "Primo": 20000
+  },
+  {
+    "pick": 9,
+    "Austin": 20000,
+    "Christian": 20000,
+    "Eli": 15100,
+    "Ely": 13100,
+    "Paddy": 18100,
+    "Pavan": 12600,
+    "Primo": 20000
+  },
+  {
+    "pick": 10,
+    "Austin": 18300,
+    "Christian": 20000,
+    "Eli": 15100,
+    "Ely": 13100,
+    "Paddy": 18100,
+    "Pavan": 12600,
+    "Primo": 20000
+  },
+  {
+    "pick": 11,
+    "Austin": 15800,
+    "Christian": 20000,
+    "Eli": 15100,
+    "Ely": 13100,
+    "Paddy": 18100,
+    "Pavan": 12600,
+    "Primo": 20000
+  },
+  {
+    "pick": 12,
+    "Austin": 15800,
+    "Christian": 20000,
+    "Eli": 15100,
+    "Ely": 13100,
+    "Paddy": 15900,
+    "Pavan": 12600,
+    "Primo": 20000
+  },
+  {
+    "pick": 13,
+    "Austin": 15800,
+    "Christian": 20000,
+    "Eli": 15100,
+    "Ely": 13100,
+    "Paddy": 15900,
+    "Pavan": 9600,
+    "Primo": 20000
+  },
+  {
+    "pick": 14,
+    "Austin": 15800,
+    "Christian": 20000,
+    "Eli": 15100,
+    "Ely": 10600,
+    "Paddy": 15900,
+    "Pavan": 9600,
+    "Primo": 20000
+  },
+  {
+    "pick": 15,
+    "Austin": 15800,
+    "Christian": 20000,
+    "Eli": 15100,
+    "Ely": 10600,
+    "Paddy": 15900,
+    "Pavan": 9600,
+    "Primo": 15800
+  },
+  {
+    "pick": 16,
+    "Austin": 15800,
+    "Christian": 20000,
+    "Eli": 15100,
+    "Ely": 8000,
+    "Paddy": 15900,
+    "Pavan": 9600,
+    "Primo": 15800
+  },
+  {
+    "pick": 17,
+    "Austin": 15800,
+    "Christian": 20000,
+    "Eli": 15100,
+    "Ely": 4300,
+    "Paddy": 15900,
+    "Pavan": 9600,
+    "Primo": 15800
+  },
+  {
+    "pick": 18,
+    "Austin": 15800,
+    "Christian": 20000,
+    "Eli": 15100,
+    "Ely": 4300,
+    "Paddy": 13400,
+    "Pavan": 9600,
+    "Primo": 15800
+  },
+  {
+    "pick": 19,
+    "Austin": 15800,
+    "Christian": 20000,
+    "Eli": 12500,
+    "Ely": 4300,
+    "Paddy": 13400,
+    "Pavan": 9600,
+    "Primo": 15800
+  },
+  {
+    "pick": 20,
+    "Austin": 15800,
+    "Christian": 20000,
+    "Eli": 12500,
+    "Ely": 1300,
+    "Paddy": 13400,
+    "Pavan": 9600,
+    "Primo": 15800
+  },
+  {
+    "pick": 21,
+    "Austin": 15800,
+    "Christian": 17300,
+    "Eli": 12500,
+    "Ely": 1300,
+    "Paddy": 13400,
+    "Pavan": 9600,
+    "Primo": 15800
+  },
+  {
+    "pick": 22,
+    "Austin": 15800,
+    "Christian": 17300,
+    "Eli": 12500,
+    "Ely": 1300,
+    "Paddy": 10500,
+    "Pavan": 9600,
+    "Primo": 15800
+  },
+  {
+    "pick": 23,
+    "Austin": 15800,
+    "Christian": 17300,
+    "Eli": 12500,
+    "Ely": 1300,
+    "Paddy": 10500,
+    "Pavan": 7200,
+    "Primo": 15800
+  },
+  {
+    "pick": 24,
+    "Austin": 15800,
+    "Christian": 17300,
+    "Eli": 12500,
+    "Ely": 1300,
+    "Paddy": 10500,
+    "Pavan": 7200,
+    "Primo": 12800
+  },
+  {
+    "pick": 25,
+    "Austin": 15800,
+    "Christian": 17300,
+    "Eli": 12500,
+    "Ely": 1300,
+    "Paddy": 8400,
+    "Pavan": 7200,
+    "Primo": 12800
+  },
+  {
+    "pick": 26,
+    "Austin": 12400,
+    "Christian": 17300,
+    "Eli": 12500,
+    "Ely": 1300,
+    "Paddy": 8400,
+    "Pavan": 7200,
+    "Primo": 12800
+  },
+  {
+    "pick": 27,
+    "Austin": 12400,
+    "Christian": 17300,
+    "Eli": 10000,
+    "Ely": 1300,
+    "Paddy": 8400,
+    "Pavan": 7200,
+    "Primo": 12800
+  },
+  {
+    "pick": 28,
+    "Austin": 12400,
+    "Christian": 17300,
+    "Eli": 7500,
+    "Ely": 1300,
+    "Paddy": 8400,
+    "Pavan": 7200,
+    "Primo": 12800
+  },
+  {
+    "pick": 29,
+    "Austin": 12400,
+    "Christian": 17300,
+    "Eli": 7500,
+    "Ely": 1300,
+    "Paddy": 8400,
+    "Pavan": 4200,
+    "Primo": 12800
+  },
+  {
+    "pick": 30,
+    "Austin": 12400,
+    "Christian": 17300,
+    "Eli": 5200,
+    "Ely": 1300,
+    "Paddy": 8400,
+    "Pavan": 4200,
+    "Primo": 12800
+  },
+  {
+    "pick": 31,
+    "Austin": 12400,
+    "Christian": 17300,
+    "Eli": 5200,
+    "Ely": 1300,
+    "Paddy": 6100,
+    "Pavan": 4200,
+    "Primo": 12800
+  },
+  {
+    "pick": 32,
+    "Austin": 12400,
+    "Christian": 14300,
+    "Eli": 5200,
+    "Ely": 1300,
+    "Paddy": 6100,
+    "Pavan": 4200,
+    "Primo": 12800
+  },
+  {
+    "pick": 33,
+    "Austin": 10800,
+    "Christian": 14300,
+    "Eli": 5200,
+    "Ely": 1300,
+    "Paddy": 6100,
+    "Pavan": 4200,
+    "Primo": 12800
+  },
+  {
+    "pick": 34,
+    "Austin": 10800,
+    "Christian": 11900,
+    "Eli": 5200,
+    "Ely": 1300,
+    "Paddy": 6100,
+    "Pavan": 4200,
+    "Primo": 12800
+  },
+  {
+    "pick": 35,
+    "Austin": 10800,
+    "Christian": 8900,
+    "Eli": 5200,
+    "Ely": 1300,
+    "Paddy": 6100,
+    "Pavan": 4200,
+    "Primo": 12800
+  },
+  {
+    "pick": 36,
+    "Austin": 10800,
+    "Christian": 8900,
+    "Eli": 5200,
+    "Ely": 1300,
+    "Paddy": 3900,
+    "Pavan": 4200,
+    "Primo": 12800
+  },
+  {
+    "pick": 37,
+    "Austin": 10800,
+    "Christian": 8900,
+    "Eli": 5200,
+    "Ely": 1300,
+    "Paddy": 3900,
+    "Pavan": 4200,
+    "Primo": 11100
+  },
+  {
+    "pick": 38,
+    "Austin": 10800,
+    "Christian": 8900,
+    "Eli": 5200,
+    "Ely": 1300,
+    "Paddy": 3900,
+    "Pavan": 4200,
+    "Primo": 8100
+  },
+  {
+    "pick": 39,
+    "Austin": 10800,
+    "Christian": 8900,
+    "Eli": 3300,
+    "Ely": 1300,
+    "Paddy": 3900,
+    "Pavan": 4200,
+    "Primo": 8100
+  },
+  {
+    "pick": 40,
+    "Austin": 8600,
+    "Christian": 8900,
+    "Eli": 3300,
+    "Ely": 1300,
+    "Paddy": 3900,
+    "Pavan": 4200,
+    "Primo": 8100
+  },
+  {
+    "pick": 41,
+    "Austin": 8600,
+    "Christian": 8900,
+    "Eli": 3300,
+    "Ely": 1300,
+    "Paddy": 3900,
+    "Pavan": 1500,
+    "Primo": 8100
+  },
+  {
+    "pick": 42,
+    "Austin": 6600,
+    "Christian": 8900,
+    "Eli": 3300,
+    "Ely": 1300,
+    "Paddy": 3900,
+    "Pavan": 1500,
+    "Primo": 8100
+  },
+  {
+    "pick": 43,
+    "Austin": 4700,
+    "Christian": 8900,
+    "Eli": 3300,
+    "Ely": 1300,
+    "Paddy": 3900,
+    "Pavan": 1500,
+    "Primo": 8100
+  },
+  {
+    "pick": 44,
+    "Austin": 2700,
+    "Christian": 8900,
+    "Eli": 3300,
+    "Ely": 1300,
+    "Paddy": 3900,
+    "Pavan": 1500,
+    "Primo": 8100
+  },
+  {
+    "pick": 45,
+    "Austin": 2700,
+    "Christian": 8900,
+    "Eli": 3300,
+    "Ely": 1300,
+    "Paddy": 3900,
+    "Pavan": 1500,
+    "Primo": 6100
+  },
+  {
+    "pick": 46,
+    "Austin": 2700,
+    "Christian": 8900,
+    "Eli": 3300,
+    "Ely": 1300,
+    "Paddy": 1800,
+    "Pavan": 1500,
+    "Primo": 6100
+  },
+  {
+    "pick": 47,
+    "Austin": 2700,
+    "Christian": 7100,
+    "Eli": 3300,
+    "Ely": 1300,
+    "Paddy": 1800,
+    "Pavan": 1500,
+    "Primo": 6100
+  },
+  {
+    "pick": 48,
+    "Austin": 2700,
+    "Christian": 4900,
+    "Eli": 3300,
+    "Ely": 1300,
+    "Paddy": 1800,
+    "Pavan": 1500,
+    "Primo": 6100
+  },
+  {
+    "pick": 49,
+    "Austin": 2700,
+    "Christian": 1500,
+    "Eli": 3300,
+    "Ely": 1300,
+    "Paddy": 1800,
+    "Pavan": 1500,
+    "Primo": 6100
+  },
+  {
+    "pick": 50,
+    "Austin": 2700,
+    "Christian": 1500,
+    "Eli": 3300,
+    "Ely": 1300,
+    "Paddy": 1800,
+    "Pavan": 1500,
+    "Primo": 4200
+  },
+  {
+    "pick": 51,
+    "Austin": 2700,
+    "Christian": 1500,
+    "Eli": 3300,
+    "Ely": 1300,
+    "Paddy": 1800,
+    "Pavan": 1500,
+    "Primo": 2300
+  },
+  {
+    "pick": 52,
+    "Austin": 2700,
+    "Christian": 1500,
+    "Eli": 3300,
+    "Ely": 1300,
+    "Paddy": 1800,
+    "Pavan": 1500,
+    "Primo": 400
+  },
+  {
+    "pick": 53,
+    "Austin": 2700,
+    "Christian": 1500,
+    "Eli": 3300,
+    "Ely": 1300,
+    "Paddy": 0,
+    "Pavan": 1500,
+    "Primo": 400
+  },
+  {
+    "pick": 54,
+    "Austin": 2700,
+    "Christian": 1500,
+    "Eli": 0,
+    "Ely": 1300,
+    "Paddy": 0,
+    "Pavan": 1500,
+    "Primo": 400
+  },
+  {
+    "pick": 55,
+    "Austin": 0,
+    "Christian": 1500,
+    "Eli": 0,
+    "Ely": 1300,
+    "Paddy": 0,
+    "Pavan": 1500,
+    "Primo": 400
+  },
+  {
+    "pick": 56,
+    "Austin": 0,
+    "Christian": 1500,
+    "Eli": 0,
+    "Ely": 1300,
+    "Paddy": 0,
+    "Pavan": 0,
+    "Primo": 400
+  }
+]

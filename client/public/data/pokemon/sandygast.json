@@ -55,6 +55,22 @@
       "pick_num": 32,
       "num_picks": 40,
       "run_id": "2026_02_28_r1"
+    },
+    {
+      "run_number": 26,
+      "cost": 2200,
+      "drafted_by": "Pavan",
+      "pick_num": 5,
+      "num_picks": 24,
+      "run_id": "2026_03_02_r1"
+    },
+    {
+      "run_number": 31,
+      "cost": 2300,
+      "drafted_by": "Primo",
+      "pick_num": 5,
+      "num_picks": 48,
+      "run_id": "2026_03_13_r2"
     }
   ],
   "result_over_runs": [
@@ -113,6 +129,22 @@
       "placement": 2,
       "result": "Wally",
       "num_racers": 5
+    },
+    {
+      "run_number": 26,
+      "result_order": 11,
+      "drafted_by": "Pavan",
+      "placement": 1,
+      "result": "Glacia",
+      "num_racers": 3
+    },
+    {
+      "run_number": 31,
+      "result_order": 3,
+      "drafted_by": "Primo",
+      "placement": 6,
+      "result": "Wattson",
+      "num_racers": 6
     }
   ],
   "draft_buckets_2": [
@@ -143,6 +175,14 @@
     {
       "buckets_2": 1.0,
       "cost": 2400
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2200
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2300
     }
   ],
   "draft_buckets_4": [
@@ -173,6 +213,14 @@
     {
       "buckets_4": 3.0,
       "cost": 2400
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 2200
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 2300
     }
   ]
 }

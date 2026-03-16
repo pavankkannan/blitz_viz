@@ -63,6 +63,22 @@
       "pick_num": 9,
       "num_picks": 40,
       "run_id": "2026_02_28_r1"
+    },
+    {
+      "run_number": 25,
+      "cost": 1700,
+      "drafted_by": "Christian",
+      "pick_num": 31,
+      "num_picks": 48,
+      "run_id": "2026_03_01_r1"
+    },
+    {
+      "run_number": 30,
+      "cost": 1500,
+      "drafted_by": "Austin",
+      "pick_num": 11,
+      "num_picks": 32,
+      "run_id": "2026_03_13_r1"
     }
   ],
   "result_over_runs": [
@@ -129,6 +145,22 @@
       "placement": 4,
       "result": "Wattson",
       "num_racers": 5
+    },
+    {
+      "run_number": 25,
+      "result_order": 5,
+      "drafted_by": "Christian",
+      "placement": 5,
+      "result": "Wattson",
+      "num_racers": 6
+    },
+    {
+      "run_number": 30,
+      "result_order": 2,
+      "drafted_by": "Austin",
+      "placement": 4,
+      "result": "Viola",
+      "num_racers": 4
     }
   ],
   "draft_buckets_2": [
@@ -163,6 +195,14 @@
     {
       "buckets_2": 0.0,
       "cost": 1800
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 1700
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 1500
     }
   ],
   "draft_buckets_4": [
@@ -197,6 +237,14 @@
     {
       "buckets_4": 0.0,
       "cost": 1800
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 1700
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 1500
     }
   ]
 }

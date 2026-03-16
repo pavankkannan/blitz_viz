@@ -55,6 +55,14 @@
       "pick_num": 15,
       "num_picks": 64,
       "run_id": "2026_02_22_r1"
+    },
+    {
+      "run_number": 31,
+      "cost": 3400,
+      "drafted_by": "Austin",
+      "pick_num": 19,
+      "num_picks": 48,
+      "run_id": "2026_03_13_r2"
     }
   ],
   "result_over_runs": [
@@ -113,6 +121,14 @@
       "placement": 3,
       "result": "Lucy",
       "num_racers": 8
+    },
+    {
+      "run_number": 31,
+      "result_order": 7,
+      "drafted_by": "Austin",
+      "placement": 4,
+      "result": "Norman",
+      "num_racers": 6
     }
   ],
   "draft_buckets_2": [
@@ -139,6 +155,10 @@
     {
       "buckets_2": 0.0,
       "cost": 3000
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 3400
     },
     {
       "buckets_2": 0.0,
@@ -172,6 +192,10 @@
     },
     {
       "buckets_4": 0.0,
+      "cost": 3400
+    },
+    {
+      "buckets_4": 1.0,
       "cost": 3400
     }
   ]

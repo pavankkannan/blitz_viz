@@ -39,6 +39,30 @@
       "pick_num": 7,
       "num_picks": 32,
       "run_id": "2026_02_27_r1"
+    },
+    {
+      "run_number": 25,
+      "cost": 2300,
+      "drafted_by": "Paddy",
+      "pick_num": 19,
+      "num_picks": 48,
+      "run_id": "2026_03_01_r1"
+    },
+    {
+      "run_number": 27,
+      "cost": 1700,
+      "drafted_by": "Primo",
+      "pick_num": 37,
+      "num_picks": 56,
+      "run_id": "2026_03_06_r1"
+    },
+    {
+      "run_number": 28,
+      "cost": 2000,
+      "drafted_by": "Christian",
+      "pick_num": 18,
+      "num_picks": 40,
+      "run_id": "2026_03_08_r1"
     }
   ],
   "result_over_runs": [
@@ -81,6 +105,30 @@
       "placement": 3,
       "result": "Tate & Liza",
       "num_racers": 4
+    },
+    {
+      "run_number": 25,
+      "result_order": 7,
+      "drafted_by": "Paddy",
+      "placement": 4,
+      "result": "Wattson",
+      "num_racers": 6
+    },
+    {
+      "run_number": 27,
+      "result_order": 7,
+      "drafted_by": "Primo",
+      "placement": 4,
+      "result": "Juan & Wallace",
+      "num_racers": 8
+    },
+    {
+      "run_number": 28,
+      "result_order": 1,
+      "drafted_by": "Christian",
+      "placement": 5,
+      "result": "Tate & Liza",
+      "num_racers": 5
     }
   ],
   "draft_buckets_2": [
@@ -99,6 +147,18 @@
     {
       "buckets_2": 1.0,
       "cost": 2700
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2000
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2300
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 1700
     },
     {
       "buckets_2": 0.0,
@@ -124,6 +184,18 @@
     },
     {
       "buckets_4": 0.0,
+      "cost": 2000
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 2300
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 1700
+    },
+    {
+      "buckets_4": 1.0,
       "cost": 2000
     }
   ]

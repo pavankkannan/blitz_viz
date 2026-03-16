@@ -1,6 +1,58 @@
 {
-  "cost_over_runs": [],
-  "result_over_runs": [],
-  "draft_buckets_2": [],
-  "draft_buckets_4": []
+  "cost_over_runs": [
+    {
+      "run_number": 30,
+      "cost": 1200,
+      "drafted_by": "Austin",
+      "pick_num": 25,
+      "num_picks": 32,
+      "run_id": "2026_03_13_r1"
+    },
+    {
+      "run_number": 32,
+      "cost": 1100,
+      "drafted_by": "Ely",
+      "pick_num": 11,
+      "num_picks": 32,
+      "run_id": "2026_03_14_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 30,
+      "result_order": 2,
+      "drafted_by": "Austin",
+      "placement": 4,
+      "result": "Viola",
+      "num_racers": 4
+    },
+    {
+      "run_number": 32,
+      "result_order": 14,
+      "drafted_by": "Ely",
+      "placement": 1,
+      "result": "Steven",
+      "num_racers": 4
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 1.0,
+      "cost": 1200
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 1100
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 3.0,
+      "cost": 1200
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 1100
+    }
+  ]
 }

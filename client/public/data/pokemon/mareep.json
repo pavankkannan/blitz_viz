@@ -23,6 +23,22 @@
       "pick_num": 15,
       "num_picks": 32,
       "run_id": "2026_01_27_r1"
+    },
+    {
+      "run_number": 25,
+      "cost": 2600,
+      "drafted_by": "Pavan",
+      "pick_num": 33,
+      "num_picks": 48,
+      "run_id": "2026_03_01_r1"
+    },
+    {
+      "run_number": 29,
+      "cost": 2200,
+      "drafted_by": "Paddy",
+      "pick_num": 22,
+      "num_picks": 24,
+      "run_id": "2026_03_10_r1"
     }
   ],
   "result_over_runs": [
@@ -49,6 +65,22 @@
       "placement": 4,
       "result": "Wattson",
       "num_racers": 4
+    },
+    {
+      "run_number": 25,
+      "result_order": 13,
+      "drafted_by": "Pavan",
+      "placement": 3,
+      "result": "Wally",
+      "num_racers": 6
+    },
+    {
+      "run_number": 29,
+      "result_order": 14,
+      "drafted_by": "Paddy",
+      "placement": 1,
+      "result": "Steven",
+      "num_racers": 3
     }
   ],
   "draft_buckets_2": [
@@ -63,6 +95,14 @@
     {
       "buckets_2": 0.0,
       "cost": 1500
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2600
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2200
     }
   ],
   "draft_buckets_4": [
@@ -77,6 +117,14 @@
     {
       "buckets_4": 1.0,
       "cost": 1500
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 2600
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 2200
     }
   ]
 }

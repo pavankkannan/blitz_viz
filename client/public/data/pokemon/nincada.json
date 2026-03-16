@@ -23,6 +23,30 @@
       "pick_num": 26,
       "num_picks": 32,
       "run_id": "2026_02_26_r1"
+    },
+    {
+      "run_number": 26,
+      "cost": 2000,
+      "drafted_by": "Ely",
+      "pick_num": 11,
+      "num_picks": 24,
+      "run_id": "2026_03_02_r1"
+    },
+    {
+      "run_number": 27,
+      "cost": 2100,
+      "drafted_by": "Pavan",
+      "pick_num": 6,
+      "num_picks": 56,
+      "run_id": "2026_03_06_r1"
+    },
+    {
+      "run_number": 32,
+      "cost": 1600,
+      "drafted_by": "Austin",
+      "pick_num": 25,
+      "num_picks": 32,
+      "run_id": "2026_03_14_r1"
     }
   ],
   "result_over_runs": [
@@ -49,6 +73,30 @@
       "placement": 2,
       "result": "Tucker",
       "num_racers": 4
+    },
+    {
+      "run_number": 26,
+      "result_order": 9,
+      "drafted_by": "Ely",
+      "placement": 2,
+      "result": "Sidney",
+      "num_racers": 3
+    },
+    {
+      "run_number": 27,
+      "result_order": 13,
+      "drafted_by": "Pavan",
+      "placement": 1,
+      "result": "Wally",
+      "num_racers": 8
+    },
+    {
+      "run_number": 32,
+      "result_order": 8,
+      "drafted_by": "Austin",
+      "placement": 4,
+      "result": "Juan & Wallace",
+      "num_racers": 4
     }
   ],
   "draft_buckets_2": [
@@ -63,6 +111,18 @@
     {
       "buckets_2": 1.0,
       "cost": 1500
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2000
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2100
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 1600
     }
   ],
   "draft_buckets_4": [
@@ -77,6 +137,18 @@
     {
       "buckets_4": 3.0,
       "cost": 1500
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 2000
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 2100
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 1600
     }
   ]
 }

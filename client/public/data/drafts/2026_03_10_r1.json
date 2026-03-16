@@ -1,0 +1,152 @@
+[
+  {
+    "pick": 0,
+    "Austin": 20000,
+    "Eli": 20000,
+    "Paddy": 20000
+  },
+  {
+    "pick": 1,
+    "Austin": 17500,
+    "Eli": 20000,
+    "Paddy": 20000
+  },
+  {
+    "pick": 2,
+    "Austin": 17500,
+    "Eli": 20000,
+    "Paddy": 17500
+  },
+  {
+    "pick": 3,
+    "Austin": 17500,
+    "Eli": 17500,
+    "Paddy": 17500
+  },
+  {
+    "pick": 4,
+    "Austin": 17500,
+    "Eli": 15000,
+    "Paddy": 17500
+  },
+  {
+    "pick": 5,
+    "Austin": 17500,
+    "Eli": 15000,
+    "Paddy": 15300
+  },
+  {
+    "pick": 6,
+    "Austin": 17500,
+    "Eli": 12200,
+    "Paddy": 15300
+  },
+  {
+    "pick": 7,
+    "Austin": 15600,
+    "Eli": 12200,
+    "Paddy": 15300
+  },
+  {
+    "pick": 8,
+    "Austin": 15600,
+    "Eli": 9400,
+    "Paddy": 15300
+  },
+  {
+    "pick": 9,
+    "Austin": 15600,
+    "Eli": 9400,
+    "Paddy": 13300
+  },
+  {
+    "pick": 10,
+    "Austin": 15600,
+    "Eli": 6600,
+    "Paddy": 13300
+  },
+  {
+    "pick": 11,
+    "Austin": 15600,
+    "Eli": 6600,
+    "Paddy": 11100
+  },
+  {
+    "pick": 12,
+    "Austin": 15600,
+    "Eli": 5100,
+    "Paddy": 11100
+  },
+  {
+    "pick": 13,
+    "Austin": 15600,
+    "Eli": 4400,
+    "Paddy": 11100
+  },
+  {
+    "pick": 14,
+    "Austin": 15600,
+    "Eli": 2100,
+    "Paddy": 11100
+  },
+  {
+    "pick": 15,
+    "Austin": 13400,
+    "Eli": 2100,
+    "Paddy": 11100
+  },
+  {
+    "pick": 16,
+    "Austin": 13400,
+    "Eli": 2100,
+    "Paddy": 8900
+  },
+  {
+    "pick": 17,
+    "Austin": 11200,
+    "Eli": 2100,
+    "Paddy": 8900
+  },
+  {
+    "pick": 18,
+    "Austin": 9000,
+    "Eli": 2100,
+    "Paddy": 8900
+  },
+  {
+    "pick": 19,
+    "Austin": 6800,
+    "Eli": 2100,
+    "Paddy": 8900
+  },
+  {
+    "pick": 20,
+    "Austin": 6800,
+    "Eli": 2100,
+    "Paddy": 6700
+  },
+  {
+    "pick": 21,
+    "Austin": 4600,
+    "Eli": 2100,
+    "Paddy": 6700
+  },
+  {
+    "pick": 22,
+    "Austin": 4600,
+    "Eli": 2100,
+    "Paddy": 4500
+  },
+  {
+    "pick": 23,
+    "Austin": 2400,
+    "Eli": 2100,
+    "Paddy": 4500
+  },
+  {
+    "pick": 24,
+    "Austin": 2400,
+    "Eli": 2100,
+    "Paddy": 0
+  }
+]

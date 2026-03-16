@@ -7,6 +7,14 @@
       "pick_num": 19,
       "num_picks": 32,
       "run_id": "2026_02_21_r1"
+    },
+    {
+      "run_number": 26,
+      "cost": 4400,
+      "drafted_by": "Pavan",
+      "pick_num": 23,
+      "num_picks": 24,
+      "run_id": "2026_03_02_r1"
     }
   ],
   "result_over_runs": [
@@ -17,18 +25,34 @@
       "placement": 4,
       "result": "Norman",
       "num_racers": 4
+    },
+    {
+      "run_number": 26,
+      "result_order": 11,
+      "drafted_by": "Pavan",
+      "placement": 1,
+      "result": "Glacia",
+      "num_racers": 3
     }
   ],
   "draft_buckets_2": [
     {
       "buckets_2": 1.0,
       "cost": 3900
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 4400
     }
   ],
   "draft_buckets_4": [
     {
       "buckets_4": 2.0,
       "cost": 3900
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 4400
     }
   ]
 }

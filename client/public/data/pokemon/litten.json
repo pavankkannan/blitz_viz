@@ -23,6 +23,14 @@
       "pick_num": 36,
       "num_picks": 64,
       "run_id": "2026_01_25_r1"
+    },
+    {
+      "run_number": 31,
+      "cost": 3300,
+      "drafted_by": "Ely",
+      "pick_num": 26,
+      "num_picks": 48,
+      "run_id": "2026_03_13_r2"
     }
   ],
   "result_over_runs": [
@@ -49,6 +57,14 @@
       "placement": 1,
       "result": "Wattson",
       "num_racers": 8
+    },
+    {
+      "run_number": 31,
+      "result_order": 12,
+      "drafted_by": "Ely",
+      "placement": 1,
+      "result": "Brandon",
+      "num_racers": 6
     }
   ],
   "draft_buckets_2": [
@@ -63,6 +79,10 @@
     {
       "buckets_2": 1.0,
       "cost": 3000
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 3300
     }
   ],
   "draft_buckets_4": [
@@ -77,6 +97,10 @@
     {
       "buckets_4": 2.0,
       "cost": 3000
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 3300
     }
   ]
 }

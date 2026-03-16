@@ -47,6 +47,30 @@
       "pick_num": 10,
       "num_picks": 32,
       "run_id": "2026_02_21_r1"
+    },
+    {
+      "run_number": 25,
+      "cost": 4500,
+      "drafted_by": "Primo",
+      "pick_num": 16,
+      "num_picks": 48,
+      "run_id": "2026_03_01_r1"
+    },
+    {
+      "run_number": 27,
+      "cost": 3400,
+      "drafted_by": "Christian",
+      "pick_num": 49,
+      "num_picks": 56,
+      "run_id": "2026_03_06_r1"
+    },
+    {
+      "run_number": 32,
+      "cost": 3900,
+      "drafted_by": "Austin",
+      "pick_num": 31,
+      "num_picks": 32,
+      "run_id": "2026_03_14_r1"
     }
   ],
   "result_over_runs": [
@@ -97,6 +121,30 @@
       "placement": 3,
       "result": "Norman",
       "num_racers": 4
+    },
+    {
+      "run_number": 25,
+      "result_order": 3,
+      "drafted_by": "Primo",
+      "placement": 6,
+      "result": "Norman",
+      "num_racers": 6
+    },
+    {
+      "run_number": 27,
+      "result_order": 8,
+      "drafted_by": "Christian",
+      "placement": 3,
+      "result": "Viola",
+      "num_racers": 8
+    },
+    {
+      "run_number": 32,
+      "result_order": 8,
+      "drafted_by": "Austin",
+      "placement": 4,
+      "result": "Juan & Wallace",
+      "num_racers": 4
     }
   ],
   "draft_buckets_2": [
@@ -123,6 +171,18 @@
     {
       "buckets_2": 0.0,
       "cost": 4200
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 4500
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 3400
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 3900
     }
   ],
   "draft_buckets_4": [
@@ -149,6 +209,18 @@
     {
       "buckets_4": 1.0,
       "cost": 4200
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 4500
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 3400
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 3900
     }
   ]
 }

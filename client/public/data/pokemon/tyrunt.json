@@ -47,6 +47,30 @@
       "pick_num": 38,
       "num_picks": 64,
       "run_id": "2026_02_22_r1"
+    },
+    {
+      "run_number": 25,
+      "cost": 2600,
+      "drafted_by": "Pavan",
+      "pick_num": 3,
+      "num_picks": 48,
+      "run_id": "2026_03_01_r1"
+    },
+    {
+      "run_number": 28,
+      "cost": 2300,
+      "drafted_by": "Christian",
+      "pick_num": 32,
+      "num_picks": 40,
+      "run_id": "2026_03_08_r1"
+    },
+    {
+      "run_number": 31,
+      "cost": 2600,
+      "drafted_by": "Austin",
+      "pick_num": 48,
+      "num_picks": 48,
+      "run_id": "2026_03_13_r2"
     }
   ],
   "result_over_runs": [
@@ -97,6 +121,30 @@
       "placement": 2,
       "result": "Tucker",
       "num_racers": 8
+    },
+    {
+      "run_number": 25,
+      "result_order": 13,
+      "drafted_by": "Pavan",
+      "placement": 3,
+      "result": "Wally",
+      "num_racers": 6
+    },
+    {
+      "run_number": 28,
+      "result_order": 1,
+      "drafted_by": "Christian",
+      "placement": 5,
+      "result": "Tate & Liza",
+      "num_racers": 5
+    },
+    {
+      "run_number": 31,
+      "result_order": 7,
+      "drafted_by": "Austin",
+      "placement": 4,
+      "result": "Norman",
+      "num_racers": 6
     }
   ],
   "draft_buckets_2": [
@@ -123,6 +171,18 @@
     {
       "buckets_2": 1.0,
       "cost": 2700
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2600
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2300
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2600
     }
   ],
   "draft_buckets_4": [
@@ -149,6 +209,18 @@
     {
       "buckets_4": 2.0,
       "cost": 2700
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 2600
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 2300
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 2600
     }
   ]
 }

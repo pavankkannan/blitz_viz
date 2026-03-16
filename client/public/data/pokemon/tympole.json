@@ -7,6 +7,22 @@
       "pick_num": 35,
       "num_picks": 64,
       "run_id": "2026_02_22_r1"
+    },
+    {
+      "run_number": 25,
+      "cost": 3500,
+      "drafted_by": "Ely",
+      "pick_num": 6,
+      "num_picks": 48,
+      "run_id": "2026_03_01_r1"
+    },
+    {
+      "run_number": 27,
+      "cost": 3000,
+      "drafted_by": "Christian",
+      "pick_num": 35,
+      "num_picks": 56,
+      "run_id": "2026_03_06_r1"
     }
   ],
   "result_over_runs": [
@@ -17,18 +33,50 @@
       "placement": 1,
       "result": "Steven",
       "num_racers": 8
+    },
+    {
+      "run_number": 25,
+      "result_order": 14,
+      "drafted_by": "Ely",
+      "placement": 1,
+      "result": "Steven",
+      "num_racers": 6
+    },
+    {
+      "run_number": 27,
+      "result_order": 8,
+      "drafted_by": "Christian",
+      "placement": 3,
+      "result": "Viola",
+      "num_racers": 8
     }
   ],
   "draft_buckets_2": [
     {
       "buckets_2": 1.0,
       "cost": 3200
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 3500
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 3000
     }
   ],
   "draft_buckets_4": [
     {
       "buckets_4": 2.0,
       "cost": 3200
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 3500
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 3000
     }
   ]
 }

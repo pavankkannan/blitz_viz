@@ -1,6 +1,58 @@
 {
-  "cost_over_runs": [],
-  "result_over_runs": [],
-  "draft_buckets_2": [],
-  "draft_buckets_4": []
+  "cost_over_runs": [
+    {
+      "run_number": 27,
+      "cost": 2700,
+      "drafted_by": "Christian",
+      "pick_num": 21,
+      "num_picks": 56,
+      "run_id": "2026_03_06_r1"
+    },
+    {
+      "run_number": 29,
+      "cost": 2800,
+      "drafted_by": "Eli",
+      "pick_num": 6,
+      "num_picks": 24,
+      "run_id": "2026_03_10_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 27,
+      "result_order": 8,
+      "drafted_by": "Christian",
+      "placement": 3,
+      "result": "Viola",
+      "num_racers": 8
+    },
+    {
+      "run_number": 29,
+      "result_order": 14,
+      "drafted_by": "Eli",
+      "placement": 2,
+      "result": "Wally",
+      "num_racers": 3
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 0.0,
+      "cost": 2700
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2800
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 1.0,
+      "cost": 2700
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 2800
+    }
+  ]
 }

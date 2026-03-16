@@ -39,6 +39,22 @@
       "pick_num": 40,
       "num_picks": 64,
       "run_id": "2026_02_22_r1"
+    },
+    {
+      "run_number": 27,
+      "cost": 2500,
+      "drafted_by": "Ely",
+      "pick_num": 14,
+      "num_picks": 56,
+      "run_id": "2026_03_06_r1"
+    },
+    {
+      "run_number": 31,
+      "cost": 2000,
+      "drafted_by": "Pavan",
+      "pick_num": 46,
+      "num_picks": 48,
+      "run_id": "2026_03_13_r2"
     }
   ],
   "result_over_runs": [
@@ -81,6 +97,22 @@
       "placement": 1,
       "result": "Steven",
       "num_racers": 8
+    },
+    {
+      "run_number": 27,
+      "result_order": 7,
+      "drafted_by": "Ely",
+      "placement": 5,
+      "result": "Flannery",
+      "num_racers": 8
+    },
+    {
+      "run_number": 31,
+      "result_order": 12,
+      "drafted_by": "Pavan",
+      "placement": 2,
+      "result": "Drake",
+      "num_racers": 6
     }
   ],
   "draft_buckets_2": [
@@ -103,6 +135,14 @@
     {
       "buckets_2": 1.0,
       "cost": 2500
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2500
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2000
     }
   ],
   "draft_buckets_4": [
@@ -125,6 +165,14 @@
     {
       "buckets_4": 2.0,
       "cost": 2500
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 2500
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 2000
     }
   ]
 }

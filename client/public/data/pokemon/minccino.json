@@ -39,6 +39,22 @@
       "pick_num": 1,
       "num_picks": 40,
       "run_id": "2026_01_31_r1"
+    },
+    {
+      "run_number": 27,
+      "cost": 1600,
+      "drafted_by": "Austin",
+      "pick_num": 33,
+      "num_picks": 56,
+      "run_id": "2026_03_06_r1"
+    },
+    {
+      "run_number": 28,
+      "cost": 3500,
+      "drafted_by": "Jackson",
+      "pick_num": 40,
+      "num_picks": 40,
+      "run_id": "2026_03_08_r1"
     }
   ],
   "result_over_runs": [
@@ -81,6 +97,22 @@
       "placement": 2,
       "result": "Glacia",
       "num_racers": 5
+    },
+    {
+      "run_number": 27,
+      "result_order": 2,
+      "drafted_by": "Austin",
+      "placement": 7,
+      "result": "Viola",
+      "num_racers": 8
+    },
+    {
+      "run_number": 28,
+      "result_order": 4,
+      "drafted_by": "Jackson",
+      "placement": 3,
+      "result": "Roxanne",
+      "num_racers": 5
     }
   ],
   "draft_buckets_2": [
@@ -103,6 +135,14 @@
     {
       "buckets_2": 0.0,
       "cost": 1500
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 1600
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 3500
     }
   ],
   "draft_buckets_4": [
@@ -125,6 +165,14 @@
     {
       "buckets_4": 0.0,
       "cost": 1500
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 1600
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 3500
     }
   ]
 }
