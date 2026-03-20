@@ -2,6 +2,7 @@ import { useState } from 'react'
 import Auction from './Auction.jsx'
 import Draft from './Draft.jsx'
 import Boss from './Boss.jsx'
+import Leaderboard from './Leaderboard.jsx'
 import './App.css'
 
 export default function App() {
@@ -15,6 +16,8 @@ export default function App() {
         return <Draft />
       case 'boss':
         return <Boss />
+      case 'leaderboard':
+        return <Leaderboard />
       default:
         return <Auction />
     }
@@ -41,6 +44,12 @@ export default function App() {
           onClick={() => setMode('boss')}
         >
           Boss
+        </button>
+        <button
+          className={mode === 'leaderboard' ? 'active' : ''}
+          onClick={() => setMode('leaderboard')}
+        >
+          Leaderboards
         </button>
       </nav>
 

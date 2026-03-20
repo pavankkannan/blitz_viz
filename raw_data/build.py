@@ -252,6 +252,42 @@ def buildBossHistory():
 
     write_json_to_all_dirs("boss-data.json", bundled)
 
+def buildLeaderboards():
+    AVG_WIPE_QUERY = """        
+        SELECT ROUND(AVG(result_order),1) AS average_result, racer_name, count(run_id) AS number_of_races
+        FROM races
+        GROUP BY racer_name
+        ORDER BY AVG(result_order) DESC;
+    """
+    
+    AVG_END_MONEY_QUERY = """       
+        SELECT ROUND(avg(end_money),0) AS avg_end_money, racer_name, count(run_id) AS number_of_races
+        FROM races
+        GROUP BY racer_name
+        ORDER BY avg(end_money) DESC;
+    """
+
+    FASTEST_RUNS_QUERY = """
+        SELECT racer_name, CAST(time AS VARCHAR) AS time, run_number, COALESCE(mvp, NULL) AS mvp, run_id
+        FROM races
+        WHERE time IS NOT NULL
+        ORDER BY time ASC;
+    """
+
+
+    with get_con() as con:
+        df1 = con.execute(AVG_WIPE_QUERY).df()
+        df2 = con.execute(AVG_END_MONEY_QUERY).df()
+        df3 = con.execute(FASTEST_RUNS_QUERY).df()
+
+
+    bundled = {
+        "average_results": df1.to_dict("records"),
+        "average_end_money": df2.to_dict("records"),
+        "fastest_runs": df3.to_dict("records")
+    }
+    write_json_to_all_dirs("leaderboards.json", bundled)
+
     
 
 
@@ -276,8 +312,9 @@ def build_all():
 
 
 if __name__ == "__main__":
-    build_all()
-    buildBossHistory()
+    # build_all()
+    # buildBossHistory()
+    buildLeaderboards()
 
 
     # print(buildDraftHistory())

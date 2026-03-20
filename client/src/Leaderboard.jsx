@@ -1,0 +1,90 @@
+import { useEffect, useState } from "react";
+import { fetchLeaderboardData } from "./api";
+
+function Leaderboard() {
+    const [leaderboardData, setLeaderboardData] = useState({
+        average_results: [],
+        average_end_money: [],
+        fastest_runs: []
+    });
+
+    useEffect(() => {
+        fetchLeaderboardData()
+        .then(res => setLeaderboardData(res))
+        .catch(console.error);
+    }, []);
+
+    return (
+        <div className="Leaderboard">
+            <h2>Leaderboard</h2>
+
+            <h3>Average Wipes</h3>
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Racer Name</th>
+                        <th>Avg Result</th>
+                        <th>Number of Races</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {/* leaderboardData.average_results.map(...) */}
+                    {leaderboardData.average_results.map((row, index) => (
+                        <tr key={index}>
+                            <td>{row.racer_name}</td>
+                            <td>{row.average_result}</td>
+                            <td>{row.number_of_races}</td>
+                        </tr>
+                    ))}
+                </tbody>
+            </table>
+
+            <h3>Fastest Runs</h3>
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Racer Name</th>
+                        <th>Time</th>
+                        <th>Run</th>
+                        <th>MVP</th>
+                        <th>Run ID</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {/* leaderboardData.average_results.map(...) */}
+                    {leaderboardData.fastest_runs.map((row, index) => (
+                        <tr key={index}>
+                            <td>{row.racer_name}</td>
+                            <td>{row.time}</td>
+                            <td>{row.run_number}</td>
+                            <td>{row.mvp}</td>
+                            <td>{row.run_id}</td>
+                        </tr>
+                    ))}
+                </tbody>
+            </table>
+
+            <h3>Average Post-Auction Money</h3>
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Racer Name</th>
+                        <th>Avg End Money</th>
+                        <th>Number of Races</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {/* leaderboardData.average_results.map(...) */}
+                    {leaderboardData.average_end_money.map((row, index) => (
+                        <tr key={index}>
+                            <td>{row.racer_name}</td>
+                            <td>{row.avg_end_money}</td>
+                            <td>{row.number_of_races}</td>
+                        </tr>
+                    ))}
+                </tbody>
+            </table>
+        </div>
+    );
+}
+export default Leaderboard;

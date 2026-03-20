@@ -148,17 +148,22 @@ run_id,run_number,racer_name,placement,result,result_order,time,start_money,end_
 2026_03_10_r1,29,Paddy,1,Steven,14,3:42:41,20000,0,Sylveon,1,9.91961E+11,8.31,24,3,,"Sidney,Phoebe,Glacia,Drake,Steven,Win","Thievul,Coalossal,Marowak,Sylveon,Mamoswine,Breloom",Mamoswine,15
 2026_03_10_r1,29,Eli,2,Wally,14,3:54:30,20000,2100,Jolteon,2,9.91961E+11,8.31,24,3,,"Sidney,Lucy,Glacia,Brandon,Wally,Win","Metagross,Chandelure,Aromatisse,Jolteon,Seperior,Ribombee",Serperior,10
 2026_03_10_r1,29,Austin,3,Norman,3,,20000,2400,,,9.91961E+11,8.31,24,3,,,,,
-2026_03_13_r1,30,Ely,1,Steven,14,2:48:15,20000,,Espeon,1,,8.31,32,4,,"Sidney,Lucy,Glacia,Brandon,Steven,Win","Golem,Espeon,Aegislash,Chesnaught,Morelull,Blaziken",Blaziken,15
+2026_03_13_r1,30,Ely,1,Steven,14,2:48:15,20000,0,Espeon,1,,8.31,32,4,,"Sidney,Lucy,Glacia,Brandon,Steven,Win","Golem,Espeon,Aegislash,Chesnaught,Morelull,Blaziken",Blaziken,15
 2026_03_13_r1,30,Primo,2,Juan & Wallace,5,,20000,1400,,,,8.31,32,4,,,,,
-2026_03_13_r1,30,Jackson,3,Juan & Wallace,3,,20000,,,,,8.31,32,4,,,,,
+2026_03_13_r1,30,Jackson,3,Juan & Wallace,3,,20000,0,,,,8.31,32,4,,,,,
 2026_03_13_r1,30,Austin,4,Viola,2,,20000,1800,,,,8.31,32,4,,,,,
-2026_03_13_r2,31,Ely,1,Brandon,12,,20000,,Espeon,1,3.14417E+11,8.31,48,6,,"Spenser,Lucy,Tucker,Brandon,Loss",,,
-2026_03_13_r2,31,Pavan,2,Drake,12,,20000,,Sylveon,3,3.14417E+11,8.31,48,6,,"Spenser,Lucy,Tucker,Drake,Loss",,,
-2026_03_13_r2,31,Jackson,3,Spenser,9,,20000,,Jolteon,2,3.14417E+11,8.31,48,6,,"Spenser,Loss",,,
-2026_03_13_r2,31,Austin,4,Norman,7,,20000,,,,3.14417E+11,8.31,48,6,,,,,
+2026_03_13_r2,31,Ely,1,Brandon,12,,20000,0,Espeon,1,3.14417E+11,8.31,48,6,,"Spenser,Lucy,Tucker,Brandon,Loss",,,
+2026_03_13_r2,31,Pavan,2,Drake,12,,20000,0,Sylveon,3,3.14417E+11,8.31,48,6,,"Spenser,Lucy,Tucker,Drake,Loss",,,
+2026_03_13_r2,31,Jackson,3,Spenser,9,,20000,0,Jolteon,2,3.14417E+11,8.31,48,6,,"Spenser,Loss",,,
+2026_03_13_r2,31,Austin,4,Norman,7,,20000,0,,,3.14417E+11,8.31,48,6,,,,,
 2026_03_13_r2,31,Christian,5,Norman,5,,20000,1700,,,3.14417E+11,8.31,48,6,,,,,
-2026_03_13_r2,31,Primo,6,Wattson,3,,20000,,,,3.14417E+11,8.31,48,6,,,,,
-2026_03_14_r1,32,Ely,1,Steven,14,2:36:34,20000,,Jolteon,2,3.51445E+11,8.31,32,4,,"Sidney,Lucy,Glacia,Brandon,Steven,Win","Walrein,Jolteon,Salamence,Clodsire,Exeggutor,Mantine",Mantine,14
+2026_03_13_r2,31,Primo,6,Wattson,3,,20000,0,,,3.14417E+11,8.31,48,6,,,,,
+2026_03_14_r1,32,Ely,1,Steven,14,2:36:34,20000,0,Jolteon,2,3.51445E+11,8.31,32,4,,"Sidney,Lucy,Glacia,Brandon,Steven,Win","Walrein,Jolteon,Salamence,Clodsire,Exeggutor,Mantine",Mantine,14
 2026_03_14_r1,32,Paddy,2,Steven,14,3:14:52,20000,2700,Sylveon,1,3.51445E+11,8.31,32,4,,"Sidney,Phoebe,Glacia,Drake,Steven,Win","Corviknight,Coalossal,Mamoswine,Espeon,Florges,Octillery",Mamoswine,15
-2026_03_14_r1,32,Jackson,3,Wally,13,,20000,,,,3.51445E+11,8.31,32,4,,"Sidney,Lucy,Tucker,Drake,Wally,Loss",,,
+2026_03_14_r1,32,Jackson,3,Wally,13,,20000,0,,,3.51445E+11,8.31,32,4,,"Sidney,Lucy,Tucker,Drake,Wally,Loss",,,
 2026_03_14_r1,32,Austin,4,Juan & Wallace,8,,20000,1000,,,3.51445E+11,8.31,32,4,,,,,
+2026_03_15_r1,33,Ely,1,Wally,14,2:52:01,20000,0,,,5.86711E+11,8.31,40,5,,"Spenser,Lucy,Glacia,Brandon,Wally,Win","Magmortar,Staraptor,Florges,Tsareena,Ribombee,Golem",Magmortar,12
+2026_03_15_r1,33,Jackson,2,Wally,14,3:37:58,20000,800,Vaporeon,1,5.86711E+11,8.31,40,5,,"Spenser,Lucy,Tucker,Drake,Wally,Win","Grafaiai,Blaziken,Vaporeon,Gallade,Shiinotic,Gogoat",Vaporeon,14
+2026_03_15_r1,33,Joey,3,Wattson,8,,20000,900,Espeon,2,5.86711E+11,8.31,40,5,,,,,
+2026_03_15_r1,33,Pavan,4,Flannery,5,,20000,0,,,5.86711E+11,8.31,40,5,,,,,
+2026_03_15_r1,33,Austin,5,Viola,5,,20000,900,,,5.86711E+11,8.31,40,5,,,,,

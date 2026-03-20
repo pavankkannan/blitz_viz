@@ -1,0 +1,164 @@
+{
+  "average_results": [
+    {
+      "average_result": 9.1,
+      "racer_name": "Ely",
+      "number_of_races": 20
+    },
+    {
+      "average_result": 8.9,
+      "racer_name": "Jackson",
+      "number_of_races": 28
+    },
+    {
+      "average_result": 8.8,
+      "racer_name": "Pavan",
+      "number_of_races": 24
+    },
+    {
+      "average_result": 7.1,
+      "racer_name": "Eli",
+      "number_of_races": 15
+    },
+    {
+      "average_result": 6.0,
+      "racer_name": "Joey",
+      "number_of_races": 6
+    },
+    {
+      "average_result": 5.7,
+      "racer_name": "Primo",
+      "number_of_races": 16
+    },
+    {
+      "average_result": 5.6,
+      "racer_name": "Paddy",
+      "number_of_races": 19
+    },
+    {
+      "average_result": 5.0,
+      "racer_name": "Christian",
+      "number_of_races": 15
+    },
+    {
+      "average_result": 5.0,
+      "racer_name": "Ian",
+      "number_of_races": 1
+    },
+    {
+      "average_result": 4.6,
+      "racer_name": "Austin",
+      "number_of_races": 19
+    }
+  ],
+  "average_end_money": [
+    {
+      "avg_end_money": 1209.0,
+      "racer_name": "Pavan",
+      "number_of_races": 24
+    },
+    {
+      "avg_end_money": 1089.0,
+      "racer_name": "Austin",
+      "number_of_races": 19
+    },
+    {
+      "avg_end_money": 1042.0,
+      "racer_name": "Paddy",
+      "number_of_races": 19
+    },
+    {
+      "avg_end_money": 880.0,
+      "racer_name": "Eli",
+      "number_of_races": 15
+    },
+    {
+      "avg_end_money": 588.0,
+      "racer_name": "Ely",
+      "number_of_races": 20
+    },
+    {
+      "avg_end_money": 547.0,
+      "racer_name": "Christian",
+      "number_of_races": 15
+    },
+    {
+      "avg_end_money": 428.0,
+      "racer_name": "Jackson",
+      "number_of_races": 28
+    },
+    {
+      "avg_end_money": 300.0,
+      "racer_name": "Primo",
+      "number_of_races": 16
+    },
+    {
+      "avg_end_money": 50.0,
+      "racer_name": "Joey",
+      "number_of_races": 6
+    },
+    {
+      "avg_end_money": 0.0,
+      "racer_name": "Ian",
+      "number_of_races": 1
+    }
+  ],
+  "fastest_runs": [
+    {
+      "racer_name": "Ely",
+      "time": "02:36:34",
+      "run_number": 32,
+      "mvp": "Mantine",
+      "run_id": "2026_03_14_r1"
+    },
+    {
+      "racer_name": "Ely",
+      "time": "02:37:16",
+      "run_number": 25,
+      "mvp": "Appletun",
+      "run_id": "2026_03_01_r1"
+    },
+    {
+      "racer_name": "Pavan",
+      "time": "02:47:07",
+      "run_number": 28,
+      "mvp": "Ludicolo",
+      "run_id": "2026_03_08_r1"
+    },
+    {
+      "racer_name": "Ely",
+      "time": "02:48:15",
+      "run_number": 30,
+      "mvp": "Blaziken",
+      "run_id": "2026_03_13_r1"
+    },
+    {
+      "racer_name": "Jackson",
+      "time": "02:56:00",
+      "run_number": 16,
+      "mvp": null,
+      "run_id": "2026_02_09_r1"
+    },
+    {
+      "racer_name": "Paddy",
+      "time": "03:14:52",
+      "run_number": 32,
+      "mvp": "Mamoswine",
+      "run_id": "2026_03_14_r1"
+    },
+    {
+      "racer_name": "Paddy",
+      "time": "03:42:41",
+      "run_number": 29,
+      "mvp": "Mamoswine",
+      "run_id": "2026_03_10_r1"
+    },
+    {
+      "racer_name": "Eli",
+      "time": "03:54:30",
+      "run_number": 29,
+      "mvp": "Serperior",
+      "run_id": "2026_03_10_r1"
+    }
+  ]
+}

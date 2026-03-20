@@ -29,3 +29,9 @@ export async function fetchBossData() {
   if (!res.ok) throw new Error("API error");
   return res.json();
 }
+
+export async function fetchLeaderboardData() {
+  const res = await fetch(`./data/leaderboards.json`);
+  if (!res.ok) throw new Error("API error");
+  return res.json();
+}
