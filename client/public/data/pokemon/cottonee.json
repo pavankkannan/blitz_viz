@@ -1,6 +1,34 @@
 {
-  "cost_over_runs": [],
-  "result_over_runs": [],
-  "draft_buckets_2": [],
-  "draft_buckets_4": []
+  "cost_over_runs": [
+    {
+      "run_number": 33,
+      "cost": 2500,
+      "drafted_by": "Pavan",
+      "pick_num": 12,
+      "num_picks": 40,
+      "run_id": "2026_03_15_r1"
+    }
+  ],
+  "result_over_runs": [
+    {
+      "run_number": 33,
+      "result_order": 5,
+      "drafted_by": "Pavan",
+      "placement": 4,
+      "result": "Flannery",
+      "num_racers": 5
+    }
+  ],
+  "draft_buckets_2": [
+    {
+      "buckets_2": 0.0,
+      "cost": 2500
+    }
+  ],
+  "draft_buckets_4": [
+    {
+      "buckets_4": 1.0,
+      "cost": 2500
+    }
+  ]
 }
