@@ -73,258 +73,258 @@
   },
   {
     "pick": 9,
-    "Austin": 18000,
+    "Austin": 16100,
     "Christian": 20000,
     "Jackson": 13200,
-    "Pavan": 13500,
+    "Pavan": 15400,
     "Primo": 14900
   },
   {
     "pick": 10,
-    "Austin": 18000,
+    "Austin": 16100,
     "Christian": 20000,
     "Jackson": 13200,
-    "Pavan": 13500,
+    "Pavan": 15400,
     "Primo": 11700
   },
   {
     "pick": 11,
-    "Austin": 18000,
+    "Austin": 16100,
     "Christian": 20000,
     "Jackson": 11200,
-    "Pavan": 13500,
+    "Pavan": 15400,
     "Primo": 11700
   },
   {
     "pick": 12,
-    "Austin": 18000,
+    "Austin": 16100,
     "Christian": 18000,
     "Jackson": 11200,
-    "Pavan": 13500,
+    "Pavan": 15400,
     "Primo": 11700
   },
   {
     "pick": 13,
-    "Austin": 18000,
+    "Austin": 16100,
     "Christian": 18000,
     "Jackson": 8300,
-    "Pavan": 13500,
+    "Pavan": 15400,
     "Primo": 11700
   },
   {
     "pick": 14,
-    "Austin": 18000,
+    "Austin": 16100,
     "Christian": 15700,
     "Jackson": 8300,
-    "Pavan": 13500,
+    "Pavan": 15400,
     "Primo": 11700
   },
   {
     "pick": 15,
-    "Austin": 18000,
+    "Austin": 16100,
     "Christian": 15700,
     "Jackson": 8300,
-    "Pavan": 11400,
+    "Pavan": 13300,
     "Primo": 11700
   },
   {
     "pick": 16,
-    "Austin": 18000,
+    "Austin": 16100,
     "Christian": 15700,
     "Jackson": 8300,
-    "Pavan": 11400,
+    "Pavan": 13300,
     "Primo": 9600
   },
   {
     "pick": 17,
-    "Austin": 16100,
+    "Austin": 14200,
     "Christian": 15700,
     "Jackson": 8300,
-    "Pavan": 11400,
+    "Pavan": 13300,
     "Primo": 9600
   },
   {
     "pick": 18,
-    "Austin": 16100,
+    "Austin": 14200,
     "Christian": 13700,
     "Jackson": 8300,
-    "Pavan": 11400,
+    "Pavan": 13300,
     "Primo": 9600
   },
   {
     "pick": 19,
-    "Austin": 13900,
+    "Austin": 12000,
     "Christian": 13700,
     "Jackson": 8300,
-    "Pavan": 11400,
+    "Pavan": 13300,
     "Primo": 9600
   },
   {
     "pick": 20,
-    "Austin": 13900,
+    "Austin": 12000,
     "Christian": 13700,
     "Jackson": 8300,
-    "Pavan": 8300,
+    "Pavan": 10200,
     "Primo": 9600
   },
   {
     "pick": 21,
-    "Austin": 13900,
+    "Austin": 12000,
     "Christian": 12600,
     "Jackson": 8300,
-    "Pavan": 8300,
+    "Pavan": 10200,
     "Primo": 9600
   },
   {
     "pick": 22,
-    "Austin": 13900,
+    "Austin": 12000,
     "Christian": 10500,
     "Jackson": 8300,
-    "Pavan": 8300,
+    "Pavan": 10200,
     "Primo": 9600
   },
   {
     "pick": 23,
-    "Austin": 13900,
+    "Austin": 12000,
     "Christian": 10500,
     "Jackson": 6300,
-    "Pavan": 8300,
+    "Pavan": 10200,
     "Primo": 9600
   },
   {
     "pick": 24,
-    "Austin": 13900,
+    "Austin": 12000,
     "Christian": 10500,
     "Jackson": 6300,
-    "Pavan": 5400,
+    "Pavan": 7300,
     "Primo": 9600
   },
   {
     "pick": 25,
-    "Austin": 12100,
+    "Austin": 10200,
     "Christian": 10500,
     "Jackson": 6300,
-    "Pavan": 5400,
+    "Pavan": 7300,
     "Primo": 9600
   },
   {
     "pick": 26,
-    "Austin": 12100,
+    "Austin": 10200,
     "Christian": 10500,
     "Jackson": 6300,
-    "Pavan": 5400,
+    "Pavan": 7300,
     "Primo": 7900
   },
   {
     "pick": 27,
-    "Austin": 12100,
+    "Austin": 10200,
     "Christian": 10500,
     "Jackson": 6300,
-    "Pavan": 2400,
+    "Pavan": 4300,
     "Primo": 7900
   },
   {
     "pick": 28,
-    "Austin": 9300,
+    "Austin": 7400,
     "Christian": 10500,
     "Jackson": 6300,
-    "Pavan": 2400,
+    "Pavan": 4300,
     "Primo": 7900
   },
   {
     "pick": 29,
-    "Austin": 9300,
+    "Austin": 7400,
     "Christian": 8900,
     "Jackson": 6300,
-    "Pavan": 2400,
+    "Pavan": 4300,
     "Primo": 7900
   },
   {
     "pick": 30,
-    "Austin": 9300,
+    "Austin": 7400,
     "Christian": 8900,
     "Jackson": 3500,
-    "Pavan": 2400,
+    "Pavan": 4300,
     "Primo": 7900
   },
   {
     "pick": 31,
-    "Austin": 9300,
+    "Austin": 7400,
     "Christian": 8900,
     "Jackson": 3500,
-    "Pavan": 2400,
+    "Pavan": 4300,
     "Primo": 5500
   },
   {
     "pick": 32,
-    "Austin": 9300,
+    "Austin": 7400,
     "Christian": 6600,
     "Jackson": 3500,
-    "Pavan": 2400,
+    "Pavan": 4300,
     "Primo": 5500
   },
   {
     "pick": 33,
-    "Austin": 9300,
+    "Austin": 7400,
     "Christian": 6600,
     "Jackson": 3500,
-    "Pavan": 2400,
+    "Pavan": 4300,
     "Primo": 3100
   },
   {
     "pick": 34,
-    "Austin": 9300,
-    "Christian": 6600,
+    "Austin": 7400,
+    "Christian": 4500,
     "Jackson": 3500,
-    "Pavan": 2400,
-    "Primo": 1000
+    "Pavan": 4300,
+    "Primo": 3100
   },
   {
     "pick": 35,
-    "Austin": 7300,
-    "Christian": 6600,
+    "Austin": 5400,
+    "Christian": 4500,
     "Jackson": 3500,
-    "Pavan": 2400,
-    "Primo": 1000
+    "Pavan": 4300,
+    "Primo": 3100
   },
   {
     "pick": 36,
-    "Austin": 2700,
-    "Christian": 6600,
+    "Austin": 800,
+    "Christian": 4500,
     "Jackson": 3500,
-    "Pavan": 2400,
-    "Primo": 1000
+    "Pavan": 4300,
+    "Primo": 3100
   },
   {
     "pick": 37,
-    "Austin": 2700,
-    "Christian": 6600,
+    "Austin": 800,
+    "Christian": 4500,
     "Jackson": 3500,
-    "Pavan": -1200,
-    "Primo": 1000
+    "Pavan": 700,
+    "Primo": 3100
   },
   {
     "pick": 38,
-    "Austin": 2700,
-    "Christian": 6600,
+    "Austin": 800,
+    "Christian": 4500,
     "Jackson": 3500,
-    "Pavan": -1200,
-    "Primo": -2100
+    "Pavan": 700,
+    "Primo": 0
   },
   {
     "pick": 39,
-    "Austin": 2700,
-    "Christian": 2100,
+    "Austin": 800,
+    "Christian": 0,
     "Jackson": 3500,
-    "Pavan": -1200,
-    "Primo": -2100
+    "Pavan": 700,
+    "Primo": 0
   },
   {
     "pick": 40,
-    "Austin": 2700,
-    "Christian": 2100,
+    "Austin": 800,
+    "Christian": 0,
     "Jackson": 0,
-    "Pavan": -1200,
-    "Primo": -2100
+    "Pavan": 700,
+    "Primo": 0
   }
 ]

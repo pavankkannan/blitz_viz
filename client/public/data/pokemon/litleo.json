@@ -35,7 +35,7 @@
     {
       "run_number": 28,
       "cost": 1900,
-      "drafted_by": "Pavan",
+      "drafted_by": "Austin",
       "pick_num": 9,
       "num_picks": 40,
       "run_id": "2026_03_08_r1"
@@ -84,10 +84,10 @@
     },
     {
       "run_number": 28,
-      "result_order": 14,
-      "drafted_by": "Pavan",
-      "placement": 1,
-      "result": "Wally",
+      "result_order": 4,
+      "drafted_by": "Austin",
+      "placement": 4,
+      "result": "Flannery",
       "num_racers": 5
     },
     {

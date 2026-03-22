@@ -71,6 +71,14 @@
       "pick_num": 47,
       "num_picks": 48,
       "run_id": "2026_03_13_r2"
+    },
+    {
+      "run_number": 35,
+      "cost": 3000,
+      "drafted_by": "Paddy",
+      "pick_num": 17,
+      "num_picks": 56,
+      "run_id": "2026_03_21_r1"
     }
   ],
   "result_over_runs": [
@@ -145,6 +153,14 @@
       "placement": 5,
       "result": "Norman",
       "num_racers": 6
+    },
+    {
+      "run_number": 35,
+      "result_order": 3,
+      "drafted_by": "Paddy",
+      "placement": 5,
+      "result": "Winona",
+      "num_racers": 7
     }
   ],
   "draft_buckets_2": [
@@ -183,6 +199,10 @@
     {
       "buckets_2": 1.0,
       "cost": 2700
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 3000
     }
   ],
   "draft_buckets_4": [
@@ -221,6 +241,10 @@
     {
       "buckets_4": 3.0,
       "cost": 2700
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 3000
     }
   ]
 }

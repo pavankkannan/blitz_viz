@@ -47,6 +47,14 @@
       "pick_num": 32,
       "num_picks": 40,
       "run_id": "2026_03_15_r1"
+    },
+    {
+      "run_number": 35,
+      "cost": 4100,
+      "drafted_by": "Primo",
+      "pick_num": 6,
+      "num_picks": 56,
+      "run_id": "2026_03_21_r1"
     }
   ],
   "result_over_runs": [
@@ -97,6 +105,14 @@
       "placement": 2,
       "result": "Wally",
       "num_racers": 5
+    },
+    {
+      "run_number": 35,
+      "result_order": 3,
+      "drafted_by": "Primo",
+      "placement": 6,
+      "result": "Roxanne",
+      "num_racers": 7
     }
   ],
   "draft_buckets_2": [
@@ -123,6 +139,10 @@
     {
       "buckets_2": 1.0,
       "cost": 3900
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 4100
     }
   ],
   "draft_buckets_4": [
@@ -149,6 +169,10 @@
     {
       "buckets_4": 3.0,
       "cost": 3900
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 4100
     }
   ]
 }

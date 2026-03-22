@@ -95,6 +95,22 @@
       "pick_num": 18,
       "num_picks": 56,
       "run_id": "2026_03_06_r1"
+    },
+    {
+      "run_number": 35,
+      "cost": 2700,
+      "drafted_by": "Austin",
+      "pick_num": 48,
+      "num_picks": 56,
+      "run_id": "2026_03_21_r1"
+    },
+    {
+      "run_number": 36,
+      "cost": 2000,
+      "drafted_by": "Christian",
+      "pick_num": 34,
+      "num_picks": 48,
+      "run_id": "2026_03_21_r2"
     }
   ],
   "result_over_runs": [
@@ -193,6 +209,22 @@
       "placement": 6,
       "result": "Brawly",
       "num_racers": 8
+    },
+    {
+      "run_number": 35,
+      "result_order": 3,
+      "drafted_by": "Austin",
+      "placement": 7,
+      "result": "Wattson",
+      "num_racers": 7
+    },
+    {
+      "run_number": 36,
+      "result_order": 7,
+      "drafted_by": "Christian",
+      "placement": 5,
+      "result": "Winona",
+      "num_racers": 6
     }
   ],
   "draft_buckets_2": [
@@ -243,6 +275,14 @@
     {
       "buckets_2": 0.0,
       "cost": 2500
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2700
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2000
     }
   ],
   "draft_buckets_4": [
@@ -293,6 +333,14 @@
     {
       "buckets_4": 1.0,
       "cost": 2500
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 2700
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 2000
     }
   ]
 }

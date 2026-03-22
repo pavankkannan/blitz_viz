@@ -71,6 +71,14 @@
       "pick_num": 10,
       "num_picks": 40,
       "run_id": "2026_02_28_r1"
+    },
+    {
+      "run_number": 34,
+      "cost": 3200,
+      "drafted_by": "Christian",
+      "pick_num": 6,
+      "num_picks": 32,
+      "run_id": "2026_03_20_r1"
     }
   ],
   "result_over_runs": [
@@ -145,6 +153,14 @@
       "placement": 3,
       "result": "Spenser",
       "num_racers": 5
+    },
+    {
+      "run_number": 34,
+      "result_order": 3,
+      "drafted_by": "Christian",
+      "placement": 4,
+      "result": "Roxanne",
+      "num_racers": 4
     }
   ],
   "draft_buckets_2": [
@@ -183,6 +199,10 @@
     {
       "buckets_2": 0.0,
       "cost": 3100
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 3200
     }
   ],
   "draft_buckets_4": [
@@ -221,6 +241,10 @@
     {
       "buckets_4": 0.0,
       "cost": 3100
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 3200
     }
   ]
 }

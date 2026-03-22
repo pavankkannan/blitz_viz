@@ -1,24 +1,24 @@
 {
   "average_results": [
     {
-      "average_result": 9.3,
+      "average_result": 9.5,
       "racer_name": "Ely",
-      "number_of_races": 21
+      "number_of_races": 22
     },
     {
-      "average_result": 9.1,
+      "average_result": 9.4,
       "racer_name": "Jackson",
-      "number_of_races": 29
+      "number_of_races": 32
     },
     {
-      "average_result": 8.6,
+      "average_result": 8.7,
       "racer_name": "Pavan",
-      "number_of_races": 25
+      "number_of_races": 27
     },
     {
-      "average_result": 7.1,
+      "average_result": 7.2,
       "racer_name": "Eli",
-      "number_of_races": 15
+      "number_of_races": 17
     },
     {
       "average_result": 6.3,
@@ -26,14 +26,19 @@
       "number_of_races": 7
     },
     {
-      "average_result": 5.7,
+      "average_result": 5.8,
       "racer_name": "Primo",
-      "number_of_races": 16
+      "number_of_races": 18
     },
     {
-      "average_result": 5.6,
+      "average_result": 5.5,
       "racer_name": "Paddy",
-      "number_of_races": 19
+      "number_of_races": 21
+    },
+    {
+      "average_result": 5.0,
+      "racer_name": "Christian",
+      "number_of_races": 18
     },
     {
       "average_result": 5.0,
@@ -41,56 +46,51 @@
       "number_of_races": 1
     },
     {
-      "average_result": 5.0,
-      "racer_name": "Christian",
-      "number_of_races": 15
-    },
-    {
-      "average_result": 4.7,
+      "average_result": 4.6,
       "racer_name": "Austin",
-      "number_of_races": 20
+      "number_of_races": 22
     }
   ],
   "average_end_money": [
     {
-      "avg_end_money": 1112.0,
-      "racer_name": "Pavan",
-      "number_of_races": 25
-    },
-    {
-      "avg_end_money": 1042.0,
+      "avg_end_money": 1157.0,
       "racer_name": "Paddy",
-      "number_of_races": 19
-    },
-    {
-      "avg_end_money": 1025.0,
-      "racer_name": "Austin",
-      "number_of_races": 20
-    },
-    {
-      "avg_end_money": 880.0,
-      "racer_name": "Eli",
-      "number_of_races": 15
-    },
-    {
-      "avg_end_money": 547.0,
-      "racer_name": "Christian",
-      "number_of_races": 15
-    },
-    {
-      "avg_end_money": 476.0,
-      "racer_name": "Ely",
       "number_of_races": 21
     },
     {
-      "avg_end_money": 397.0,
-      "racer_name": "Jackson",
-      "number_of_races": 29
+      "avg_end_money": 1096.0,
+      "racer_name": "Pavan",
+      "number_of_races": 27
     },
     {
-      "avg_end_money": 281.0,
+      "avg_end_money": 877.0,
+      "racer_name": "Austin",
+      "number_of_races": 22
+    },
+    {
+      "avg_end_money": 776.0,
+      "racer_name": "Eli",
+      "number_of_races": 17
+    },
+    {
+      "avg_end_money": 455.0,
+      "racer_name": "Ely",
+      "number_of_races": 22
+    },
+    {
+      "avg_end_money": 444.0,
+      "racer_name": "Jackson",
+      "number_of_races": 32
+    },
+    {
+      "avg_end_money": 411.0,
+      "racer_name": "Christian",
+      "number_of_races": 18
+    },
+    {
+      "avg_end_money": 250.0,
       "racer_name": "Primo",
-      "number_of_races": 16
+      "number_of_races": 18
     },
     {
       "avg_end_money": 171.0,
@@ -104,6 +104,20 @@
     }
   ],
   "fastest_runs": [
+    {
+      "racer_name": "Ely",
+      "time": "02:27:34",
+      "run_number": 36,
+      "mvp": "Tinkaton",
+      "run_id": "2026_03_21_r2"
+    },
+    {
+      "racer_name": "Jackson",
+      "time": "02:31:50",
+      "run_number": 35,
+      "mvp": "Scizor",
+      "run_id": "2026_03_21_r1"
+    },
     {
       "racer_name": "Ely",
       "time": "02:36:34",
@@ -120,6 +134,13 @@
     },
     {
       "racer_name": "Pavan",
+      "time": "02:45:56",
+      "run_number": 36,
+      "mvp": "Seismitoad",
+      "run_id": "2026_03_21_r2"
+    },
+    {
+      "racer_name": "Pavan",
       "time": "02:47:07",
       "run_number": 28,
       "mvp": "Ludicolo",
@@ -131,6 +152,13 @@
       "run_number": 30,
       "mvp": "Blaziken",
       "run_id": "2026_03_13_r1"
+    },
+    {
+      "racer_name": "Jackson",
+      "time": "02:51:28",
+      "run_number": 34,
+      "mvp": "Charizard",
+      "run_id": "2026_03_20_r1"
     },
     {
       "racer_name": "Ely",
@@ -145,34 +173,78 @@
       "run_number": 16,
       "mvp": null,
       "run_id": "2026_02_09_r1"
-    },
+    }
+  ],
+  "mvps": [
     {
-      "racer_name": "Paddy",
-      "time": "03:14:52",
-      "run_number": 32,
-      "mvp": "Mamoswine",
-      "run_id": "2026_03_14_r1"
-    },
-    {
+      "mvp": "Scizor",
       "racer_name": "Jackson",
-      "time": "03:37:58",
-      "run_number": 33,
-      "mvp": "Vaporeon",
-      "run_id": "2026_03_15_r1"
+      "mvp_kos": 18,
+      "cost": 2400,
+      "run_number": 35
     },
     {
-      "racer_name": "Paddy",
-      "time": "03:42:41",
-      "run_number": 29,
+      "mvp": "Seismitoad",
+      "racer_name": "Pavan",
+      "mvp_kos": 17,
+      "cost": 3000,
+      "run_number": 36
+    },
+    {
       "mvp": "Mamoswine",
-      "run_id": "2026_03_10_r1"
+      "racer_name": "Paddy",
+      "mvp_kos": 15,
+      "cost": 2200,
+      "run_number": 29
     },
     {
-      "racer_name": "Eli",
-      "time": "03:54:30",
-      "run_number": 29,
-      "mvp": "Serperior",
-      "run_id": "2026_03_10_r1"
+      "mvp": "Blaziken",
+      "racer_name": "Ely",
+      "mvp_kos": 15,
+      "cost": 3400,
+      "run_number": 30
+    },
+    {
+      "mvp": "Appletun",
+      "racer_name": "Ely",
+      "mvp_kos": 15,
+      "cost": 2800,
+      "run_number": 25
+    },
+    {
+      "mvp": "Mamoswine",
+      "racer_name": "Paddy",
+      "mvp_kos": 15,
+      "cost": 3100,
+      "run_number": 32
+    },
+    {
+      "mvp": "Mantine",
+      "racer_name": "Ely",
+      "mvp_kos": 14,
+      "cost": 2300,
+      "run_number": 32
+    },
+    {
+      "mvp": "Charizard",
+      "racer_name": "Jackson",
+      "mvp_kos": 14,
+      "cost": 3400,
+      "run_number": 34
+    },
+    {
+      "mvp": "Vaporeon",
+      "racer_name": "Jackson",
+      "mvp_kos": 14,
+      "cost": null,
+      "run_number": 33
+    },
+    {
+      "mvp": "Ludicolo",
+      "racer_name": "Pavan",
+      "mvp_kos": 13,
+      "cost": 2100,
+      "run_number": 28
     }
   ]
 }

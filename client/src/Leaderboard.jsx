@@ -5,7 +5,8 @@ function Leaderboard() {
     const [leaderboardData, setLeaderboardData] = useState({
         average_results: [],
         average_end_money: [],
-        fastest_runs: []
+        fastest_runs: [],
+        mvps: []
     });
 
     useEffect(() => {
@@ -39,7 +40,7 @@ function Leaderboard() {
                 </tbody>
             </table>
 
-            <h3>Fastest Runs</h3>
+            <h3>Top 10 Fastest Runs</h3>
             <table border="1">
                 <thead>
                     <tr>
@@ -59,6 +60,31 @@ function Leaderboard() {
                             <td>{row.run_number}</td>
                             <td>{row.mvp}</td>
                             <td>{row.run_id}</td>
+                        </tr>
+                    ))}
+                </tbody>
+            </table>
+
+            <h3>Top 10 MVPs</h3>
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Pokemon</th>
+                        <th>KOs</th>
+                        <th>Cost</th>
+                        <th>Racer Name</th>
+                        <th>Run Number</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {/* leaderboardData.average_results.map(...) */}
+                    {leaderboardData.mvps.map((row, index) => (
+                        <tr key={index}>
+                            <td>{row.mvp}</td>
+                            <td>{row.mvp_kos}</td>
+                            <td>{row.cost}</td>
+                            <td>{row.racer_name}</td>
+                            <td>{row.run_number}</td>
                         </tr>
                     ))}
                 </tbody>

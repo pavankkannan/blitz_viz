@@ -55,6 +55,30 @@
       "pick_num": 29,
       "num_picks": 48,
       "run_id": "2026_03_13_r2"
+    },
+    {
+      "run_number": 34,
+      "cost": 1700,
+      "drafted_by": "Jackson",
+      "pick_num": 23,
+      "num_picks": 32,
+      "run_id": "2026_03_20_r1"
+    },
+    {
+      "run_number": 35,
+      "cost": 3000,
+      "drafted_by": "Austin",
+      "pick_num": 56,
+      "num_picks": 56,
+      "run_id": "2026_03_21_r1"
+    },
+    {
+      "run_number": 36,
+      "cost": 3300,
+      "drafted_by": "Eli",
+      "pick_num": 14,
+      "num_picks": 48,
+      "run_id": "2026_03_21_r2"
     }
   ],
   "result_over_runs": [
@@ -113,6 +137,30 @@
       "placement": 2,
       "result": "Drake",
       "num_racers": 6
+    },
+    {
+      "run_number": 34,
+      "result_order": 14,
+      "drafted_by": "Jackson",
+      "placement": 1,
+      "result": "Wally",
+      "num_racers": 4
+    },
+    {
+      "run_number": 35,
+      "result_order": 3,
+      "drafted_by": "Austin",
+      "placement": 7,
+      "result": "Wattson",
+      "num_racers": 7
+    },
+    {
+      "run_number": 36,
+      "result_order": 9,
+      "drafted_by": "Eli",
+      "placement": 4,
+      "result": "Spenser",
+      "num_racers": 6
     }
   ],
   "draft_buckets_2": [
@@ -143,6 +191,18 @@
     {
       "buckets_2": 1.0,
       "cost": 3100
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 1700
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 3000
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 3300
     }
   ],
   "draft_buckets_4": [
@@ -173,6 +233,18 @@
     {
       "buckets_4": 2.0,
       "cost": 3100
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 1700
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 3000
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 3300
     }
   ]
 }

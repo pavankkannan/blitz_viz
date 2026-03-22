@@ -47,7 +47,13 @@ def updateDB():
             CREATE OR REPLACE TABLE draft_pool AS
             SELECT *
             FROM read_csv_auto('raw_data/Pok.csv')
-            WHERE stage='base' AND NOT name='Egg' AND is_baby IS NULL;;
+            WHERE stage='base' AND NOT name='Egg' AND is_baby IS NULL;
+        """)
+
+        con.sql("""
+            CREATE OR REPLACE TABLE pok AS
+            SELECT *
+            FROM read_csv_auto('raw_data/Pok.csv')
         """)
 
 
@@ -271,7 +277,18 @@ def buildLeaderboards():
         SELECT racer_name, CAST(time AS VARCHAR) AS time, run_number, COALESCE(mvp, NULL) AS mvp, run_id
         FROM races
         WHERE time IS NOT NULL
-        ORDER BY time ASC;
+        ORDER BY time ASC
+        LIMIT 10;
+    """
+
+    MVP_QUERY = """
+        SELECT mvp, racer_name, mvp_kos, COALESCE(cost,null) AS cost, run_number
+        FROM races
+        LEFT JOIN pok ON races.mvp = pok.name
+        LEFT JOIN auctions ON pok.base_evo = auctions.pokemon AND races.run_id = auctions.run_id
+        WHERE mvp IS NOT NULL
+        ORDER BY mvp_kos DESC
+        LIMIT 10;
     """
 
 
@@ -279,12 +296,14 @@ def buildLeaderboards():
         df1 = con.execute(AVG_WIPE_QUERY).df()
         df2 = con.execute(AVG_END_MONEY_QUERY).df()
         df3 = con.execute(FASTEST_RUNS_QUERY).df()
+        df4 = con.execute(MVP_QUERY).df()
 
 
     bundled = {
         "average_results": df1.to_dict("records"),
         "average_end_money": df2.to_dict("records"),
-        "fastest_runs": df3.to_dict("records")
+        "fastest_runs": df3.to_dict("records"),
+        "mvps": df4.to_dict("records")
     }
     write_json_to_all_dirs("leaderboards.json", bundled)
 

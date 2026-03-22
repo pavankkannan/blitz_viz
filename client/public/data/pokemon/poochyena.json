@@ -71,6 +71,22 @@
       "pick_num": 9,
       "num_picks": 32,
       "run_id": "2026_03_14_r1"
+    },
+    {
+      "run_number": 35,
+      "cost": 2000,
+      "drafted_by": "Jackson",
+      "pick_num": 23,
+      "num_picks": 56,
+      "run_id": "2026_03_21_r1"
+    },
+    {
+      "run_number": 36,
+      "cost": 2600,
+      "drafted_by": "Jackson",
+      "pick_num": 20,
+      "num_picks": 48,
+      "run_id": "2026_03_21_r2"
     }
   ],
   "result_over_runs": [
@@ -145,6 +161,22 @@
       "placement": 1,
       "result": "Steven",
       "num_racers": 4
+    },
+    {
+      "run_number": 35,
+      "result_order": 14,
+      "drafted_by": "Jackson",
+      "placement": 1,
+      "result": "Wally",
+      "num_racers": 7
+    },
+    {
+      "run_number": 36,
+      "result_order": 11,
+      "drafted_by": "Jackson",
+      "placement": 3,
+      "result": "Tucker",
+      "num_racers": 6
     }
   ],
   "draft_buckets_2": [
@@ -183,6 +215,14 @@
     {
       "buckets_2": 0.0,
       "cost": 2700
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2000
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2600
     }
   ],
   "draft_buckets_4": [
@@ -221,6 +261,14 @@
     {
       "buckets_4": 1.0,
       "cost": 2700
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 2000
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 2600
     }
   ]
 }
