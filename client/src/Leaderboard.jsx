@@ -6,7 +6,8 @@ function Leaderboard() {
         average_results: [],
         average_end_money: [],
         fastest_runs: [],
-        mvps: []
+        mvps: [],
+        most_wins: [],
     });
 
     useEffect(() => {
@@ -65,6 +66,28 @@ function Leaderboard() {
                 </tbody>
             </table>
 
+
+            <h3>Most Wins</h3>
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Racer Name</th>
+                        <th>Game Wins</th>
+                        <th>Run Wins</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {/* leaderboardData.average_results.map(...) */}
+                    {leaderboardData.most_wins.map((row, index) => (
+                        <tr key={index}>
+                            <td>{row.racer_name}</td>
+                            <td>{row.game_wins}</td>
+                            <td>{row.run_wins}</td>
+                        </tr>
+                    ))}
+                </tbody>
+            </table>
+
             <h3>Top 10 MVPs</h3>
             <table border="1">
                 <thead>
@@ -110,6 +133,7 @@ function Leaderboard() {
                     ))}
                 </tbody>
             </table>
+
         </div>
     );
 }

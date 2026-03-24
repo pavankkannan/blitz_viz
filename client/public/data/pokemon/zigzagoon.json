@@ -55,6 +55,14 @@
       "pick_num": 17,
       "num_picks": 24,
       "run_id": "2026_03_10_r1"
+    },
+    {
+      "run_number": 37,
+      "cost": 3600,
+      "drafted_by": "Ely",
+      "pick_num": 21,
+      "num_picks": 32,
+      "run_id": "2026_03_22_r1"
     }
   ],
   "result_over_runs": [
@@ -113,6 +121,14 @@
       "placement": 3,
       "result": "Norman",
       "num_racers": 3
+    },
+    {
+      "run_number": 37,
+      "result_order": 14,
+      "drafted_by": "Ely",
+      "placement": 1,
+      "result": "Wally",
+      "num_racers": 4
     }
   ],
   "draft_buckets_2": [
@@ -143,6 +159,10 @@
     {
       "buckets_2": 1.0,
       "cost": 2200
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 3600
     }
   ],
   "draft_buckets_4": [
@@ -173,6 +193,10 @@
     {
       "buckets_4": 2.0,
       "cost": 2200
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 3600
     }
   ]
 }

@@ -184,3 +184,11 @@ run_id,run_number,racer_name,placement,result,result_order,time,start_money,end_
 2026_03_21_r2,36,Eli,4,Spenser,9,,20000,0,Vaporeon,4,5.18991E+11,8.31,48,6,,"Spenser,Loss",,,
 2026_03_21_r2,36,Christian,5,Winona,7,,20000,0,,,5.18991E+11,8.31,48,6,,,,,
 2026_03_21_r2,36,Austin,6,Norman,6,,20000,700,Glaceon,5,5.18991E+11,8.31,48,6,,,,,
+2026_03_22_r1,37,Ely,1,Wally,14,1:58:24,20000,1700,Espeon,1,8.51529E+11,8.31,32,4,,"Sidney,Phoebe,Tucker,Brandon,Wally,Win","Primarina,Salazzle,Obstagoon,Gogoat,Vikavolt,Espeon",Primarina,14
+2026_03_22_r1,37,Jackson,2,Sidney,9,,20000,0,Vaporeon,2,8.51529E+11,8.31,32,4,,"Sidney,Loss",,,
+2026_03_22_r1,37,Austin,3,Wattson,7,,20000,2000,,,8.51529E+11,8.31,32,4,,,,,
+2026_03_22_r1,37,Pavan,4,Wattson,4,,20000,0,,,8.51529E+11,8.31,32,4,,,,,
+2026_03_23_r1,38,Pavan,1,Steven,14,2:19:29,20000,0,Vaporeon,3,9.90012E+11,8.31,32,4,,"Sidney,Lucy,Tucker,Drake,Steven,Win","Ludicolo,Arcanine,Mamoswine,Vaporeon,Centiskorch,Gallade",Ludicolo,13
+2026_03_23_r1,38,Ely,2,Wally,14,2:36:31,20000,1800,Sylveon,1,9.90012E+11,8.31,32,4,,"Sidney,Phoebe,Tucker,Drake,Wally,Win","Sylveon,Toucannon,Swampert,Charizard,Serperior,Goodra",Toucannon,17
+2026_03_23_r1,38,Jackson,3,Tucker,11,,20000,0,Espeon,2,9.90012E+11,8.31,32,4,,"Sidney,Lucy,Tucker,Loss",,,
+2026_03_23_r1,38,Joey,4,Norman,2,,20000,0,,,9.90012E+11,8.31,32,4,,,,,

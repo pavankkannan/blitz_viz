@@ -291,19 +291,28 @@ def buildLeaderboards():
         LIMIT 10;
     """
 
+    MOST_WINS_QUERY = """
+        SELECT racer_name, COUNT(*) FILTER (WHERE result_order = 14) AS game_wins, COUNT(*) FILTER (WHERE placement = 1) AS run_wins
+        FROM races
+        GROUP BY racer_name
+        ORDER BY game_wins DESC, run_wins DESC;
+    """
+
 
     with get_con() as con:
         df1 = con.execute(AVG_WIPE_QUERY).df()
         df2 = con.execute(AVG_END_MONEY_QUERY).df()
         df3 = con.execute(FASTEST_RUNS_QUERY).df()
         df4 = con.execute(MVP_QUERY).df()
+        df5 = con.execute(MOST_WINS_QUERY).df()
 
 
     bundled = {
         "average_results": df1.to_dict("records"),
         "average_end_money": df2.to_dict("records"),
         "fastest_runs": df3.to_dict("records"),
-        "mvps": df4.to_dict("records")
+        "mvps": df4.to_dict("records"),
+        "most_wins": df5.to_dict("records"),
     }
     write_json_to_all_dirs("leaderboards.json", bundled)
 
