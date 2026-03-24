@@ -2,1006 +2,1207 @@
   {
     "name": "Murkrow",
     "avg_cost": 2016.0,
-    "times_appeared": 6
+    "times_appeared": 6,
+    "most_recent": "2026_03_21_r2"
   },
   {
     "name": "Spheal",
     "avg_cost": 2483.0,
-    "times_appeared": 12
+    "times_appeared": 12,
+    "most_recent": "2026_03_23_r1"
   },
   {
     "name": "Slakoth",
     "avg_cost": 2070.0,
-    "times_appeared": 10
+    "times_appeared": 10,
+    "most_recent": "2026_03_13_r2"
   },
   {
     "name": "Chinchou",
     "avg_cost": 2314.0,
-    "times_appeared": 7
+    "times_appeared": 7,
+    "most_recent": "2026_03_21_r2"
   },
   {
     "name": "Sneasel",
     "avg_cost": 2308.0,
-    "times_appeared": 12
+    "times_appeared": 12,
+    "most_recent": "2026_03_21_r2"
   },
   {
     "name": "Vulpix",
     "avg_cost": 2120.0,
-    "times_appeared": 10
+    "times_appeared": 10,
+    "most_recent": "2026_03_21_r1"
   },
   {
     "name": "Yamper",
     "avg_cost": 2080.0,
-    "times_appeared": 10
+    "times_appeared": 10,
+    "most_recent": "2026_03_14_r1"
   },
   {
     "name": "Stufful",
     "avg_cost": 1877.0,
-    "times_appeared": 9
+    "times_appeared": 9,
+    "most_recent": "2026_03_21_r1"
   },
   {
     "name": "Snorunt",
     "avg_cost": 1881.0,
-    "times_appeared": 11
+    "times_appeared": 11,
+    "most_recent": "2026_03_08_r1"
   },
   {
     "name": "Cutiefly",
     "avg_cost": 2190.0,
-    "times_appeared": 10
+    "times_appeared": 10,
+    "most_recent": "2026_03_21_r1"
   },
   {
     "name": "Growlithe",
     "avg_cost": 2991.0,
-    "times_appeared": 12
+    "times_appeared": 12,
+    "most_recent": "2026_03_23_r1"
   },
   {
     "name": "Litwick",
     "avg_cost": 3114.0,
-    "times_appeared": 7
+    "times_appeared": 7,
+    "most_recent": "2026_03_15_r1"
   },
   {
     "name": "Porygon",
     "avg_cost": 2520.0,
-    "times_appeared": 5
+    "times_appeared": 5,
+    "most_recent": "2026_03_22_r1"
   },
   {
     "name": "Sableye",
     "avg_cost": 2140.0,
-    "times_appeared": 5
+    "times_appeared": 5,
+    "most_recent": "2026_03_06_r1"
   },
   {
     "name": "Ralts",
     "avg_cost": 3725.0,
-    "times_appeared": 8
+    "times_appeared": 8,
+    "most_recent": "2026_03_23_r1"
   },
   {
     "name": "Aron",
     "avg_cost": 2928.0,
-    "times_appeared": 14
+    "times_appeared": 14,
+    "most_recent": "2026_03_21_r1"
   },
   {
     "name": "Clobbopus",
     "avg_cost": 1866.0,
-    "times_appeared": 6
+    "times_appeared": 6,
+    "most_recent": "2026_03_06_r1"
   },
   {
     "name": "Bulbasaur",
     "avg_cost": 3145.0,
-    "times_appeared": 11
+    "times_appeared": 11,
+    "most_recent": "2026_03_23_r1"
   },
   {
     "name": "Treecko",
     "avg_cost": 2714.0,
-    "times_appeared": 7
+    "times_appeared": 7,
+    "most_recent": "2026_03_20_r1"
   },
   {
     "name": "Skorupi",
     "avg_cost": 2014.0,
-    "times_appeared": 7
+    "times_appeared": 7,
+    "most_recent": "2026_03_20_r1"
   },
   {
     "name": "Emolga",
     "avg_cost": 2583.0,
-    "times_appeared": 6
+    "times_appeared": 6,
+    "most_recent": "2026_03_02_r1"
   },
   {
     "name": "Electrike",
     "avg_cost": 2300.0,
-    "times_appeared": 7
+    "times_appeared": 7,
+    "most_recent": "2026_03_22_r1"
   },
   {
     "name": "Litleo",
     "avg_cost": 1816.0,
-    "times_appeared": 6
+    "times_appeared": 6,
+    "most_recent": "2026_03_10_r1"
   },
   {
     "name": "Blipbug",
     "avg_cost": 1912.0,
-    "times_appeared": 8
+    "times_appeared": 8,
+    "most_recent": "2026_03_15_r1"
   },
   {
     "name": "Feebas",
     "avg_cost": 2412.0,
-    "times_appeared": 8
+    "times_appeared": 8,
+    "most_recent": "2026_03_13_r1"
   },
   {
     "name": "Gothita",
     "avg_cost": 2042.0,
-    "times_appeared": 7
+    "times_appeared": 7,
+    "most_recent": "2026_03_23_r1"
   },
   {
     "name": "Impidimp",
     "avg_cost": 2240.0,
-    "times_appeared": 5
+    "times_appeared": 5,
+    "most_recent": "2026_03_21_r2"
   },
   {
     "name": "Exeggcute",
     "avg_cost": 2966.0,
-    "times_appeared": 3
+    "times_appeared": 3,
+    "most_recent": "2026_03_14_r1"
   },
   {
     "name": "Piplup",
     "avg_cost": 3566.0,
-    "times_appeared": 3
+    "times_appeared": 3,
+    "most_recent": "2026_03_15_r1"
   },
   {
     "name": "Rookidee",
     "avg_cost": 2080.0,
-    "times_appeared": 5
+    "times_appeared": 5,
+    "most_recent": "2026_03_14_r1"
   },
   {
     "name": "Snivy",
     "avg_cost": 2666.0,
-    "times_appeared": 3
+    "times_appeared": 3,
+    "most_recent": "2026_03_23_r1"
   },
   {
     "name": "Wailmer",
     "avg_cost": 1900.0,
-    "times_appeared": 1
-  },
-  {
-    "name": "Rotom",
-    "avg_cost": 4525.0,
-    "times_appeared": 8
-  },
-  {
-    "name": "Starly",
-    "avg_cost": 2150.0,
-    "times_appeared": 10
-  },
-  {
-    "name": "Staryu",
-    "avg_cost": 2450.0,
-    "times_appeared": 10
-  },
-  {
-    "name": "Inkay",
-    "avg_cost": 1850.0,
-    "times_appeared": 10
-  },
-  {
-    "name": "Trubbish",
-    "avg_cost": 1533.0,
-    "times_appeared": 6
-  },
-  {
-    "name": "Machop",
-    "avg_cost": 2454.0,
-    "times_appeared": 11
-  },
-  {
-    "name": "Froakie",
-    "avg_cost": 3288.0,
-    "times_appeared": 9
-  },
-  {
-    "name": "Tentacool",
-    "avg_cost": 2460.0,
-    "times_appeared": 10
-  },
-  {
-    "name": "Lotad",
-    "avg_cost": 2527.0,
-    "times_appeared": 11
-  },
-  {
-    "name": "Zubat",
-    "avg_cost": 2170.0,
-    "times_appeared": 10
-  },
-  {
-    "name": "Hippopotas",
-    "avg_cost": 2200.0,
-    "times_appeared": 5
-  },
-  {
-    "name": "Snubbull",
-    "avg_cost": 2085.0,
-    "times_appeared": 7
-  },
-  {
-    "name": "Dewpider",
-    "avg_cost": 3125.0,
-    "times_appeared": 4
-  },
-  {
-    "name": "Voltorb",
-    "avg_cost": 2200.0,
-    "times_appeared": 7
-  },
-  {
-    "name": "Cetoddle",
-    "avg_cost": 2275.0,
-    "times_appeared": 4
-  },
-  {
-    "name": "Mantyke",
-    "avg_cost": 2350.0,
-    "times_appeared": 4
-  },
-  {
-    "name": "Charcadet",
-    "avg_cost": 3600.0,
-    "times_appeared": 1
-  },
-  {
-    "name": "Scyther",
-    "avg_cost": 2527.0,
-    "times_appeared": 11
-  },
-  {
-    "name": "Nosepass",
-    "avg_cost": 2212.0,
-    "times_appeared": 8
-  },
-  {
-    "name": "Totodile",
-    "avg_cost": 2850.0,
-    "times_appeared": 8
-  },
-  {
-    "name": "Pichu",
-    "avg_cost": 2366.0,
-    "times_appeared": 6
-  },
-  {
-    "name": "Bagon",
-    "avg_cost": 2880.0,
-    "times_appeared": 10
-  },
-  {
-    "name": "Oddish",
-    "avg_cost": 2421.0,
-    "times_appeared": 14
-  },
-  {
-    "name": "Corsola",
-    "avg_cost": 2571.0,
-    "times_appeared": 7
-  },
-  {
-    "name": "Smoliv",
-    "avg_cost": 2672.0,
-    "times_appeared": 11
-  },
-  {
-    "name": "Hatenna",
-    "avg_cost": 2090.0,
-    "times_appeared": 11
-  },
-  {
-    "name": "Skiddo",
-    "avg_cost": 2716.0,
-    "times_appeared": 12
-  },
-  {
-    "name": "Shellder",
-    "avg_cost": 1900.0,
-    "times_appeared": 7
-  },
-  {
-    "name": "Timburr",
-    "avg_cost": 2166.0,
-    "times_appeared": 6
-  },
-  {
-    "name": "Clamperl",
-    "avg_cost": 1688.0,
-    "times_appeared": 9
-  },
-  {
-    "name": "Turtwig",
-    "avg_cost": 3250.0,
-    "times_appeared": 8
-  },
-  {
-    "name": "Rockruff",
-    "avg_cost": 2066.0,
-    "times_appeared": 9
-  },
-  {
-    "name": "Buneary",
-    "avg_cost": 1540.0,
-    "times_appeared": 10
-  },
-  {
-    "name": "Swirlix",
-    "avg_cost": 2340.0,
-    "times_appeared": 10
-  },
-  {
-    "name": "Bounsweet",
-    "avg_cost": 2680.0,
-    "times_appeared": 10
-  },
-  {
-    "name": "Trapinch",
-    "avg_cost": 2828.0,
-    "times_appeared": 7
-  },
-  {
-    "name": "Corphish",
-    "avg_cost": 2328.0,
-    "times_appeared": 7
-  },
-  {
-    "name": "Venipede",
-    "avg_cost": 1250.0,
-    "times_appeared": 6
-  },
-  {
-    "name": "Cufant",
-    "avg_cost": 1625.0,
-    "times_appeared": 4
-  },
-  {
-    "name": "Varoom",
-    "avg_cost": 2400.0,
-    "times_appeared": 3
-  },
-  {
-    "name": "Nickit",
-    "avg_cost": 1620.0,
-    "times_appeared": 5
+    "times_appeared": 1,
+    "most_recent": "2026_03_06_r1"
   },
   {
     "name": "Grubbin",
     "avg_cost": 2515.0,
-    "times_appeared": 13
+    "times_appeared": 13,
+    "most_recent": "2026_03_23_r1"
   },
   {
     "name": "Fuecoco",
     "avg_cost": 2940.0,
-    "times_appeared": 10
+    "times_appeared": 10,
+    "most_recent": "2026_03_21_r2"
   },
   {
     "name": "Cubone",
     "avg_cost": 2318.0,
-    "times_appeared": 11
+    "times_appeared": 11,
+    "most_recent": "2026_03_21_r2"
   },
   {
     "name": "Wattrel",
     "avg_cost": 2445.0,
-    "times_appeared": 11
+    "times_appeared": 11,
+    "most_recent": "2026_03_23_r1"
   },
   {
     "name": "Drilbur",
     "avg_cost": 3254.0,
-    "times_appeared": 11
+    "times_appeared": 11,
+    "most_recent": "2026_03_08_r1"
   },
   {
     "name": "Fidough",
     "avg_cost": 2740.0,
-    "times_appeared": 10
+    "times_appeared": 10,
+    "most_recent": "2026_03_22_r1"
   },
   {
     "name": "Goomy",
     "avg_cost": 2400.0,
-    "times_appeared": 7
+    "times_appeared": 7,
+    "most_recent": "2026_03_23_r1"
   },
   {
     "name": "Diglett",
     "avg_cost": 1714.0,
-    "times_appeared": 7
+    "times_appeared": 7,
+    "most_recent": "2026_03_21_r1"
   },
   {
     "name": "Pancham",
     "avg_cost": 2100.0,
-    "times_appeared": 8
+    "times_appeared": 8,
+    "most_recent": "2026_03_21_r2"
   },
   {
     "name": "Espurr",
     "avg_cost": 2045.0,
-    "times_appeared": 11
+    "times_appeared": 11,
+    "most_recent": "2026_03_21_r2"
   },
   {
     "name": "Minccino",
     "avg_cost": 1875.0,
-    "times_appeared": 8
+    "times_appeared": 8,
+    "most_recent": "2026_03_21_r2"
   },
   {
     "name": "Fletchling",
     "avg_cost": 1825.0,
-    "times_appeared": 8
+    "times_appeared": 8,
+    "most_recent": "2026_03_23_r1"
   },
   {
     "name": "Beldum",
     "avg_cost": 3255.0,
-    "times_appeared": 9
+    "times_appeared": 9,
+    "most_recent": "2026_03_22_r1"
   },
   {
     "name": "Greavard",
     "avg_cost": 1850.0,
-    "times_appeared": 6
+    "times_appeared": 6,
+    "most_recent": "2026_03_15_r1"
   },
   {
     "name": "Carvanha",
     "avg_cost": 1985.0,
-    "times_appeared": 7
+    "times_appeared": 7,
+    "most_recent": "2026_03_23_r1"
   },
   {
     "name": "Gastly",
     "avg_cost": 2642.0,
-    "times_appeared": 7
+    "times_appeared": 7,
+    "most_recent": "2026_03_22_r1"
   },
   {
     "name": "Geodude",
     "avg_cost": 2422.0,
-    "times_appeared": 9
+    "times_appeared": 9,
+    "most_recent": "2026_03_15_r1"
   },
   {
     "name": "Lillipup",
     "avg_cost": 1900.0,
-    "times_appeared": 7
+    "times_appeared": 7,
+    "most_recent": "2026_03_23_r1"
   },
   {
     "name": "Gossifleur",
     "avg_cost": 2636.0,
-    "times_appeared": 11
+    "times_appeared": 11,
+    "most_recent": "2026_03_20_r1"
   },
   {
     "name": "Meditite",
     "avg_cost": 2125.0,
-    "times_appeared": 4
+    "times_appeared": 4,
+    "most_recent": "2026_03_06_r1"
   },
   {
     "name": "Chewtle",
     "avg_cost": 2600.0,
-    "times_appeared": 8
+    "times_appeared": 8,
+    "most_recent": "2026_03_23_r1"
   },
   {
     "name": "Tirtouga",
     "avg_cost": 2314.0,
-    "times_appeared": 7
+    "times_appeared": 7,
+    "most_recent": "2026_03_08_r1"
   },
   {
     "name": "Honedge",
     "avg_cost": 2960.0,
-    "times_appeared": 5
+    "times_appeared": 5,
+    "most_recent": "2026_03_13_r1"
   },
   {
     "name": "Clauncher",
     "avg_cost": 2220.0,
-    "times_appeared": 5
+    "times_appeared": 5,
+    "most_recent": "2026_03_14_r1"
   },
   {
     "name": "Charmander",
     "avg_cost": 3050.0,
-    "times_appeared": 6
+    "times_appeared": 6,
+    "most_recent": "2026_03_23_r1"
   },
   {
     "name": "Chimchar",
     "avg_cost": 3300.0,
-    "times_appeared": 4
+    "times_appeared": 4,
+    "most_recent": "2026_03_01_r1"
   },
   {
     "name": "Magby",
     "avg_cost": 2566.0,
-    "times_appeared": 3
+    "times_appeared": 3,
+    "most_recent": "2026_03_15_r1"
   },
   {
     "name": "Phanpy",
     "avg_cost": 2700.0,
-    "times_appeared": 1
+    "times_appeared": 1,
+    "most_recent": "2026_03_13_r1"
   },
   {
     "name": "Torchic",
     "avg_cost": 3366.0,
-    "times_appeared": 9
+    "times_appeared": 9,
+    "most_recent": "2026_03_15_r1"
   },
   {
     "name": "Mudkip",
     "avg_cost": 4277.0,
-    "times_appeared": 9
+    "times_appeared": 9,
+    "most_recent": "2026_03_23_r1"
   },
   {
     "name": "Fennekin",
     "avg_cost": 3188.0,
-    "times_appeared": 9
+    "times_appeared": 9,
+    "most_recent": "2026_03_15_r1"
   },
   {
     "name": "Ponyta",
     "avg_cost": 2200.0,
-    "times_appeared": 9
+    "times_appeared": 9,
+    "most_recent": "2026_03_22_r1"
   },
   {
     "name": "Meowth",
     "avg_cost": 1918.0,
-    "times_appeared": 11
+    "times_appeared": 11,
+    "most_recent": "2026_03_21_r1"
   },
   {
     "name": "Mareep",
     "avg_cost": 2260.0,
-    "times_appeared": 5
+    "times_appeared": 5,
+    "most_recent": "2026_03_10_r1"
   },
   {
     "name": "Popplio",
     "avg_cost": 3550.0,
-    "times_appeared": 6
+    "times_appeared": 6,
+    "most_recent": "2026_03_22_r1"
   },
   {
     "name": "Litten",
     "avg_cost": 2980.0,
-    "times_appeared": 5
+    "times_appeared": 5,
+    "most_recent": "2026_03_21_r1"
   },
   {
     "name": "Wishiwashi",
     "avg_cost": 2200.0,
-    "times_appeared": 7
+    "times_appeared": 7,
+    "most_recent": "2026_03_06_r1"
   },
   {
     "name": "Shinx",
     "avg_cost": 2566.0,
-    "times_appeared": 6
+    "times_appeared": 6,
+    "most_recent": "2026_03_06_r1"
   },
   {
     "name": "Elgyem",
     "avg_cost": 1540.0,
-    "times_appeared": 10
+    "times_appeared": 10,
+    "most_recent": "2026_03_21_r1"
   },
   {
     "name": "Solosis",
     "avg_cost": 1957.0,
-    "times_appeared": 7
+    "times_appeared": 7,
+    "most_recent": "2026_03_21_r2"
   },
   {
     "name": "Amaura",
     "avg_cost": 1775.0,
-    "times_appeared": 8
+    "times_appeared": 8,
+    "most_recent": "2026_03_21_r2"
   },
   {
     "name": "Weedle",
     "avg_cost": 1922.0,
-    "times_appeared": 9
+    "times_appeared": 9,
+    "most_recent": "2026_03_20_r1"
   },
   {
     "name": "Nincada",
     "avg_cost": 1957.0,
-    "times_appeared": 7
+    "times_appeared": 7,
+    "most_recent": "2026_03_21_r2"
   },
   {
     "name": "Frillish",
     "avg_cost": 3171.0,
-    "times_appeared": 7
+    "times_appeared": 7,
+    "most_recent": "2026_03_15_r1"
   },
   {
     "name": "Stantler",
     "avg_cost": 2966.0,
-    "times_appeared": 3
+    "times_appeared": 3,
+    "most_recent": "2026_03_01_r1"
   },
   {
     "name": "Magnemite",
     "avg_cost": 2975.0,
-    "times_appeared": 8
+    "times_appeared": 8,
+    "most_recent": "2026_03_23_r1"
   },
   {
     "name": "Munchlax",
     "avg_cost": 2740.0,
-    "times_appeared": 5
+    "times_appeared": 5,
+    "most_recent": "2026_03_21_r2"
   },
   {
     "name": "Misdreavus",
     "avg_cost": 2050.0,
-    "times_appeared": 4
+    "times_appeared": 4,
+    "most_recent": "2026_03_22_r1"
   },
   {
     "name": "Purrloin",
     "avg_cost": 1400.0,
-    "times_appeared": 2
+    "times_appeared": 2,
+    "most_recent": "2026_03_21_r1"
   },
   {
     "name": "Bonsly",
     "avg_cost": 1100.0,
-    "times_appeared": 5
+    "times_appeared": 5,
+    "most_recent": "2026_03_23_r1"
   },
   {
-    "name": "Scatterbug",
-    "avg_cost": 2110.0,
-    "times_appeared": 10
+    "name": "Scyther",
+    "avg_cost": 2527.0,
+    "times_appeared": 11,
+    "most_recent": "2026_03_21_r1"
   },
   {
-    "name": "Houndour",
-    "avg_cost": 2440.0,
-    "times_appeared": 5
+    "name": "Nosepass",
+    "avg_cost": 2212.0,
+    "times_appeared": 8,
+    "most_recent": "2026_03_13_r2"
   },
   {
-    "name": "Teddiursa",
-    "avg_cost": 2512.0,
-    "times_appeared": 8
+    "name": "Totodile",
+    "avg_cost": 2850.0,
+    "times_appeared": 8,
+    "most_recent": "2026_03_22_r1"
   },
   {
-    "name": "Spoink",
-    "avg_cost": 1542.0,
-    "times_appeared": 7
+    "name": "Pichu",
+    "avg_cost": 2366.0,
+    "times_appeared": 6,
+    "most_recent": "2026_03_15_r1"
   },
   {
-    "name": "Mankey",
-    "avg_cost": 2550.0,
-    "times_appeared": 6
+    "name": "Bagon",
+    "avg_cost": 2880.0,
+    "times_appeared": 10,
+    "most_recent": "2026_03_21_r2"
   },
   {
-    "name": "Sewaddle",
-    "avg_cost": 1616.0,
-    "times_appeared": 6
+    "name": "Oddish",
+    "avg_cost": 2421.0,
+    "times_appeared": 14,
+    "most_recent": "2026_03_21_r2"
   },
   {
-    "name": "Sandile",
-    "avg_cost": 2857.0,
-    "times_appeared": 7
+    "name": "Corsola",
+    "avg_cost": 2571.0,
+    "times_appeared": 7,
+    "most_recent": "2026_03_15_r1"
   },
   {
-    "name": "Sizzlipede",
-    "avg_cost": 1987.0,
-    "times_appeared": 8
+    "name": "Smoliv",
+    "avg_cost": 2672.0,
+    "times_appeared": 11,
+    "most_recent": "2026_03_21_r2"
   },
   {
-    "name": "Sandshrew",
-    "avg_cost": 2500.0,
-    "times_appeared": 9
+    "name": "Hatenna",
+    "avg_cost": 2090.0,
+    "times_appeared": 11,
+    "most_recent": "2026_03_21_r1"
   },
   {
-    "name": "Jangmo-o",
-    "avg_cost": 2425.0,
-    "times_appeared": 4
+    "name": "Skiddo",
+    "avg_cost": 2716.0,
+    "times_appeared": 12,
+    "most_recent": "2026_03_22_r1"
   },
   {
-    "name": "Blitzle",
-    "avg_cost": 2037.0,
-    "times_appeared": 8
+    "name": "Shellder",
+    "avg_cost": 1900.0,
+    "times_appeared": 7,
+    "most_recent": "2026_03_14_r1"
   },
   {
-    "name": "Tinkatink",
-    "avg_cost": 2275.0,
-    "times_appeared": 8
+    "name": "Timburr",
+    "avg_cost": 2166.0,
+    "times_appeared": 6,
+    "most_recent": "2026_03_13_r2"
   },
   {
-    "name": "Snover",
-    "avg_cost": 1709.0,
-    "times_appeared": 11
+    "name": "Clamperl",
+    "avg_cost": 1688.0,
+    "times_appeared": 9,
+    "most_recent": "2026_03_22_r1"
   },
   {
-    "name": "Onix",
+    "name": "Turtwig",
+    "avg_cost": 3250.0,
+    "times_appeared": 8,
+    "most_recent": "2026_03_21_r2"
+  },
+  {
+    "name": "Rockruff",
     "avg_cost": 2066.0,
-    "times_appeared": 3
+    "times_appeared": 9,
+    "most_recent": "2026_03_21_r1"
   },
   {
-    "name": "Elekid",
-    "avg_cost": 2500.0,
-    "times_appeared": 3
+    "name": "Buneary",
+    "avg_cost": 1540.0,
+    "times_appeared": 10,
+    "most_recent": "2026_03_21_r2"
   },
   {
-    "name": "Croagunk",
-    "avg_cost": 2966.0,
-    "times_appeared": 6
+    "name": "Swirlix",
+    "avg_cost": 2340.0,
+    "times_appeared": 10,
+    "most_recent": "2026_03_20_r1"
   },
   {
-    "name": "Swinub",
-    "avg_cost": 2728.0,
-    "times_appeared": 7
+    "name": "Bounsweet",
+    "avg_cost": 2680.0,
+    "times_appeared": 10,
+    "most_recent": "2026_03_15_r1"
   },
   {
-    "name": "Shroodle",
-    "avg_cost": 2100.0,
-    "times_appeared": 9
+    "name": "Trapinch",
+    "avg_cost": 2828.0,
+    "times_appeared": 7,
+    "most_recent": "2026_03_10_r1"
   },
   {
-    "name": "Tympole",
-    "avg_cost": 3175.0,
-    "times_appeared": 4
+    "name": "Corphish",
+    "avg_cost": 2328.0,
+    "times_appeared": 7,
+    "most_recent": "2026_03_20_r1"
   },
   {
-    "name": "Burmy",
-    "avg_cost": 2100.0,
-    "times_appeared": 3
+    "name": "Venipede",
+    "avg_cost": 1250.0,
+    "times_appeared": 6,
+    "most_recent": "2026_03_22_r1"
   },
   {
-    "name": "Farfetch'd-Galar",
-    "avg_cost": 1950.0,
-    "times_appeared": 2
+    "name": "Cufant",
+    "avg_cost": 1625.0,
+    "times_appeared": 4,
+    "most_recent": "2026_03_22_r1"
   },
   {
-    "name": "Cottonee",
-    "avg_cost": 2300.0,
-    "times_appeared": 2
+    "name": "Varoom",
+    "avg_cost": 2400.0,
+    "times_appeared": 3,
+    "most_recent": "2026_02_22_r1"
   },
   {
-    "name": "Morelull",
-    "avg_cost": 1977.0,
-    "times_appeared": 9
-  },
-  {
-    "name": "Slowpoke",
-    "avg_cost": 2362.0,
-    "times_appeared": 8
-  },
-  {
-    "name": "Chespin",
-    "avg_cost": 3311.0,
-    "times_appeared": 9
-  },
-  {
-    "name": "Yanma",
-    "avg_cost": 1740.0,
-    "times_appeared": 10
-  },
-  {
-    "name": "Archen",
-    "avg_cost": 2700.0,
-    "times_appeared": 5
-  },
-  {
-    "name": "Gible",
-    "avg_cost": 4022.0,
-    "times_appeared": 9
-  },
-  {
-    "name": "Riolu",
-    "avg_cost": 2600.0,
-    "times_appeared": 2
-  },
-  {
-    "name": "Numel",
-    "avg_cost": 2375.0,
-    "times_appeared": 4
-  },
-  {
-    "name": "Wooper",
-    "avg_cost": 2714.0,
-    "times_appeared": 7
-  },
-  {
-    "name": "Phantump",
-    "avg_cost": 3640.0,
-    "times_appeared": 10
-  },
-  {
-    "name": "Zigzagoon",
-    "avg_cost": 3150.0,
-    "times_appeared": 8
-  },
-  {
-    "name": "Pansear",
-    "avg_cost": 2125.0,
-    "times_appeared": 8
-  },
-  {
-    "name": "Chingling",
-    "avg_cost": 2100.0,
-    "times_appeared": 4
-  },
-  {
-    "name": "Flabebe",
-    "avg_cost": 1975.0,
-    "times_appeared": 8
-  },
-  {
-    "name": "Drifloon",
-    "avg_cost": 1785.0,
-    "times_appeared": 7
-  },
-  {
-    "name": "Shroomish",
-    "avg_cost": 2628.0,
-    "times_appeared": 7
-  },
-  {
-    "name": "Zorua",
-    "avg_cost": 2066.0,
-    "times_appeared": 12
-  },
-  {
-    "name": "Smeargle",
-    "avg_cost": 1066.0,
-    "times_appeared": 6
-  },
-  {
-    "name": "Pikipek",
-    "avg_cost": 1800.0,
-    "times_appeared": 8
-  },
-  {
-    "name": "Sandygast",
-    "avg_cost": 2220.0,
-    "times_appeared": 10
-  },
-  {
-    "name": "Rowlet",
-    "avg_cost": 2836.0,
-    "times_appeared": 11
-  },
-  {
-    "name": "Applin",
-    "avg_cost": 3100.0,
-    "times_appeared": 5
-  },
-  {
-    "name": "Shuppet",
-    "avg_cost": 1572.0,
-    "times_appeared": 11
-  },
-  {
-    "name": "Budew",
-    "avg_cost": 2475.0,
-    "times_appeared": 4
-  },
-  {
-    "name": "Remoraid",
-    "avg_cost": 2050.0,
-    "times_appeared": 8
-  },
-  {
-    "name": "Mime Jr",
-    "avg_cost": 1766.0,
-    "times_appeared": 3
-  },
-  {
-    "name": "Plusle and Minun",
-    "avg_cost": 3833.0,
-    "times_appeared": 6
-  },
-  {
-    "name": "Tyrogue",
-    "avg_cost": 2600.0,
-    "times_appeared": 1
+    "name": "Nickit",
+    "avg_cost": 1620.0,
+    "times_appeared": 5,
+    "most_recent": "2026_03_21_r1"
   },
   {
     "name": "Castform",
     "avg_cost": 3211.0,
-    "times_appeared": 9
+    "times_appeared": 9,
+    "most_recent": "2026_03_23_r1"
   },
   {
     "name": "Noibat",
     "avg_cost": 2216.0,
-    "times_appeared": 6
+    "times_appeared": 6,
+    "most_recent": "2026_03_21_r1"
   },
   {
     "name": "Mudbray",
     "avg_cost": 3266.0,
-    "times_appeared": 9
+    "times_appeared": 9,
+    "most_recent": "2026_03_21_r2"
   },
   {
     "name": "Cacnea",
     "avg_cost": 2487.0,
-    "times_appeared": 8
+    "times_appeared": 8,
+    "most_recent": "2026_03_21_r1"
   },
   {
     "name": "Buizel",
     "avg_cost": 2087.0,
-    "times_appeared": 8
+    "times_appeared": 8,
+    "most_recent": "2026_03_08_r1"
   },
   {
     "name": "Tyrunt",
     "avg_cost": 2411.0,
-    "times_appeared": 9
+    "times_appeared": 9,
+    "most_recent": "2026_03_13_r2"
   },
   {
     "name": "Wingull",
     "avg_cost": 2883.0,
-    "times_appeared": 12
+    "times_appeared": 12,
+    "most_recent": "2026_03_23_r1"
   },
   {
     "name": "Squirtle",
     "avg_cost": 3142.0,
-    "times_appeared": 7
+    "times_appeared": 7,
+    "most_recent": "2026_02_27_r1"
   },
   {
     "name": "Poliwag",
     "avg_cost": 2445.0,
-    "times_appeared": 11
+    "times_appeared": 11,
+    "most_recent": "2026_03_22_r1"
   },
   {
     "name": "Bunnelby",
     "avg_cost": 1900.0,
-    "times_appeared": 11
+    "times_appeared": 11,
+    "most_recent": "2026_03_06_r1"
   },
   {
     "name": "Roggenrola",
     "avg_cost": 2200.0,
-    "times_appeared": 3
+    "times_appeared": 3,
+    "most_recent": "2026_03_13_r2"
   },
   {
     "name": "Tynamo",
     "avg_cost": 2512.0,
-    "times_appeared": 8
+    "times_appeared": 8,
+    "most_recent": "2026_03_21_r1"
   },
   {
     "name": "Rolycoly",
     "avg_cost": 2833.0,
-    "times_appeared": 9
+    "times_appeared": 9,
+    "most_recent": "2026_03_14_r1"
   },
   {
     "name": "Helioptile",
     "avg_cost": 1876.0,
-    "times_appeared": 13
+    "times_appeared": 13,
+    "most_recent": "2026_03_23_r1"
   },
   {
     "name": "Surskit",
     "avg_cost": 1925.0,
-    "times_appeared": 8
+    "times_appeared": 8,
+    "most_recent": "2026_03_10_r1"
   },
   {
     "name": "Mawile",
     "avg_cost": 2533.0,
-    "times_appeared": 9
+    "times_appeared": 9,
+    "most_recent": "2026_03_21_r2"
   },
   {
     "name": "Ekans",
     "avg_cost": 2500.0,
-    "times_appeared": 2
+    "times_appeared": 2,
+    "most_recent": "2026_01_29_r2"
   },
   {
     "name": "Skrelp",
     "avg_cost": 2087.0,
-    "times_appeared": 8
+    "times_appeared": 8,
+    "most_recent": "2026_03_21_r1"
   },
   {
     "name": "Joltik",
     "avg_cost": 1971.0,
-    "times_appeared": 7
+    "times_appeared": 7,
+    "most_recent": "2026_03_21_r1"
   },
   {
     "name": "Horsea",
     "avg_cost": 2366.0,
-    "times_appeared": 6
+    "times_appeared": 6,
+    "most_recent": "2026_02_22_r1"
   },
   {
     "name": "Makuhita",
     "avg_cost": 2340.0,
-    "times_appeared": 10
+    "times_appeared": 10,
+    "most_recent": "2026_03_21_r2"
   },
   {
     "name": "Minior",
     "avg_cost": 2587.0,
-    "times_appeared": 8
+    "times_appeared": 8,
+    "most_recent": "2026_03_21_r2"
   },
   {
     "name": "Salandit",
     "avg_cost": 2385.0,
-    "times_appeared": 7
+    "times_appeared": 7,
+    "most_recent": "2026_03_22_r1"
   },
   {
     "name": "Spritzee",
     "avg_cost": 2572.0,
-    "times_appeared": 11
+    "times_appeared": 11,
+    "most_recent": "2026_03_21_r2"
   },
   {
     "name": "Poochyena",
     "avg_cost": 2109.0,
-    "times_appeared": 11
+    "times_appeared": 11,
+    "most_recent": "2026_03_21_r2"
   },
   {
     "name": "Paras",
     "avg_cost": 1700.0,
-    "times_appeared": 6
+    "times_appeared": 6,
+    "most_recent": "2026_03_21_r2"
   },
   {
     "name": "Larvitar",
     "avg_cost": 3280.0,
-    "times_appeared": 5
+    "times_appeared": 5,
+    "most_recent": "2026_03_23_r1"
   },
   {
     "name": "Nymble",
     "avg_cost": 2266.0,
-    "times_appeared": 3
+    "times_appeared": 3,
+    "most_recent": "2026_03_13_r1"
+  },
+  {
+    "name": "Rotom",
+    "avg_cost": 4525.0,
+    "times_appeared": 8,
+    "most_recent": "2026_03_21_r1"
+  },
+  {
+    "name": "Starly",
+    "avg_cost": 2150.0,
+    "times_appeared": 10,
+    "most_recent": "2026_03_15_r1"
+  },
+  {
+    "name": "Staryu",
+    "avg_cost": 2450.0,
+    "times_appeared": 10,
+    "most_recent": "2026_03_23_r1"
+  },
+  {
+    "name": "Inkay",
+    "avg_cost": 1850.0,
+    "times_appeared": 10,
+    "most_recent": "2026_03_21_r1"
+  },
+  {
+    "name": "Trubbish",
+    "avg_cost": 1533.0,
+    "times_appeared": 6,
+    "most_recent": "2026_03_21_r1"
+  },
+  {
+    "name": "Machop",
+    "avg_cost": 2454.0,
+    "times_appeared": 11,
+    "most_recent": "2026_03_13_r2"
+  },
+  {
+    "name": "Froakie",
+    "avg_cost": 3288.0,
+    "times_appeared": 9,
+    "most_recent": "2026_03_22_r1"
+  },
+  {
+    "name": "Tentacool",
+    "avg_cost": 2460.0,
+    "times_appeared": 10,
+    "most_recent": "2026_03_23_r1"
+  },
+  {
+    "name": "Lotad",
+    "avg_cost": 2527.0,
+    "times_appeared": 11,
+    "most_recent": "2026_03_23_r1"
+  },
+  {
+    "name": "Zubat",
+    "avg_cost": 2170.0,
+    "times_appeared": 10,
+    "most_recent": "2026_03_20_r1"
+  },
+  {
+    "name": "Hippopotas",
+    "avg_cost": 2200.0,
+    "times_appeared": 5,
+    "most_recent": "2026_03_20_r1"
+  },
+  {
+    "name": "Snubbull",
+    "avg_cost": 2085.0,
+    "times_appeared": 7,
+    "most_recent": "2026_03_21_r1"
+  },
+  {
+    "name": "Dewpider",
+    "avg_cost": 3125.0,
+    "times_appeared": 4,
+    "most_recent": "2026_02_22_r1"
+  },
+  {
+    "name": "Voltorb",
+    "avg_cost": 2200.0,
+    "times_appeared": 7,
+    "most_recent": "2026_03_20_r1"
+  },
+  {
+    "name": "Cetoddle",
+    "avg_cost": 2275.0,
+    "times_appeared": 4,
+    "most_recent": "2026_03_21_r2"
+  },
+  {
+    "name": "Mantyke",
+    "avg_cost": 2350.0,
+    "times_appeared": 4,
+    "most_recent": "2026_03_23_r1"
+  },
+  {
+    "name": "Charcadet",
+    "avg_cost": 3600.0,
+    "times_appeared": 1,
+    "most_recent": "2026_03_13_r2"
+  },
+  {
+    "name": "Scatterbug",
+    "avg_cost": 2110.0,
+    "times_appeared": 10,
+    "most_recent": "2026_03_23_r1"
+  },
+  {
+    "name": "Houndour",
+    "avg_cost": 2440.0,
+    "times_appeared": 5,
+    "most_recent": "2026_03_13_r1"
+  },
+  {
+    "name": "Teddiursa",
+    "avg_cost": 2512.0,
+    "times_appeared": 8,
+    "most_recent": "2026_03_06_r1"
+  },
+  {
+    "name": "Spoink",
+    "avg_cost": 1542.0,
+    "times_appeared": 7,
+    "most_recent": "2026_03_21_r2"
+  },
+  {
+    "name": "Mankey",
+    "avg_cost": 2550.0,
+    "times_appeared": 6,
+    "most_recent": "2026_03_13_r1"
+  },
+  {
+    "name": "Sewaddle",
+    "avg_cost": 1616.0,
+    "times_appeared": 6,
+    "most_recent": "2026_03_23_r1"
+  },
+  {
+    "name": "Sandile",
+    "avg_cost": 2857.0,
+    "times_appeared": 7,
+    "most_recent": "2026_03_21_r2"
+  },
+  {
+    "name": "Sizzlipede",
+    "avg_cost": 1987.0,
+    "times_appeared": 8,
+    "most_recent": "2026_03_23_r1"
+  },
+  {
+    "name": "Sandshrew",
+    "avg_cost": 2500.0,
+    "times_appeared": 9,
+    "most_recent": "2026_03_14_r1"
+  },
+  {
+    "name": "Jangmo-o",
+    "avg_cost": 2425.0,
+    "times_appeared": 4,
+    "most_recent": "2026_03_08_r1"
+  },
+  {
+    "name": "Blitzle",
+    "avg_cost": 2037.0,
+    "times_appeared": 8,
+    "most_recent": "2026_03_22_r1"
+  },
+  {
+    "name": "Tinkatink",
+    "avg_cost": 2275.0,
+    "times_appeared": 8,
+    "most_recent": "2026_03_21_r2"
+  },
+  {
+    "name": "Snover",
+    "avg_cost": 1709.0,
+    "times_appeared": 11,
+    "most_recent": "2026_03_21_r1"
+  },
+  {
+    "name": "Onix",
+    "avg_cost": 2066.0,
+    "times_appeared": 3,
+    "most_recent": "2026_03_08_r1"
+  },
+  {
+    "name": "Elekid",
+    "avg_cost": 2500.0,
+    "times_appeared": 3,
+    "most_recent": "2026_03_22_r1"
+  },
+  {
+    "name": "Croagunk",
+    "avg_cost": 2966.0,
+    "times_appeared": 6,
+    "most_recent": "2026_03_21_r1"
+  },
+  {
+    "name": "Swinub",
+    "avg_cost": 2728.0,
+    "times_appeared": 7,
+    "most_recent": "2026_03_23_r1"
+  },
+  {
+    "name": "Shroodle",
+    "avg_cost": 2100.0,
+    "times_appeared": 9,
+    "most_recent": "2026_03_22_r1"
+  },
+  {
+    "name": "Tympole",
+    "avg_cost": 3175.0,
+    "times_appeared": 4,
+    "most_recent": "2026_03_21_r2"
+  },
+  {
+    "name": "Burmy",
+    "avg_cost": 2100.0,
+    "times_appeared": 3,
+    "most_recent": "2026_03_21_r2"
+  },
+  {
+    "name": "Farfetch'd-Galar",
+    "avg_cost": 1950.0,
+    "times_appeared": 2,
+    "most_recent": "2026_03_21_r2"
+  },
+  {
+    "name": "Cottonee",
+    "avg_cost": 2300.0,
+    "times_appeared": 2,
+    "most_recent": "2026_03_21_r2"
+  },
+  {
+    "name": "Morelull",
+    "avg_cost": 1977.0,
+    "times_appeared": 9,
+    "most_recent": "2026_03_15_r1"
+  },
+  {
+    "name": "Slowpoke",
+    "avg_cost": 2362.0,
+    "times_appeared": 8,
+    "most_recent": "2026_03_01_r1"
+  },
+  {
+    "name": "Chespin",
+    "avg_cost": 3311.0,
+    "times_appeared": 9,
+    "most_recent": "2026_03_15_r1"
+  },
+  {
+    "name": "Yanma",
+    "avg_cost": 1740.0,
+    "times_appeared": 10,
+    "most_recent": "2026_03_23_r1"
+  },
+  {
+    "name": "Archen",
+    "avg_cost": 2700.0,
+    "times_appeared": 5,
+    "most_recent": "2026_03_22_r1"
+  },
+  {
+    "name": "Gible",
+    "avg_cost": 4022.0,
+    "times_appeared": 9,
+    "most_recent": "2026_03_14_r1"
+  },
+  {
+    "name": "Riolu",
+    "avg_cost": 2600.0,
+    "times_appeared": 2,
+    "most_recent": "2026_01_29_r2"
+  },
+  {
+    "name": "Numel",
+    "avg_cost": 2375.0,
+    "times_appeared": 4,
+    "most_recent": "2026_03_21_r2"
+  },
+  {
+    "name": "Wooper",
+    "avg_cost": 2714.0,
+    "times_appeared": 7,
+    "most_recent": "2026_03_14_r1"
+  },
+  {
+    "name": "Phantump",
+    "avg_cost": 3640.0,
+    "times_appeared": 10,
+    "most_recent": "2026_03_14_r1"
+  },
+  {
+    "name": "Zigzagoon",
+    "avg_cost": 3150.0,
+    "times_appeared": 8,
+    "most_recent": "2026_03_22_r1"
+  },
+  {
+    "name": "Pansear",
+    "avg_cost": 2125.0,
+    "times_appeared": 8,
+    "most_recent": "2026_03_21_r1"
+  },
+  {
+    "name": "Chingling",
+    "avg_cost": 2100.0,
+    "times_appeared": 4,
+    "most_recent": "2026_03_14_r1"
+  },
+  {
+    "name": "Flabebe",
+    "avg_cost": 1975.0,
+    "times_appeared": 8,
+    "most_recent": "2026_03_22_r1"
+  },
+  {
+    "name": "Drifloon",
+    "avg_cost": 1785.0,
+    "times_appeared": 7,
+    "most_recent": "2026_03_22_r1"
+  },
+  {
+    "name": "Shroomish",
+    "avg_cost": 2628.0,
+    "times_appeared": 7,
+    "most_recent": "2026_03_10_r1"
+  },
+  {
+    "name": "Zorua",
+    "avg_cost": 2066.0,
+    "times_appeared": 12,
+    "most_recent": "2026_03_21_r2"
+  },
+  {
+    "name": "Smeargle",
+    "avg_cost": 1066.0,
+    "times_appeared": 6,
+    "most_recent": "2026_03_23_r1"
+  },
+  {
+    "name": "Pikipek",
+    "avg_cost": 1800.0,
+    "times_appeared": 8,
+    "most_recent": "2026_03_23_r1"
+  },
+  {
+    "name": "Sandygast",
+    "avg_cost": 2220.0,
+    "times_appeared": 10,
+    "most_recent": "2026_03_21_r2"
+  },
+  {
+    "name": "Rowlet",
+    "avg_cost": 2836.0,
+    "times_appeared": 11,
+    "most_recent": "2026_03_22_r1"
+  },
+  {
+    "name": "Applin",
+    "avg_cost": 3100.0,
+    "times_appeared": 5,
+    "most_recent": "2026_03_20_r1"
+  },
+  {
+    "name": "Shuppet",
+    "avg_cost": 1572.0,
+    "times_appeared": 11,
+    "most_recent": "2026_03_21_r1"
+  },
+  {
+    "name": "Budew",
+    "avg_cost": 2475.0,
+    "times_appeared": 4,
+    "most_recent": "2026_03_20_r1"
+  },
+  {
+    "name": "Remoraid",
+    "avg_cost": 2050.0,
+    "times_appeared": 8,
+    "most_recent": "2026_03_21_r1"
+  },
+  {
+    "name": "Mime Jr",
+    "avg_cost": 1766.0,
+    "times_appeared": 3,
+    "most_recent": "2026_03_13_r1"
+  },
+  {
+    "name": "Plusle and Minun",
+    "avg_cost": 3833.0,
+    "times_appeared": 6,
+    "most_recent": "2026_03_21_r1"
+  },
+  {
+    "name": "Tyrogue",
+    "avg_cost": 2600.0,
+    "times_appeared": 1,
+    "most_recent": "2026_03_21_r1"
   }
 ]

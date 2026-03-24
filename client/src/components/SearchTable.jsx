@@ -49,6 +49,13 @@ export default function SearchTable({ data, onSelect }) {
               activeKey={sortKey}
               direction={direction}
             />
+            <Header
+              label="Latest Run"
+              sortKey="most_recent"
+              sortBy={sortBy}
+              activeKey={sortKey}
+              direction={direction}
+            />
           </tr>
         </thead>
 
@@ -62,6 +69,7 @@ export default function SearchTable({ data, onSelect }) {
               <td>{row.name}</td>
               <td>{row.avg_cost}</td>
               <td>{row.times_appeared}</td>
+              <td>{row.most_recent}</td>
             </tr>
           ))}
         </tbody>

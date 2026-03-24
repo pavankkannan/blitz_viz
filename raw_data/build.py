@@ -61,7 +61,8 @@ def updateAllPokemonJSON():
     ALL_POKEMON_QUERY = """
         SELECT name,
                COALESCE(FLOOR(AVG(cost)), 0) AS avg_cost,
-               count(pokemon) AS times_appeared
+               count(pokemon) AS times_appeared,
+               MAX(run_id) as most_recent
         FROM draft_pool
         LEFT JOIN auctions ON draft_pool.name = auctions.pokemon
         GROUP BY name;
