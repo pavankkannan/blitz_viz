@@ -1,0 +1,242 @@
+:root {
+  /* Backgrounds */
+  --bg-primary: #1a1f1a;
+  --bg-surface: #232a23;
+  --bg-nav: #1e261e;
+  --bg-input: #2a332a;
+
+  /* Text */
+  --text-primary: #d4ddd4;
+  --text-secondary: #8a9a8a;
+  --text-heading: #e8f0e8;
+
+  /* Accents — subdued emerald */
+  --accent: #3d8b5e;
+  --accent-hover: #4da870;
+  --accent-muted: #2d6b45;
+
+  /* Borders */
+  --border: #3a4a3a;
+  --border-light: #2e3d2e;
+
+  /* Table */
+  --table-header-bg: #243d2d;
+  --table-row-even: #232a23;
+  --table-row-odd: #1e261e;
+  --table-hover: #2a4034;
+
+  /* Misc */
+  --radius: 6px;
+  --nav-height: 56px;
+  --transition: 0.2s ease;
+}
+
+/* Reset */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  line-height: 1.6;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+/* Layout */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Top Nav */
+.topnav {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  background: var(--bg-nav);
+  border-bottom: 1px solid var(--border);
+  padding: 0 24px;
+  height: var(--nav-height);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.topnav .logo {
+  color: var(--accent);
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  margin-right: 24px;
+}
+
+.topnav button {
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid transparent;
+  color: var(--text-secondary);
+  padding: 16px 14px;
+  font-family: inherit;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all var(--transition);
+  line-height: 1;
+}
+
+.topnav button:hover {
+  color: var(--text-primary);
+}
+
+.topnav button.active {
+  color: var(--text-heading);
+  border-bottom-color: var(--accent);
+}
+
+/* Content */
+.content {
+  flex: 1;
+  padding: 32px;
+  min-height: calc(100vh - var(--nav-height));
+}
+
+/* Headings */
+h1 {
+  color: var(--text-heading);
+  font-weight: 600;
+  font-size: 1.5rem;
+  margin-bottom: 16px;
+}
+
+h2 {
+  color: var(--text-heading);
+  font-weight: 600;
+  font-size: 1.2rem;
+  margin-bottom: 12px;
+}
+
+h3 {
+  color: var(--text-heading);
+  font-weight: 500;
+  font-size: 1.05rem;
+  margin-bottom: 8px;
+}
+
+/* Global table styles */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.9rem;
+}
+
+th {
+  background: var(--table-header-bg);
+  color: var(--text-heading);
+  font-weight: 600;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 10px 14px;
+  text-align: left;
+}
+
+td {
+  padding: 8px 14px;
+  border-bottom: 1px solid var(--border-light);
+}
+
+/* Global select styles */
+select {
+  background: var(--bg-input);
+  color: var(--text-primary);
+  border: 1px solid var(--border);
+  padding: 8px 12px;
+  border-radius: var(--radius);
+  font-family: inherit;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: border-color var(--transition);
+}
+
+select:hover {
+  border-color: var(--accent);
+}
+
+select:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+select option {
+  background: var(--bg-surface);
+  color: var(--text-primary);
+}
+
+/* Recharts overrides */
+.recharts-cartesian-grid line {
+  stroke: var(--border-light);
+}
+
+.recharts-text {
+  fill: var(--text-secondary);
+  font-family: 'Inter', sans-serif;
+}
+
+.recharts-legend-item-text {
+  color: var(--text-secondary) !important;
+  font-family: 'Inter', sans-serif;
+}
+
+/* Mobile: 768px */
+@media (max-width: 768px) {
+  .topnav {
+    padding: 0 12px;
+    gap: 2px;
+  }
+
+  .topnav .logo {
+    margin-right: 12px;
+    font-size: 1rem;
+  }
+
+  .topnav button {
+    padding: 16px 8px;
+    font-size: 0.8rem;
+  }
+
+  .content {
+    padding: 16px;
+  }
+}
+
+/* Small phone: 480px */
+@media (max-width: 480px) {
+  .topnav .logo {
+    margin-right: 8px;
+    font-size: 0.9rem;
+  }
+
+  .topnav button {
+    padding: 14px 6px;
+    font-size: 0.75rem;
+  }
+
+  .content {
+    padding: 12px;
+  }
+
+  h1 {
+    font-size: 1.2rem;
+  }
+
+  h2 {
+    font-size: 1.05rem;
+  }
+}

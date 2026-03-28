@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { fetchLeaderboardData } from "./api";
+import "./Leaderboard.css";
 
 function Leaderboard() {
     const [leaderboardData, setLeaderboardData] = useState({
@@ -17,11 +18,11 @@ function Leaderboard() {
     }, []);
 
     return (
-        <div className="Leaderboard">
+        <div className="leaderboard-page">
             <h2>Leaderboard</h2>
 
             <h3>Average Wipes</h3>
-            <table border="1">
+            <table>
                 <thead>
                     <tr>
                         <th>Racer Name</th>
@@ -42,7 +43,7 @@ function Leaderboard() {
             </table>
 
             <h3>Top 10 Fastest Runs</h3>
-            <table border="1">
+            <table>
                 <thead>
                     <tr>
                         <th>Racer Name</th>
@@ -68,7 +69,7 @@ function Leaderboard() {
 
 
             <h3>Most Wins</h3>
-            <table border="1">
+            <table>
                 <thead>
                     <tr>
                         <th>Racer Name</th>
@@ -89,7 +90,7 @@ function Leaderboard() {
             </table>
 
             <h3>Top 10 MVPs</h3>
-            <table border="1">
+            <table>
                 <thead>
                     <tr>
                         <th>Pokemon</th>
@@ -114,7 +115,7 @@ function Leaderboard() {
             </table>
 
             <h3>Average Post-Auction Money</h3>
-            <table border="1">
+            <table>
                 <thead>
                     <tr>
                         <th>Racer Name</th>

@@ -25,8 +25,8 @@ export default function App() {
 
   return (
     <div className="app-container">
-      <nav className="sidebar">
-        <h2 className="logo">Blitz Viz</h2>
+      <nav className="topnav">
+        <span className="logo">Blitz Viz</span>
         <button
           className={mode === 'auction' ? 'active' : ''}
           onClick={() => setMode('auction')}

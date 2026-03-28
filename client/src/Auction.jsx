@@ -12,6 +12,7 @@ function Auction() {
   const [summary, setSummary] = useState(null);
   const [selectedPokemon, setSelectedPokemon] = useState("Oddish");
   const [totalRuns, setTotalRuns] = useState(null);
+  const [tableVisible, setTableVisible] = useState(true);
 
 
 
@@ -41,10 +42,20 @@ function Auction() {
 
   // console.log("SUMMARY DATA:", summary);
   return (
-    <div className="app">
+    <div className="auction-page">
       {summary && (
-        <div className="table-container">
-          <h2>Draftable Pokemon</h2>
+        <div className={`table-container ${tableVisible ? '' : 'collapsed'}`}>
+          <div className="table-header">
+            <h2>Draftable Pokemon</h2>
+            {tableVisible && (
+              <button
+                className="collapse-btn"
+                onClick={() => setTableVisible(false)}
+              >
+                Hide Table
+              </button>
+            )}
+          </div>
           <SearchTable
             data={summary}
             onSelect={pokemon => setSelectedPokemon(pokemon)}
@@ -53,7 +64,17 @@ function Auction() {
       )}
 
       <div className="charts-container">
-        <h1>{selectedPokemon} Auction Data</h1>
+        <div className="charts-header">
+          {!tableVisible && (
+            <button
+              className="collapse-btn"
+              onClick={() => setTableVisible(true)}
+            >
+              Show Table
+            </button>
+          )}
+          <h1>{selectedPokemon} Auction Data</h1>
+        </div>
 
         {data && totalRuns && (
           <Lines
@@ -62,7 +83,7 @@ function Auction() {
             maxY={7000}
             dataTypeY={"cost"}
             ticks={[2000,4000,6000]}
-
+            yTickFormatter={v => v >= 1000 ? `$${v / 1000}k` : `$${v}`}
           />
         )}
 
@@ -72,12 +93,10 @@ function Auction() {
             totalRuns={totalRuns}
             maxY={14}
             dataTypeY={"result_order"}
-            ticks={Array.from({ length: 14 }, (_, i) => i + 1)}
-
+            ticks={[2, 4, 6, 8, 10, 12, 14]}
           />
         )}
       </div>
-
     </div>
   );
 

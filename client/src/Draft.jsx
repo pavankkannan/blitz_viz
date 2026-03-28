@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { fetchDraft } from "./api";
 import DraftMoneyChart from "./components/DraftMoneyChart";
+import "./Draft.css";
 
 function Draft() {
     const [runId, setRunId] = useState("2026_02_15_r1");
@@ -64,9 +65,10 @@ function Draft() {
         // pie chart of type distributions
         // eventually add: pie chart of tier distributions
         // bar chart showing biggest under/overpays of the draft
-        <>
+        <div className="draft-page">
             <div>
                 <select
+                    className="draft-select"
                     value={runId}
                     onChange={(e) => setRunId(e.target.value)}
                 >
@@ -89,7 +91,7 @@ function Draft() {
                 <DraftMoneyChart data={draft} />
                 </>
             )}
-        </>
+        </div>
     );
 }
 

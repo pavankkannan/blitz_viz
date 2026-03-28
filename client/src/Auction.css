@@ -1,19 +1,86 @@
-.app {
+.auction-page {
   display: flex;
-  gap: 32px;
-  padding: 24px;
-  height: 100vh;
+  gap: 12px;
+  height: calc(100vh - 64px);
   box-sizing: border-box;
 }
 
 .table-container {
   flex-shrink: 0;
+  width: 380px;
   max-height: 100%;
+  transition: width 0.3s ease, opacity 0.3s ease;
+  overflow: hidden;
+}
+
+.table-container.collapsed {
+  width: 0;
+  opacity: 0;
+  padding: 0;
+  margin: 0;
+}
+
+.table-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.table-header h2 {
+  margin: 0;
 }
 
 .charts-container {
   display: flex;
   flex-direction: column;
-  gap: 24px;
+  gap: 12px;
   flex: 1;
+  min-width: 0;
+}
+
+.charts-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.charts-header h1 {
+  margin-bottom: 0;
+}
+
+.collapse-btn {
+  background: var(--bg-input);
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+  padding: 4px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius);
+  cursor: pointer;
+  font-size: 0.8rem;
+  transition: all var(--transition);
+  flex-shrink: 0;
+}
+
+.collapse-btn:hover {
+  color: var(--text-primary);
+  border-color: var(--accent);
+}
+
+@media (max-width: 768px) {
+  .auction-page {
+    flex-direction: column;
+    height: auto;
+  }
+
+  .table-container {
+    width: 100%;
+  }
+
+  .table-container.collapsed {
+    width: 0;
+    height: 0;
+  }
 }

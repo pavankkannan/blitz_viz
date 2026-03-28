@@ -1,19 +1,19 @@
 .search-table-wrapper {
   max-height: 80vh;
   overflow-y: auto;
-  border: 2px solid black;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
 }
-
 
 .search-table {
   border-collapse: collapse;
-  width: auto;
+  width: 100%;
   table-layout: auto;
-  /* border: 2px solid black; */
   white-space: nowrap;
 }
 
-.search-table th, .search-table td {
+.search-table th,
+.search-table td {
   padding: 8px 12px;
   text-align: left;
 }
@@ -21,41 +21,33 @@
 .search-table th {
   position: sticky;
   top: 0;
-  background-color: rgb(189, 255, 181);
+  background-color: var(--table-header-bg);
+  color: var(--text-heading);
+  font-weight: 600;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
   z-index: 2;
-  /* border-top: 2px solid black; */
 }
 
-
-.row-even td {
-  background-color: #ffffff;
+.search-table tbody tr:nth-child(even) td {
+  background-color: var(--table-row-even);
 }
 
-.row-odd td {
-  background-color: #f5f5f5;
+.search-table tbody tr:nth-child(odd) td {
+  background-color: var(--table-row-odd);
 }
 
 .search-table tr:hover td {
-  background-color: #eaeaea;
+  background-color: var(--table-hover);
 }
 
-.table-header {
-  white-space: nowrap;
-  user-select: none;
-  cursor: pointer;
-}
-
-/* Keep label and arrow aligned */
 .header-label {
   margin-right: 6px;
 }
 
-/* Always reserve space for arrow */
 .sort-indicator {
   display: inline-block;
-  width: 12px;          /* reserved arrow width */
+  width: 12px;
   text-align: center;
 }
-
-
-

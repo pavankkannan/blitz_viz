@@ -1,0 +1,57 @@
+.leaderboard-page {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.leaderboard-page h3 {
+  margin-top: 32px;
+  margin-bottom: 12px;
+}
+
+.leaderboard-page table {
+  width: 100%;
+  margin-bottom: 16px;
+  border-collapse: collapse;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.leaderboard-page th {
+  background: var(--table-header-bg);
+  color: var(--text-heading);
+  font-weight: 600;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 10px 14px;
+  text-align: left;
+}
+
+.leaderboard-page td {
+  padding: 8px 14px;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.leaderboard-page tbody tr:nth-child(even) {
+  background: var(--table-row-even);
+}
+
+.leaderboard-page tbody tr:nth-child(odd) {
+  background: var(--table-row-odd);
+}
+
+.leaderboard-page tbody tr:hover {
+  background: var(--table-hover);
+}
+
+@media (max-width: 768px) {
+  .leaderboard-page table {
+    font-size: 0.85rem;
+  }
+
+  .leaderboard-page th,
+  .leaderboard-page td {
+    padding: 6px 8px;
+  }
+}

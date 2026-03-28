@@ -15,7 +15,7 @@ const TICK_ORDER = {
 }
 
 const COLOR_SET = {
-    result:["#E6F9F0","#BFF0D6","#99E7BC","#50C878","#3BAE60","#2C944B","#217436","#185724"],
+    result:["#c8f0d8","#a0e0b8","#78d098","#50c078","#3aa862","#2d904e","#22783c","#18602c","#0e4820"],
     result_order: ["#B8A038", "#A8B820", "#C03028", "#F8D030", "#F08030", "#A8A77A", "#A890F0", "#F85888", "#6890F0", "#34568B", '#8B2D2D', "#705848", "#78C850", "#A040A0", "#705898", "#98D8D8", "#EE99AC", "#7038F8", "#E0C068", "#B8B8D0", "#4CAF50"]
 }
 
@@ -40,14 +40,16 @@ function CustomTooltip({ active, payload, label, dataTypeX }) {
   return (
     <div
       style={{
-        background: "white",
-        border: "1px solid #ccc",
+        background: "#232a23",
+        border: "1px solid #3a4a3a",
+        color: "#d4ddd4",
         padding: 10,
         fontSize: 12,
         minWidth: 160,
+        borderRadius: 6,
       }}
     >
-      <div style={{ fontWeight: 600, marginBottom: 6 }}>
+      <div style={{ fontWeight: 600, marginBottom: 6, color: "#e8f0e8" }}>
         Wipes at {label}
       </div>
 
@@ -57,7 +59,7 @@ function CustomTooltip({ active, payload, label, dataTypeX }) {
         </div>
       ))}
 
-      <div style={{ fontWeight: 600, marginTop: 6 }}>
+      <div style={{ fontWeight: 600, marginTop: 6, color: "#e8f0e8" }}>
         Total: {total}
       </div>
     </div>
@@ -72,20 +74,26 @@ export default function Bars({ data, dataTypeX }) {
     (key) => !EXCLUDE_KEYS.includes(key)
     );
 
+    if (dataTypeX === "result_order") {
+      stackKeys.sort((a, b) => Number(a) - Number(b));
+    }
+
     const sortedData = TICK_ORDER[dataTypeX]
     .map(name => data.find(d => d[dataTypeX] === name))
     .filter(Boolean);
 
     return (
-    <ResponsiveContainer width="100%" height={500}> 
+    <ResponsiveContainer width="100%" height={550}>
         <BarChart data={sortedData}>
-        <CartesianGrid strokeDasharray="3 3" />
-        <XAxis 
+        <CartesianGrid strokeDasharray="3 3" stroke="#2e3d2e" />
+        <XAxis
             dataKey={dataTypeX}
             angle={-45}
             type="category"
+            tick={{ fill: "#8a9a8a", fontSize: 12, textAnchor: "end" }}
+            height={dataTypeX === "result" ? 120 : 80}
         />
-        <YAxis />
+        <YAxis tick={{ fill: "#8a9a8a" }} />
         <Legend />
         <Tooltip content={<CustomTooltip configKey={dataTypeX} />}/>
         {stackKeys.map((key, index) => (
@@ -93,7 +101,7 @@ export default function Bars({ data, dataTypeX }) {
             key={key}
             dataKey={key}
             stackId="a"
-            fill={COLOR_SET[dataTypeX][index] || "#0F3A12"}
+            fill={COLOR_SET[dataTypeX][Math.min(index, COLOR_SET[dataTypeX].length - 1)]}
             />
         ))}
         </BarChart>

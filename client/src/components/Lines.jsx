@@ -1,3 +1,4 @@
+import { useState, useEffect } from "react";
 import {
   LineChart,
   Line,
@@ -82,14 +83,16 @@ function CustomTooltip({ active, payload, label, configKey }) {
   return (
     <div
       style={{
-        background: "white",
-        border: "1px solid #ccc",
+        background: "#232a23",
+        border: "1px solid #3a4a3a",
+        color: "#d4ddd4",
         padding: 10,
         fontSize: 12,
         minWidth: 160,
+        borderRadius: 6,
       }}
     >
-      <div style={{ fontWeight: 600, marginBottom: 6 }}>
+      <div style={{ fontWeight: 600, marginBottom: 6, color: "#e8f0e8" }}>
         Run {label}
       </div>
 
@@ -105,35 +108,49 @@ function CustomTooltip({ active, payload, label, configKey }) {
 
 
 
-export default function Lines({ data, totalRuns, maxY, dataTypeY, ticks }) {
+export default function Lines({ data, totalRuns, maxY, dataTypeY, ticks, yTickFormatter }) {
+  const [isSmall, setIsSmall] = useState(window.innerWidth <= 768);
+
+  useEffect(() => {
+    const onResize = () => setIsSmall(window.innerWidth <= 768);
+    window.addEventListener("resize", onResize);
+    return () => window.removeEventListener("resize", onResize);
+  }, []);
+
   return (
-    <div style={{ width: "100%", height: 300 }}>
+    <div style={{ width: "100%", height: "40vh" }}>
       <ResponsiveContainer>
         <LineChart data={fillBlankRuns(data, totalRuns, dataTypeY)} syncId={"run_number"} >
-          <CartesianGrid strokeDasharray="8 3" />
+          <CartesianGrid strokeDasharray="8 3" stroke="#2e3d2e" />
 
           <XAxis
             dataKey="run_number"
             type="number"
             domain={[1, totalRuns]}
             padding={{left: 20, right: 20}}
-            ticks={Array.from({ length: totalRuns }, (_, i) => i + 1)}
+            ticks={Array.from({ length: totalRuns }, (_, i) => i + 1).filter(n => n % 2 === 1)}
             interval={0}
             allowDataOverflow
+            height={isSmall ? 30 : 50}
+            tick={isSmall ? false : { fill: "#8a9a8a" }}
             label={{
               value: "Run Number",
               position: "insideBottom",
-              // offset: -5
+              offset: -5,
+              fill: "#8a9a8a",
             }}
           />
 
-          <YAxis 
+          <YAxis
             domain={[0, maxY]}
             ticks={ticks}
+            tick={{ fill: "#8a9a8a" }}
+            tickFormatter={yTickFormatter}
             label={{
               value: dataTypeY,
               angle: -90,
               position: "insideLeft",
+              fill: "#8a9a8a",
             }}
           />
           <Tooltip content={<CustomTooltip configKey={dataTypeY} />}/>
@@ -154,7 +171,7 @@ export default function Lines({ data, totalRuns, maxY, dataTypeY, ticks }) {
             dataKey={dataTypeY}
             stroke="green"
             strokeWidth={2}
-            dot={{ r: 4, fill: "green"}}
+            dot={{ r: 4, fill: "green" }}
             activeDot={{ r: 8 }}
             connectNulls={false}
           />
