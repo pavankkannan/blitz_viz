@@ -103,6 +103,22 @@
       "pick_num": 9,
       "num_picks": 32,
       "run_id": "2026_03_23_r1"
+    },
+    {
+      "run_number": 40,
+      "cost": 1800,
+      "drafted_by": "Ely",
+      "pick_num": 1,
+      "num_picks": 24,
+      "run_id": "2026_03_26_r1"
+    },
+    {
+      "run_number": 42,
+      "cost": 2000,
+      "drafted_by": "Christian",
+      "pick_num": 6,
+      "num_picks": 40,
+      "run_id": "2026_03_27_r1"
     }
   ],
   "result_over_runs": [
@@ -209,6 +225,22 @@
       "placement": 4,
       "result": "Norman",
       "num_racers": 4
+    },
+    {
+      "run_number": 40,
+      "result_order": 12,
+      "drafted_by": "Ely",
+      "placement": 2,
+      "result": "Drake",
+      "num_racers": 3
+    },
+    {
+      "run_number": 42,
+      "result_order": 5,
+      "drafted_by": "Christian",
+      "placement": 5,
+      "result": "Norman",
+      "num_racers": 5
     }
   ],
   "draft_buckets_2": [
@@ -263,6 +295,14 @@
     {
       "buckets_2": 0.0,
       "cost": 1800
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 1800
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 2000
     }
   ],
   "draft_buckets_4": [
@@ -317,6 +357,14 @@
     {
       "buckets_4": 1.0,
       "cost": 1800
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 1800
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 2000
     }
   ]
 }

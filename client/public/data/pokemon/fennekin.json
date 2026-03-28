@@ -71,6 +71,30 @@
       "pick_num": 18,
       "num_picks": 40,
       "run_id": "2026_03_15_r1"
+    },
+    {
+      "run_number": 39,
+      "cost": 3400,
+      "drafted_by": "Pavan",
+      "pick_num": 5,
+      "num_picks": 32,
+      "run_id": "2026_03_25_r1"
+    },
+    {
+      "run_number": 41,
+      "cost": 2600,
+      "drafted_by": "Primo",
+      "pick_num": 18,
+      "num_picks": 24,
+      "run_id": "2026_03_26_r2"
+    },
+    {
+      "run_number": 42,
+      "cost": 3200,
+      "drafted_by": "Christian",
+      "pick_num": 32,
+      "num_picks": 40,
+      "run_id": "2026_03_27_r1"
     }
   ],
   "result_over_runs": [
@@ -145,6 +169,30 @@
       "placement": 4,
       "result": "Flannery",
       "num_racers": 5
+    },
+    {
+      "run_number": 39,
+      "result_order": 9,
+      "drafted_by": "Pavan",
+      "placement": 2,
+      "result": "Sidney",
+      "num_racers": 4
+    },
+    {
+      "run_number": 41,
+      "result_order": 5,
+      "drafted_by": "Primo",
+      "placement": 3,
+      "result": "Viola",
+      "num_racers": 3
+    },
+    {
+      "run_number": 42,
+      "result_order": 5,
+      "drafted_by": "Christian",
+      "placement": 5,
+      "result": "Norman",
+      "num_racers": 5
     }
   ],
   "draft_buckets_2": [
@@ -183,6 +231,18 @@
     {
       "buckets_2": 0.0,
       "cost": 3600
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 3400
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 2600
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 3200
     }
   ],
   "draft_buckets_4": [
@@ -221,6 +281,18 @@
     {
       "buckets_4": 1.0,
       "cost": 3600
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 3400
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 2600
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 3200
     }
   ]
 }

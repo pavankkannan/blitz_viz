@@ -87,6 +87,14 @@
       "pick_num": 16,
       "num_picks": 56,
       "run_id": "2026_03_06_r1"
+    },
+    {
+      "run_number": 42,
+      "cost": 1700,
+      "drafted_by": "Jackson",
+      "pick_num": 38,
+      "num_picks": 40,
+      "run_id": "2026_03_27_r1"
     }
   ],
   "result_over_runs": [
@@ -177,6 +185,14 @@
       "placement": 5,
       "result": "Flannery",
       "num_racers": 8
+    },
+    {
+      "run_number": 42,
+      "result_order": 13,
+      "drafted_by": "Jackson",
+      "placement": 1,
+      "result": "Steven",
+      "num_racers": 5
     }
   ],
   "draft_buckets_2": [
@@ -223,6 +239,10 @@
     {
       "buckets_2": 0.0,
       "cost": 2600
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 1700
     }
   ],
   "draft_buckets_4": [
@@ -269,6 +289,10 @@
     {
       "buckets_4": 1.0,
       "cost": 2600
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 1700
     }
   ]
 }

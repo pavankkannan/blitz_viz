@@ -192,3 +192,18 @@ run_id,run_number,racer_name,placement,result,result_order,time,start_money,end_
 2026_03_23_r1,38,Ely,2,Wally,14,2:36:31,20000,1800,Sylveon,1,9.90012E+11,8.31,32,4,,"Sidney,Phoebe,Tucker,Drake,Wally,Win","Sylveon,Toucannon,Swampert,Charizard,Serperior,Goodra",Toucannon,17
 2026_03_23_r1,38,Jackson,3,Tucker,11,,20000,0,Espeon,2,9.90012E+11,8.31,32,4,,"Sidney,Lucy,Tucker,Loss",,,
 2026_03_23_r1,38,Joey,4,Norman,2,,20000,0,,,9.90012E+11,8.31,32,4,,,,,
+2026_03_25_r1,39,Ely,1,Brandon,12,,20000,0,,,,8.31,32,4,,"Sidney,Lucy,Tucker,Brandon,Loss",,,
+2026_03_25_r1,39,Pavan,2,Sidney,9,,20000,0,,,,8.31,32,4,,"Sidney,Loss",,,
+2026_03_25_r1,39,Primo,3,Wattson,7,,20000,0,Sylveon,1,,8.31,32,4,,,,,
+2026_03_25_r1,39,Christian,4,Viola,3,,20000,0,,,,8.31,32,4,,,,,
+2026_03_26_r1,40,Jackson,1,Brandon,12,,20000,0,Vaporeon,1,,8.31,24,3,,"Sidney,Lucy,Glacia,Brandon,Loss",,,
+2026_03_26_r1,40,Ely,2,Drake,12,,20000,2200,Sylveon,2,,8.31,24,3,,"Spenser,Lucy,Glacia,Drake,Loss",,,
+2026_03_26_r1,40,Pavan,3,Sidney,9,,20000,0,Espeon,3,,8.31,24,3,,"Sidney,Loss",,,
+2026_03_26_r2,41,Ely,1,Wally,14,2:02:22,20000,0,Sylveon,2,,8.31,24,3,,"Sidney,Phoebe,Glacia,Drake,Wally,Win","Lanturn,Chandelure,Yanmega,Aggron,Sylveon,Appletun",Chandelure,16
+2026_03_26_r2,41,Pavan,2,Drake,12,,20000,0,Espeon,1,,8.31,24,3,,"Sidney,Lucy,Glacia,Drake,Loss",,,
+2026_03_26_r2,41,Primo,3,Viola,5,,20000,0,,,,8.31,24,3,,,,,
+2026_03_27_r1,42,Jackson,1,Steven,13,,20000,0,Espeon,2,,8.31,40,5,,"Spenser,Lucy,Tucker,Brandon,Steven,Loss",,,
+2026_03_27_r1,42,Paddy,2,Sidney,9,,20000,0,,,,8.31,40,5,,"Sidney,Loss",,,
+2026_03_27_r1,42,Pavan,3,Tate & Liza,8,,20000,1600,Sylveon,1,,8.31,40,5,,,,,
+2026_03_27_r1,42,Primo,4,Brawly,6,,20000,0,Vaporeon,4,,8.31,40,5,,,,,
+2026_03_27_r1,42,Christian,5,Norman,5,,20000,500,Umbreon,3,,8.31,40,5,,,,,

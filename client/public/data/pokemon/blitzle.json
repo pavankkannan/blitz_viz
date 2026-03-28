@@ -63,6 +63,30 @@
       "pick_num": 8,
       "num_picks": 32,
       "run_id": "2026_03_22_r1"
+    },
+    {
+      "run_number": 40,
+      "cost": 700,
+      "drafted_by": "Pavan",
+      "pick_num": 3,
+      "num_picks": 24,
+      "run_id": "2026_03_26_r1"
+    },
+    {
+      "run_number": 41,
+      "cost": 1100,
+      "drafted_by": "Primo",
+      "pick_num": 2,
+      "num_picks": 24,
+      "run_id": "2026_03_26_r2"
+    },
+    {
+      "run_number": 42,
+      "cost": 1900,
+      "drafted_by": "Primo",
+      "pick_num": 26,
+      "num_picks": 40,
+      "run_id": "2026_03_27_r1"
     }
   ],
   "result_over_runs": [
@@ -129,6 +153,30 @@
       "placement": 2,
       "result": "Sidney",
       "num_racers": 4
+    },
+    {
+      "run_number": 40,
+      "result_order": 9,
+      "drafted_by": "Pavan",
+      "placement": 3,
+      "result": "Sidney",
+      "num_racers": 3
+    },
+    {
+      "run_number": 41,
+      "result_order": 5,
+      "drafted_by": "Primo",
+      "placement": 3,
+      "result": "Viola",
+      "num_racers": 3
+    },
+    {
+      "run_number": 42,
+      "result_order": 6,
+      "drafted_by": "Primo",
+      "placement": 4,
+      "result": "Brawly",
+      "num_racers": 5
     }
   ],
   "draft_buckets_2": [
@@ -163,6 +211,18 @@
     {
       "buckets_2": 0.0,
       "cost": 1500
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 700
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 1100
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 1900
     }
   ],
   "draft_buckets_4": [
@@ -197,6 +257,18 @@
     {
       "buckets_4": 0.0,
       "cost": 1500
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 700
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 1100
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 1900
     }
   ]
 }

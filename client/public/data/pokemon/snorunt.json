@@ -87,6 +87,14 @@
       "pick_num": 16,
       "num_picks": 40,
       "run_id": "2026_03_08_r1"
+    },
+    {
+      "run_number": 41,
+      "cost": 1500,
+      "drafted_by": "Primo",
+      "pick_num": 8,
+      "num_picks": 24,
+      "run_id": "2026_03_26_r2"
     }
   ],
   "result_over_runs": [
@@ -177,6 +185,14 @@
       "placement": 2,
       "result": "Glacia",
       "num_racers": 5
+    },
+    {
+      "run_number": 41,
+      "result_order": 5,
+      "drafted_by": "Primo",
+      "placement": 3,
+      "result": "Viola",
+      "num_racers": 3
     }
   ],
   "draft_buckets_2": [
@@ -223,6 +239,10 @@
     {
       "buckets_2": 0.0,
       "cost": 2100
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 1500
     }
   ],
   "draft_buckets_4": [
@@ -269,6 +289,10 @@
     {
       "buckets_4": 1.0,
       "cost": 2100
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 1500
     }
   ]
 }

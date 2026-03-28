@@ -79,6 +79,14 @@
       "pick_num": 19,
       "num_picks": 32,
       "run_id": "2026_03_14_r1"
+    },
+    {
+      "run_number": 42,
+      "cost": 3000,
+      "drafted_by": "Paddy",
+      "pick_num": 35,
+      "num_picks": 40,
+      "run_id": "2026_03_27_r1"
     }
   ],
   "result_over_runs": [
@@ -161,6 +169,14 @@
       "placement": 3,
       "result": "Wally",
       "num_racers": 4
+    },
+    {
+      "run_number": 42,
+      "result_order": 9,
+      "drafted_by": "Paddy",
+      "placement": 2,
+      "result": "Sidney",
+      "num_racers": 5
     }
   ],
   "draft_buckets_2": [
@@ -203,6 +219,10 @@
     {
       "buckets_2": 1.0,
       "cost": 3300
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 3000
     }
   ],
   "draft_buckets_4": [
@@ -245,6 +265,10 @@
     {
       "buckets_4": 2.0,
       "cost": 3300
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 3000
     }
   ]
 }

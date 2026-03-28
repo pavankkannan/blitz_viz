@@ -47,6 +47,22 @@
       "pick_num": 12,
       "num_picks": 24,
       "run_id": "2026_03_02_r1"
+    },
+    {
+      "run_number": 39,
+      "cost": 3000,
+      "drafted_by": "Ely",
+      "pick_num": 4,
+      "num_picks": 32,
+      "run_id": "2026_03_25_r1"
+    },
+    {
+      "run_number": 40,
+      "cost": 4600,
+      "drafted_by": "Jackson",
+      "pick_num": 21,
+      "num_picks": 24,
+      "run_id": "2026_03_26_r1"
     }
   ],
   "result_over_runs": [
@@ -97,6 +113,22 @@
       "placement": 3,
       "result": "Maxie",
       "num_racers": 3
+    },
+    {
+      "run_number": 39,
+      "result_order": 12,
+      "drafted_by": "Ely",
+      "placement": 1,
+      "result": "Brandon",
+      "num_racers": 4
+    },
+    {
+      "run_number": 40,
+      "result_order": 12,
+      "drafted_by": "Jackson",
+      "placement": 1,
+      "result": "Brandon",
+      "num_racers": 3
     }
   ],
   "draft_buckets_2": [
@@ -123,6 +155,14 @@
     {
       "buckets_2": 0.0,
       "cost": 2700
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 3000
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 4600
     }
   ],
   "draft_buckets_4": [
@@ -149,6 +189,14 @@
     {
       "buckets_4": 1.0,
       "cost": 2700
+    },
+    {
+      "buckets_4": 0.0,
+      "cost": 3000
+    },
+    {
+      "buckets_4": 3.0,
+      "cost": 4600
     }
   ]
 }
