@@ -79,6 +79,14 @@
       "pick_num": 4,
       "num_picks": 40,
       "run_id": "2026_03_27_r1"
+    },
+    {
+      "run_number": 43,
+      "cost": 3300,
+      "drafted_by": "Ely",
+      "pick_num": 23,
+      "num_picks": 48,
+      "run_id": "2026_03_29_r1"
     }
   ],
   "result_over_runs": [
@@ -161,6 +169,14 @@
       "placement": 1,
       "result": "Steven",
       "num_racers": 5
+    },
+    {
+      "run_number": 43,
+      "result_order": 14,
+      "drafted_by": "Ely",
+      "placement": 1,
+      "result": "Steven",
+      "num_racers": 6
     }
   ],
   "draft_buckets_2": [
@@ -203,6 +219,10 @@
     {
       "buckets_2": 0.0,
       "cost": 2800
+    },
+    {
+      "buckets_2": 0.0,
+      "cost": 3300
     }
   ],
   "draft_buckets_4": [
@@ -245,6 +265,10 @@
     {
       "buckets_4": 0.0,
       "cost": 2800
+    },
+    {
+      "buckets_4": 1.0,
+      "cost": 3300
     }
   ]
 }

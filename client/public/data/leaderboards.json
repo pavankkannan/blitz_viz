@@ -1,19 +1,19 @@
 {
   "average_results": [
     {
-      "average_result": 10.2,
+      "average_result": 10.4,
       "racer_name": "Ely",
-      "number_of_races": 27
+      "number_of_races": 28
     },
     {
-      "average_result": 9.6,
+      "average_result": 9.8,
       "racer_name": "Jackson",
-      "number_of_races": 36
+      "number_of_races": 37
     },
     {
-      "average_result": 8.8,
+      "average_result": 8.9,
       "racer_name": "Pavan",
-      "number_of_races": 33
+      "number_of_races": 34
     },
     {
       "average_result": 7.2,
@@ -21,9 +21,9 @@
       "number_of_races": 17
     },
     {
-      "average_result": 5.8,
+      "average_result": 5.9,
       "racer_name": "Primo",
-      "number_of_races": 21
+      "number_of_races": 22
     },
     {
       "average_result": 5.8,
@@ -31,9 +31,9 @@
       "number_of_races": 8
     },
     {
-      "average_result": 5.7,
+      "average_result": 5.6,
       "racer_name": "Paddy",
-      "number_of_races": 22
+      "number_of_races": 23
     },
     {
       "average_result": 5.0,
@@ -41,9 +41,9 @@
       "number_of_races": 1
     },
     {
-      "average_result": 4.9,
+      "average_result": 5.0,
       "racer_name": "Christian",
-      "number_of_races": 20
+      "number_of_races": 21
     },
     {
       "average_result": 4.7,
@@ -53,14 +53,14 @@
   ],
   "average_end_money": [
     {
-      "avg_end_money": 1105.0,
+      "avg_end_money": 1057.0,
       "racer_name": "Paddy",
-      "number_of_races": 22
+      "number_of_races": 23
     },
     {
-      "avg_end_money": 945.0,
+      "avg_end_money": 965.0,
       "racer_name": "Pavan",
-      "number_of_races": 33
+      "number_of_races": 34
     },
     {
       "avg_end_money": 926.0,
@@ -73,24 +73,24 @@
       "number_of_races": 17
     },
     {
-      "avg_end_money": 581.0,
+      "avg_end_money": 561.0,
       "racer_name": "Ely",
-      "number_of_races": 27
+      "number_of_races": 28
     },
     {
-      "avg_end_money": 395.0,
-      "racer_name": "Christian",
-      "number_of_races": 20
-    },
-    {
-      "avg_end_money": 394.0,
+      "avg_end_money": 384.0,
       "racer_name": "Jackson",
-      "number_of_races": 36
+      "number_of_races": 37
     },
     {
-      "avg_end_money": 214.0,
-      "racer_name": "Primo",
+      "avg_end_money": 376.0,
+      "racer_name": "Christian",
       "number_of_races": 21
+    },
+    {
+      "avg_end_money": 205.0,
+      "racer_name": "Primo",
+      "number_of_races": 22
     },
     {
       "avg_end_money": 150.0,
@@ -104,6 +104,13 @@
     }
   ],
   "fastest_runs": [
+    {
+      "racer_name": "Ely",
+      "time": "01:48:44",
+      "run_number": 43,
+      "mvp": "Starmie",
+      "run_id": "2026_03_29_r1"
+    },
     {
       "racer_name": "Ely",
       "time": "01:58:24",
@@ -161,18 +168,11 @@
       "run_id": "2026_03_01_r1"
     },
     {
-      "racer_name": "Pavan",
-      "time": "02:45:56",
-      "run_number": 36,
-      "mvp": "Seismitoad",
-      "run_id": "2026_03_21_r2"
-    },
-    {
-      "racer_name": "Pavan",
-      "time": "02:47:07",
-      "run_number": 28,
-      "mvp": "Ludicolo",
-      "run_id": "2026_03_08_r1"
+      "racer_name": "Jackson",
+      "time": "02:40:31",
+      "run_number": 43,
+      "mvp": "Araquanid",
+      "run_id": "2026_03_29_r1"
     }
   ],
   "mvps": [
@@ -205,6 +205,13 @@
       "run_number": 41
     },
     {
+      "mvp": "Mamoswine",
+      "racer_name": "Paddy",
+      "mvp_kos": 15,
+      "cost": 2200,
+      "run_number": 29
+    },
+    {
       "mvp": "Appletun",
       "racer_name": "Ely",
       "mvp_kos": 15,
@@ -219,13 +226,6 @@
       "run_number": 32
     },
     {
-      "mvp": "Mamoswine",
-      "racer_name": "Paddy",
-      "mvp_kos": 15,
-      "cost": 2200,
-      "run_number": 29
-    },
-    {
       "mvp": "Blaziken",
       "racer_name": "Ely",
       "mvp_kos": 15,
@@ -233,29 +233,29 @@
       "run_number": 30
     },
     {
-      "mvp": "Primarina",
-      "racer_name": "Ely",
-      "mvp_kos": 14,
-      "cost": 3600,
-      "run_number": 37
-    },
-    {
       "mvp": "Mantine",
       "racer_name": "Ely",
       "mvp_kos": 14,
       "cost": 2300,
       "run_number": 32
+    },
+    {
+      "mvp": "Starmie",
+      "racer_name": "Ely",
+      "mvp_kos": 14,
+      "cost": 3100,
+      "run_number": 43
     }
   ],
   "most_wins": [
     {
       "racer_name": "Ely",
-      "game_wins": 8,
-      "run_wins": 13
+      "game_wins": 9,
+      "run_wins": 14
     },
     {
       "racer_name": "Jackson",
-      "game_wins": 4,
+      "game_wins": 5,
       "run_wins": 13
     },
     {

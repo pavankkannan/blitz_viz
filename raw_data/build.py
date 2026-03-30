@@ -288,7 +288,7 @@ def buildLeaderboards():
         LEFT JOIN pok ON races.mvp = pok.name
         LEFT JOIN auctions ON pok.base_evo = auctions.pokemon AND races.run_id = auctions.run_id
         WHERE mvp IS NOT NULL
-        ORDER BY mvp_kos DESC
+        ORDER BY mvp_kos DESC, cost ASC
         LIMIT 10;
     """
 

@@ -71,6 +71,14 @@
       "pick_num": 33,
       "num_picks": 40,
       "run_id": "2026_03_27_r1"
+    },
+    {
+      "run_number": 43,
+      "cost": 1900,
+      "drafted_by": "Christian",
+      "pick_num": 31,
+      "num_picks": 48,
+      "run_id": "2026_03_29_r1"
     }
   ],
   "result_over_runs": [
@@ -145,6 +153,14 @@
       "placement": 5,
       "result": "Norman",
       "num_racers": 5
+    },
+    {
+      "run_number": 43,
+      "result_order": 6,
+      "drafted_by": "Christian",
+      "placement": 5,
+      "result": "Brawly",
+      "num_racers": 6
     }
   ],
   "draft_buckets_2": [
@@ -183,6 +199,10 @@
     {
       "buckets_2": 1.0,
       "cost": 3000
+    },
+    {
+      "buckets_2": 1.0,
+      "cost": 1900
     }
   ],
   "draft_buckets_4": [
@@ -221,6 +241,10 @@
     {
       "buckets_4": 3.0,
       "cost": 3000
+    },
+    {
+      "buckets_4": 2.0,
+      "cost": 1900
     }
   ]
 }
