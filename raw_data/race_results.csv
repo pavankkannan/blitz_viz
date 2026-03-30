@@ -207,3 +207,9 @@ run_id,run_number,racer_name,placement,result,result_order,time,start_money,end_
 2026_03_27_r1,42,Pavan,3,Tate & Liza,8,,20000,1600,Sylveon,1,,8.31,40,5,,,,,
 2026_03_27_r1,42,Primo,4,Brawly,6,,20000,0,Vaporeon,4,,8.31,40,5,,,,,
 2026_03_27_r1,42,Christian,5,Norman,5,,20000,500,Umbreon,3,,8.31,40,5,,,,,
+2026_03_29_r1,43,Ely,1,Steven,14,1:48:44,20000,0,Espeon,1,019d3c2d-bc2c-7773-af05-c4519dff5033,8.4,48,6,,"Spenser,Phoebe,Tucker,Drake,Steven,Win","Gogoat,Starmie,Bewear,Scizor,Coalossal,Centiskorch",Starmie,14
+2026_03_29_r1,43,Jackson,2,Steven,14,2:40:31,20000,0,Vaporeon,2,019d3c2d-bc2c-7773-af05-c4519dff5033,8.4,48,6,,"Spenser,Lucy,Tucker,Drake,Steven,Win","Vaporeon,Arboliva,Mudsdale,Charizard,Araquanid",Araquanid,14
+2026_03_29_r1,43,Pavan,3,Drake,12,,20000,1600,Jolteon,3,019d3c2d-bc2c-7773-af05-c4519dff5033,8.4,48,6,,"Spenser,Lucy,Tucker,Drake,Loss",,,
+2026_03_29_r1,43,Primo,4,Norman,7,,20000,0,,,019d3c2d-bc2c-7773-af05-c4519dff5033,8.4,48,6,,,,,
+2026_03_29_r1,43,Christian,5,Brawly,6,,20000,0,,,019d3c2d-bc2c-7773-af05-c4519dff5033,8.4,48,6,,,,,
+2026_03_29_r1,43,Paddy,6,Norman,3,,20000,0,,,019d3c2d-bc2c-7773-af05-c4519dff5033,8.4,48,6,,,,,
